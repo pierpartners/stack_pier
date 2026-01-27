@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# Data
+n8n_workflows_export/
+n8n_data.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+supabase_export_tables/
+bigquery_export_tables.py
+json2daw.py
+key.json 
+n8n_conversor.py
+n8n_export_workflows copy.py
+n8n-dependency-visualizer copy.html
+n8n.drawio
+notion_export_tables.py
+prompt.txt
+supabase_export_tables.py
