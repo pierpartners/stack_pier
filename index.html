@@ -479,6 +479,21 @@
                 .attr('width', width)
                 .attr('height', height);
 
+            // Add arrow marker
+            svg.append('defs').append('marker')
+                .attr('id', 'arrow')
+                .attr('viewBox', '0 -5 10 10')
+                .attr('refX', 20) // Shift arrow a bit so it's not hidden by node
+                .attr('refY', 0)
+                .attr('markerWidth', 6)
+                .attr('markerHeight', 6)
+                .attr('orient', 'auto')
+                .append('path')
+                .attr('d', 'M0,-5L10,0L0,5')
+                .attr('fill', '#999');
+
+            console.log('Graph initialized with dims:', width, height);
+
             g = svg.append('g');
 
             const zoom = d3.zoom()
@@ -932,6 +947,13 @@
         }
 
         function renderGraph() {
+            console.log('Rendering graph with:', graphData.nodes.length, 'nodes and', graphData.links.length, 'links');
+
+            if (graphData.nodes.length === 0) {
+                console.warn('No nodes to render');
+                return;
+            }
+
             g.selectAll('*').remove();
 
             const link = g.append('g')
@@ -939,7 +961,7 @@
                 .data(graphData.links)
                 .enter().append('path')
                 .attr('class', 'link')
-                .attr('marker-end', 'url(#arrow)'); // Removed arrow definition in HTML? Not there previously.
+                .attr('marker-end', 'url(#arrow)');
 
             const node = g.append('g')
                 .selectAll('g')
