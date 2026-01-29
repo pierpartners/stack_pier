@@ -498,7 +498,8 @@
             bigquery: false,
             microsoft: false,
             google: false,
-            openai: false
+            openai: false,
+            other: false
         };
 
         const colorMap = {
@@ -508,7 +509,8 @@
             bigquery: '#4285f4',
             microsoft: '#f9ba48',
             google: '#ff00ff',
-            openai: '#ffffff'
+            openai: '#ffffff',
+            other: '#8b949e'
         };
 
         // Initialize graph
@@ -613,11 +615,31 @@
                     const creds = node.credentials || {};
 
                     // OpenAI
-                    if (nodeType.includes('openai') || nodeType.includes('OpenAi')) {
-                        const modelParam = params.model || params.modelName || 'OpenAI';
+                    if (nodeType.includes('openai') || nodeType.includes('OpenAi') || creds.openAiApi) {
+                        const modelParam = params.model || params.modelName || (creds.openAiApi ? creds.openAiApi.name : null) || 'OpenAI';
                         const sourceId = `openai_${modelParam}`;
                         addNode(nodeMap, sourceId, modelParam, 'openai');
                         rawLinks.push({ source: workflowId, target: sourceId, type: 'uses' });
+
+                        if (creds.openAiApi) {
+                            const credId = `cred_openai_${creds.openAiApi.name || creds.openAiApi.id}`;
+                            addNode(nodeMap, credId, creds.openAiApi.name || 'OpenAI API', 'credential openai');
+                            rawLinks.push({ source: sourceId, target: credId, type: 'auth' });
+                        }
+                    }
+
+                    // Qdrant (Vector Store)
+                    if (nodeType.includes('qdrant') || nodeType.includes('Qdrant') || creds.qdrantRestApi) {
+                        const collection = params.collectionName?.value || params.collectionName || 'Qdrant';
+                        const sourceId = `qdrant_${collection}`;
+                        addNode(nodeMap, sourceId, collection, 'other'); // Categorized as 'other' for now
+                        rawLinks.push({ source: workflowId, target: sourceId, type: 'uses' });
+
+                        if (creds.qdrantRestApi) {
+                            const credId = `cred_qdrant_${creds.qdrantRestApi.name || creds.qdrantRestApi.id}`;
+                            addNode(nodeMap, credId, creds.qdrantRestApi.name || 'Qdrant API', 'credential other');
+                            rawLinks.push({ source: sourceId, target: credId, type: 'auth' });
+                        }
                     }
 
                     // Supabase
