@@ -112,8 +112,13 @@ for w in workflows:
 
 # Salvar bundle completo para o visualizador
 bundle_path = Path(OUT_DIR) / "n8n_data.json"
+root_bundle_path = Path("n8n_data.json")
+
 with open(bundle_path, "w", encoding="utf-8") as f:
     json.dump(all_workflows_data, f, ensure_ascii=False, indent=2, default=str)
 
+with open(root_bundle_path, "w", encoding="utf-8") as f:
+    json.dump(all_workflows_data, f, ensure_ascii=False, indent=2, default=str)
+
 print(f"\nOK. Total: {exported} workflows em '{OUT_DIR}/'")
-print(f"Bundle salvo em: {bundle_path}")
+print(f"Bundle salvo em: {bundle_path} e {root_bundle_path}")

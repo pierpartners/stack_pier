@@ -47,7 +47,7 @@ const colorMap = {
 function initGraph() {
     const container = d3.select('#graph');
     container.selectAll('*').remove(); // Prevent SVG duplication
-    
+
     const width = container.node().getBoundingClientRect().width || 800;
     const height = container.node().getBoundingClientRect().height || 600;
 
@@ -106,7 +106,7 @@ function updateLegend() {
 
         const label = document.createTextNode(
             type === 'workflow' ? 'n8n' :
-            type.charAt(0).toUpperCase() + type.slice(1)
+                type.charAt(0).toUpperCase() + type.slice(1)
         );
 
         item.appendChild(dot);
@@ -161,12 +161,12 @@ function processWorkflows(files) {
 
         // Extract dependencies from internal nodes
         (workflow.nodes || []).forEach(node => {
-            const nodeType = node.type;
+            const nodeType = (node.type || '').toLowerCase();
             const params = node.parameters || {};
             const creds = node.credentials || {};
 
             // OpenAI Extraction
-            if (nodeType.includes('openai') || nodeType.includes('OpenAi') || creds.openAiApi) {
+            if (nodeType.includes('openai') || creds.openAiApi) {
                 const modelName = getVal(params.model || params.modelId || params.modelName || 'OpenAI');
                 const sourceId = `openai_${modelName}`;
                 addNode(nodeMap, sourceId, modelName, 'openai');
@@ -181,7 +181,7 @@ function processWorkflows(files) {
             }
 
             // Qdrant Extraction
-            if (nodeType.includes('qdrant') || nodeType.includes('Qdrant') || creds.qdrantRestApi || creds.qdrantApi) {
+            if (nodeType.includes('qdrant') || creds.qdrantRestApi || creds.qdrantApi) {
                 const qCreds = creds.qdrantRestApi || creds.qdrantApi;
                 const collection = getVal(params.collectionName || params.qdrantCollection || 'Qdrant');
                 const sourceId = `qdrant_${collection}`;
@@ -197,7 +197,7 @@ function processWorkflows(files) {
             }
 
             // Supabase Extraction
-            if (nodeType.includes('supabase') || nodeType.includes('Supabase') || nodeType.includes('vectorStoreSupabase')) {
+            if (nodeType.includes('supabase')) {
                 const tableName = getVal(params.tableName || 'Supabase');
                 if (tableName) {
                     const sourceId = `supabase_${tableName}`;
@@ -214,7 +214,7 @@ function processWorkflows(files) {
             }
 
             // Notion Extraction
-            if (nodeType.includes('notion') || nodeType.includes('Notion')) {
+            if (nodeType.includes('notion')) {
                 const databaseName = getVal(params.databaseId || params.tableName || 'Notion');
                 if (databaseName) {
                     const sourceId = `notion_${databaseName}`;
@@ -231,7 +231,7 @@ function processWorkflows(files) {
             }
 
             // BigQuery Extraction
-            if (nodeType.includes('bigquery') || nodeType.includes('BigQuery')) {
+            if (nodeType.includes('bigquery')) {
                 let tableName = getVal(params.tableId);
                 if (!tableName && params.datasetId && params.tableId) {
                     tableName = `${params.datasetId}.${params.tableId}`;
@@ -250,29 +250,33 @@ function processWorkflows(files) {
                 }
             }
 
-            // SharePoint Extraction
-            if (nodeType.includes('httpRequest') && creds.microsoftSharePointOAuth2Api) {
+            // Microsoft/SharePoint Extraction
+            if (nodeType.includes('microsoft') || (nodeType.includes('httprequest') && creds.microsoftSharePointOAuth2Api)) {
                 const url = params.url || '';
                 const match = url.match(/\/sites\/([^\/]+)/);
-                const siteName = match ? match[1] : 'SharePoint';
-                const sourceId = `microsoft_${siteName}`;
-                addNode(nodeMap, sourceId, siteName, 'microsoft');
+                const name = match ? match[1] : (params.resource === 'message' ? 'Outlook' : 'Microsoft');
+                const sourceId = `microsoft_${name}`;
+                addNode(nodeMap, sourceId, name, 'microsoft');
                 rawLinks.push({ source: workflowId, target: sourceId, type: 'uses' });
 
-                const credId = `cred_microsoft_${creds.microsoftSharePointOAuth2Api.name || creds.microsoftSharePointOAuth2Api.id}`;
-                addNode(nodeMap, credId, getVal(creds.microsoftSharePointOAuth2Api.name) || 'Microsoft SharePoint', 'credential microsoft');
-                rawLinks.push({ source: sourceId, target: credId, type: 'auth' });
+                const mCreds = creds.microsoftSharePointOAuth2Api || creds.microsoftOutlookOAuth2Api;
+                if (mCreds) {
+                    const credId = `cred_microsoft_${mCreds.name || mCreds.id}`;
+                    addNode(nodeMap, credId, getVal(mCreds.name) || 'Microsoft API', 'credential microsoft');
+                    rawLinks.push({ source: sourceId, target: credId, type: 'auth' });
+                }
             }
-
-            // Other entity patterns can be added here...
         });
+
+        // Other entity patterns can be added here...
     });
 
     rawNodes = Array.from(nodeMap.values());
     updateToolsList();
     updateGraphData();
-    setTimeout(resetZoom, 500); 
+    setTimeout(resetZoom, 500);
 }
+
 
 /**
  * Graph Aggregator: Processes rawNodes and rawLinks based on groupState to produce graphData
@@ -401,7 +405,7 @@ function renderGraph() {
         Object.values(groups).forEach(groupNodes => {
             if (groupNodes.length < 2) return;
             let x = 0, y = 0, count = 0;
-            groupNodes.forEach(d => { 
+            groupNodes.forEach(d => {
                 if (!isNaN(d.x) && !isNaN(d.y)) { x += d.x; y += d.y; count++; }
             });
             if (count > 0) {
@@ -483,7 +487,7 @@ function updateToolsList() {
 function highlightTool(toolId, element) {
     document.querySelectorAll('.tool-item').forEach(el => el.classList.remove('selected'));
     element.classList.add('selected');
-    
+
     // Reset visuals
     d3.selectAll('.node').classed('highlighted', false);
     d3.selectAll('.link').classed('highlighted', false);
@@ -527,38 +531,75 @@ function dragended(event, d) { if (!event.active) simulation.alphaTarget(0); d.f
  */
 async function tryAutoLoad() {
     const status = document.getElementById('autoLoadStatus');
-    try {
-        const res = await fetch('n8n_data.json');
-        if (!res.ok) throw new Error();
-        const data = await res.json();
-        if (Array.isArray(data)) {
-            processWorkflows(data);
-            status.textContent = 'Dados carregados automaticamente via GitHub Actions 🚀';
-            status.style.color = '#3fb950';
+    const manual = document.getElementById('manualConnect');
+
+    status.style.display = 'block';
+    status.textContent = 'Tentando carregar dados automáticos...';
+    status.style.color = '#8b949e';
+
+    const paths = ['n8n_data.json', 'n8n_workflows_export/n8n_data.json'];
+
+    for (const path of paths) {
+        try {
+            console.log(`Tentando carregar de: ${path}`);
+            const res = await fetch(path);
+            if (!res.ok) continue;
+
+            const data = await res.json();
+            if (Array.isArray(data)) {
+                processWorkflows(data);
+                status.textContent = `Dados carregados de ${path} 🚀`;
+                status.style.color = '#3fb950';
+                manual.style.display = 'none';
+                return; // Sucesso!
+            }
+        } catch (e) {
+            console.warn(`Falha ao carregar ${path}:`, e);
         }
-    } catch (e) {
-        document.getElementById('manualConnect').style.display = 'block';
-        status.style.display = 'none';
     }
+
+    // Se chegou aqui, falhou em todos os caminhos
+    manual.style.display = 'block';
+    status.style.display = 'none';
 }
 
 async function handleFolderSelect(event) {
     const files = Array.from(event.target.files).filter(f => f.name.endsWith('.json'));
     const status = document.getElementById('autoLoadStatus');
-    status.style.display = 'block'; status.textContent = 'Processando arquivos...';
-    
+
+    if (files.length === 0) {
+        alert('Nenhum arquivo .json encontrado.');
+        return;
+    }
+
+    status.style.display = 'block';
+    status.textContent = `Processando ${files.length} arquivos...`;
+    status.style.color = '#58a6ff';
+
     let workflowData = [];
     for (const file of files) {
         try {
-            const json = JSON.parse(await file.text());
-            Array.isArray(json) ? workflowData.push(...json) : workflowData.push(json);
-        } catch(e) {}
+            const text = await file.text();
+            const json = JSON.parse(text);
+            if (Array.isArray(json)) {
+                workflowData.push(...json);
+            } else {
+                workflowData.push(json);
+            }
+        } catch (e) {
+            console.warn(`Erro ao processar ${file.name}:`, e);
+        }
     }
-    
+
     if (workflowData.length > 0) {
+        console.log(`Processando ${workflowData.length} workflows carregados manualmente.`);
         processWorkflows(workflowData);
         status.textContent = `${workflowData.length} fluxos carregados ✅`;
+        status.style.color = '#3fb950';
         document.getElementById('manualConnect').style.display = 'none';
+    } else {
+        alert('Nenhum workflow válido encontrado nos arquivos selecionados.');
+        status.style.display = 'none';
     }
 }
 
