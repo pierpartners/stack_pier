@@ -145,8 +145,18 @@ const getVal = (v) => {
 };
 
 /**
+ * Internal helper to add a node to the nodeMap if it doesn't exist
+ */
+function addNode(map, id, label, type) {
+    if (!map.has(id)) {
+        map.set(id, { id, label, type });
+    }
+}
+
+/**
  * Data Parser: Converts list of n8n workflow objects into graph nodes and links
  */
+
 function processWorkflows(files) {
     rawNodes = [];
     rawLinks = [];
@@ -272,10 +282,12 @@ function processWorkflows(files) {
     });
 
     rawNodes = Array.from(nodeMap.values());
+
     updateToolsList();
     updateGraphData();
     setTimeout(resetZoom, 500);
 }
+
 
 
 /**
@@ -620,14 +632,41 @@ async function fetchFromApi() {
 }
 
 function exportMarkdown() {
-    let md = `# n8n Dependencies Report\nGenerated: ${new Date().toLocaleString()}\n\n## Stats\n- Workflows: ${rawNodes.filter(n => n.type === 'workflow').length}\n\n`;
-    // Building a simple tree...
-    const workflows = rawNodes.filter(n => n.type === 'workflow');
-    workflows.forEach(wf => {
-        md += `### ${wf.label}\n`;
-        const deps = rawLinks.filter(l => l.source === wf.id).map(l => rawNodes.find(n => n.id === l.target));
-        deps.forEach(d => md += `- ${d.label} (${getGroup(d)})\n`);
-        md += '\n';
+    let md = '# n8n Dependencies Report\n';
+    md += `Generated: ${new Date().toLocaleString()}\n\n`;
+
+    md += '## Stats\n';
+    md += `- Workflows: ${rawNodes.filter(n => n.type === 'workflow').length}\n`;
+    md += `- Data Sources: ${rawNodes.filter(n => getGroup(n) !== 'workflow' && !n.type.includes('credential')).length}\n`;
+    md += `- Credentials: ${rawNodes.filter(n => n.type.includes('credential')).length}\n\n`;
+
+    md += '## Dependencies by Data Source\n\n';
+
+    const sources = rawNodes.filter(n => getGroup(n) !== 'workflow' && !n.type.includes('credential'));
+    const grouped = {};
+    sources.forEach(s => {
+        let type = getGroup(s);
+        if (!grouped[type]) grouped[type] = [];
+        grouped[type].push(s);
+    });
+
+    Object.keys(grouped).sort().forEach(type => {
+        md += `### ${type.charAt(0).toUpperCase() + type.slice(1)}\n\n`;
+        grouped[type].forEach(source => {
+            const deps = rawLinks
+                .filter(l => l.target === source.id)
+                .map(l => rawNodes.find(n => n.id === l.source))
+                .filter(n => n && n.type === 'workflow');
+
+            md += `#### ${source.label}\n`;
+            if (deps.length > 0) {
+                md += `Used by ${deps.length} workflow(s):\n`;
+                deps.forEach(wf => md += `- ${wf.label}\n`);
+            } else {
+                md += `No workflows use this data source.\n`;
+            }
+            md += '\n';
+        });
     });
 
     const blob = new Blob([md], { type: 'text/markdown' });
@@ -636,6 +675,7 @@ function exportMarkdown() {
     a.download = 'n8n-dependencies.md';
     a.click();
 }
+
 
 /* Event Listeners */
 document.getElementById('searchInput')?.addEventListener('input', (e) => {
