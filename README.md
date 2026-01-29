@@ -10,7 +10,7 @@ Visualizador interativo de dependências entre workflows n8n e suas fontes de da
 │  (n8n-visualizer.yml) - Roda diariamente ou manualmente             │
 │                                                                      │
 │  1. Executa n8n_export_workflows.py                                  │
-│  2. Copia HTML + n8n_data.json para /public                         │
+│  2. Copia {index.html, style.css, app.js} + n8n_data.json para /public│
 │  3. Deploy no GitHub Pages                                           │
 └─────────────────────────────────────────────────────────────────────┘
                               │
@@ -27,17 +27,16 @@ Visualizador interativo de dependências entre workflows n8n e suas fontes de da
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│                  n8n-dependency-visualizer.html                      │
+│                  index.html + style.css + app.js                     │
 │                                                                      │
 │  Ao carregar:                                                        │
-│  1. tryAutoLoad() tenta fetch('n8n_data.json')                      │
+│  1. app.js tenta fetch('n8n_data.json')                            │
 │  2. Se encontrar, processa os workflows automaticamente              │
 │  3. Se não encontrar, exibe formulário para conexão manual          │
 │                                                                      │
-│  Processamento (processWorkflows):                                   │
-│  - Extrai nodes de cada workflow                                     │
-│  - Identifica conexões com: Supabase, Notion, BigQuery, etc.        │
-│  - Cria grafo de dependências com D3.js                             │
+│  Estrutura Modular:                                                  │
+│  - style.css: Toda a parte visual e skins do grafo                  │
+│  - app.js: Lógica de processamento e D3.js                          │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,16 +64,14 @@ O workflow `.github/workflows/n8n-visualizer.yml`:
 - **Secrets necessários**: `N8N_BASE_URL`, `N8N_API_KEY`
 - **Resultado**: GitHub Pages com index.html + n8n_data.json
 
-### 3. Visualização (HTML)
-
-O arquivo `n8n-dependency-visualizer.html`:
+O arquivo `index.html` (com lógica em `app.js`):
 
 ```javascript
-// Auto-carregamento (linha ~1096)
+// Auto-carregamento (dentro de app.js)
 async function tryAutoLoad() {
     const response = await fetch('n8n_data.json');
     const data = await response.json();
-    processWorkflows(data);  // Array de workflows
+    processWorkflows(data);
 }
 ```
 
@@ -130,7 +127,7 @@ N8N_API_KEY=sua-api-key
 
 2. Execute o script:
 ```bash
-pip install requests python-dotenv
+pip install -r requirements.txt
 python n8n_export_workflows.py
 ```
 

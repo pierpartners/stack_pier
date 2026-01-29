@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests python-dotenv
+          pip install -r requirements.txt
 
       - name: Export n8n Workflows
         env:
@@ -37,9 +37,11 @@ jobs:
           
       - name: Prepare Deployment
         run: |
-          mkdir public
-          cp n8n-dependency-visualizer.html public/index.html
-          cp n8n_workflows_export/n8n_data.json public/n8n_data.json
+          mkdir -p public
+          cp index.html public/
+          cp style.css public/
+          cp app.js public/
+          cp n8n_data.json public/ || cp n8n_workflows_export/n8n_data.json public/
           
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
