@@ -7,6 +7,7 @@ env/
 
 # Data
 n8n_workflows_export/
+old_files/
 n8n_data.json
 
 # OS
