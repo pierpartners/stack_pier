@@ -32,7 +32,7 @@ Visualizador interativo de dependências entre workflows n8n e suas fontes de da
 │  Ao carregar:                                                        │
 │  1. app.js tenta fetch('n8n_data.json')                            │
 │  2. Se encontrar, processa os workflows automaticamente              │
-│  3. Se não encontrar, exibe formulário para conexão manual          │
+│  3. Se não encontrar, solicita o GitHub PAT para atualizar/gerar     │
 │                                                                      │
 │  Estrutura Modular:                                                  │
 │  - style.css: Toda a parte visual e skins do grafo                  │
@@ -131,7 +131,7 @@ pip install -r requirements.txt
 python n8n_export_workflows.py
 ```
 
-3. Abra `n8n-dependency-visualizer.html` no navegador
+3. Abra `index.html` no navegador
 
 ## Configuração GitHub Actions
 
