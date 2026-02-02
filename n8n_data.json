@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-02-01T01:59:54.454364+00:00",
-    "workflow_count": 25
+    "generated_at": "2026-02-02T01:52:23.354304+00:00",
+    "workflow_count": 26
   },
   "workflows": [
     {
@@ -945,7 +945,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -972,7 +972,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -2785,7 +2785,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2812,7 +2812,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -3838,7 +3838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3865,7 +3865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -4237,7 +4237,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4264,7 +4264,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -4962,7 +4962,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4989,7 +4989,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -6831,7 +6831,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6858,7 +6858,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -8585,7 +8585,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8612,7 +8612,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -9442,7 +9442,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9469,7 +9469,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -12635,7 +12635,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -12662,7 +12662,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -17022,7 +17022,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -17049,7 +17049,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -19179,7 +19179,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19206,7 +19206,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -19981,7 +19981,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20008,7 +20008,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -20796,7 +20796,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20823,7 +20823,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -21838,7 +21838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21865,7 +21865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -22595,7 +22595,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -22622,7 +22622,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -25373,7 +25373,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -25400,7 +25400,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -28090,7 +28090,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28117,7 +28117,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -28988,7 +28988,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29015,7 +29015,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -30949,7 +30949,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30976,7 +30976,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -33035,7 +33035,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -33062,7 +33062,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -34261,7 +34261,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34288,7 +34288,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -34540,7 +34540,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34567,7 +34567,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -34718,7 +34718,7 @@
       }
     },
     {
-      "updatedAt": "2026-01-31T20:08:15.111Z",
+      "updatedAt": "2026-02-01T19:57:28.105Z",
       "createdAt": "2026-01-30T15:01:29.220Z",
       "id": "kf1zouQ_J9VTbQca2l5YA",
       "name": "Chat RodOIL Roberto",
@@ -35539,7 +35539,7 @@
               "assignments": [
                 {
                   "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                  "name": "Resposta",
+                  "name": "output",
                   "value": "={{ $json.Resposta }}",
                   "type": "string"
                 }
@@ -35711,9 +35711,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "9919867b-017c-435a-a465-97ed6f743bc1",
-      "activeVersionId": "9919867b-017c-435a-a465-97ed6f743bc1",
-      "versionCounter": 452,
+      "versionId": "699edab7-5886-4fff-a983-45446ba5b61c",
+      "activeVersionId": "699edab7-5886-4fff-a983-45446ba5b61c",
+      "versionCounter": 455,
       "triggerCount": 1,
       "shared": [
         {
@@ -35738,7 +35738,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -35765,7 +35765,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -35775,9 +35775,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-01-31T20:08:29.240Z",
-        "createdAt": "2026-01-31T20:08:15.116Z",
-        "versionId": "9919867b-017c-435a-a465-97ed6f743bc1",
+        "updatedAt": "2026-02-01T19:57:31.605Z",
+        "createdAt": "2026-02-01T19:57:28.104Z",
+        "versionId": "699edab7-5886-4fff-a983-45446ba5b61c",
         "workflowId": "kf1zouQ_J9VTbQca2l5YA",
         "nodes": [
           {
@@ -36593,7 +36593,7 @@
                 "assignments": [
                   {
                     "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                    "name": "Resposta",
+                    "name": "output",
                     "value": "={{ $json.Resposta }}",
                     "type": "string"
                   }
@@ -36757,15 +36757,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 9919867b",
+        "name": "Version 699edab7",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-01-31T20:08:29.234Z",
-            "id": 290,
+            "createdAt": "2026-02-01T19:57:31.601Z",
+            "id": 292,
             "workflowId": "kf1zouQ_J9VTbQca2l5YA",
-            "versionId": "9919867b-017c-435a-a465-97ed6f743bc1",
+            "versionId": "699edab7-5886-4fff-a983-45446ba5b61c",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -36773,7 +36773,7 @@
       }
     },
     {
-      "updatedAt": "2026-01-31T20:06:53.140Z",
+      "updatedAt": "2026-02-01T19:57:38.427Z",
       "createdAt": "2026-01-30T20:25:09.010Z",
       "id": "VnGLeDWoPD0HKTXd",
       "name": "Chat RodOIL Marley",
@@ -37588,7 +37588,7 @@
               "assignments": [
                 {
                   "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                  "name": "Resposta",
+                  "name": "output",
                   "value": "={{ $json.Resposta }}",
                   "type": "string"
                 }
@@ -37760,9 +37760,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "2bdf6669-881f-429f-96e0-c7295663e951",
-      "activeVersionId": "2bdf6669-881f-429f-96e0-c7295663e951",
-      "versionCounter": 25,
+      "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
+      "activeVersionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
+      "versionCounter": 28,
       "triggerCount": 1,
       "shared": [
         {
@@ -37787,7 +37787,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -37814,7 +37814,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -37824,9 +37824,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-01-31T20:07:00.972Z",
-        "createdAt": "2026-01-31T20:06:53.144Z",
-        "versionId": "2bdf6669-881f-429f-96e0-c7295663e951",
+        "updatedAt": "2026-02-01T19:57:41.566Z",
+        "createdAt": "2026-02-01T19:57:38.430Z",
+        "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
         "workflowId": "VnGLeDWoPD0HKTXd",
         "nodes": [
           {
@@ -38636,7 +38636,7 @@
                 "assignments": [
                   {
                     "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                    "name": "Resposta",
+                    "name": "output",
                     "value": "={{ $json.Resposta }}",
                     "type": "string"
                   }
@@ -38800,15 +38800,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 2bdf6669",
+        "name": "Version 52a99e7c",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-01-31T20:07:00.961Z",
-            "id": 288,
+            "createdAt": "2026-02-01T19:57:41.561Z",
+            "id": 293,
             "workflowId": "VnGLeDWoPD0HKTXd",
-            "versionId": "2bdf6669-881f-429f-96e0-c7295663e951",
+            "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -38816,7 +38816,7 @@
       }
     },
     {
-      "updatedAt": "2026-01-31T20:07:22.594Z",
+      "updatedAt": "2026-02-01T19:56:54.955Z",
       "createdAt": "2026-01-30T20:35:56.705Z",
       "id": "PSVdy4JXbMVojh1G",
       "name": "Chat RodOIL Luciano",
@@ -39631,7 +39631,7 @@
               "assignments": [
                 {
                   "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                  "name": "Resposta",
+                  "name": "output",
                   "value": "={{ $json.Resposta }}",
                   "type": "string"
                 }
@@ -39803,9 +39803,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "713af6bc-a6bf-4293-983f-227d7e8c979b",
-      "activeVersionId": "713af6bc-a6bf-4293-983f-227d7e8c979b",
-      "versionCounter": 34,
+      "versionId": "3956c5e0-036c-4f9c-8213-24fd25332be2",
+      "activeVersionId": "3956c5e0-036c-4f9c-8213-24fd25332be2",
+      "versionCounter": 37,
       "triggerCount": 1,
       "shared": [
         {
@@ -39830,7 +39830,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-01-31T20:00:23.057Z",
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -39857,7 +39857,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-01-31",
+                  "lastActiveAt": "2026-02-01",
                   "isPending": false
                 }
               }
@@ -39867,9 +39867,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-01-31T20:07:25.471Z",
-        "createdAt": "2026-01-31T20:07:22.600Z",
-        "versionId": "713af6bc-a6bf-4293-983f-227d7e8c979b",
+        "updatedAt": "2026-02-01T19:57:09.290Z",
+        "createdAt": "2026-02-01T19:56:54.955Z",
+        "versionId": "3956c5e0-036c-4f9c-8213-24fd25332be2",
         "workflowId": "PSVdy4JXbMVojh1G",
         "nodes": [
           {
@@ -40679,7 +40679,7 @@
                 "assignments": [
                   {
                     "id": "2d567ce3-a8b7-463b-aab1-61585538b6e1",
-                    "name": "Resposta",
+                    "name": "output",
                     "value": "={{ $json.Resposta }}",
                     "type": "string"
                   }
@@ -40843,15 +40843,884 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 713af6bc",
+        "name": "Version 3956c5e0",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-01-31T20:07:25.464Z",
-            "id": 289,
+            "createdAt": "2026-02-01T19:57:09.281Z",
+            "id": 291,
             "workflowId": "PSVdy4JXbMVojh1G",
-            "versionId": "713af6bc-a6bf-4293-983f-227d7e8c979b",
+            "versionId": "3956c5e0-036c-4f9c-8213-24fd25332be2",
+            "event": "activated",
+            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
+          }
+        ]
+      }
+    },
+    {
+      "updatedAt": "2026-02-01T20:37:53.662Z",
+      "createdAt": "2026-02-01T20:10:04.801Z",
+      "id": "8oiVRxamU8Q8FCTdW7wWw",
+      "name": "My workflow 22",
+      "description": null,
+      "active": true,
+      "isArchived": false,
+      "nodes": [
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+          "typeVersion": 1.4,
+          "position": [
+            0,
+            0
+          ],
+          "id": "8cb1ac16-1ec1-406e-8fa5-c6c317f62487",
+          "name": "When chat message received",
+          "webhookId": "36d919b3-0375-4e0f-b0fc-3e04456fe722"
+        },
+        {
+          "parameters": {
+            "options": {
+              "systemMessage": "Você é um agente de vendas da Rodoil. Seu playook é o seguinte:\n1. Identifique o cliente pelo nome\n2. ⁠Veja que preços estamos praticando com ele hoje\n3. ⁠Leia o último pedido feito pelo cliente e peça se ele quer repetir usando os preços de hoje. Mostre como ficaria o pedido\n4. ⁠Valide se pedido fica dentro do limite do cliente. Considere pedidos que não estejam finalizados\n4. ⁠Crie o pedido, mas antes confirme com o cliente se está tudo certo\n\nObs:\n- Você só precisa do primeiro nome do cliente (sem CNPJ, CPF, cidade, etc)\n- Se não localizar nenhum pedido, dê boas vindas e tire o pedido. Mas o cliente deve constar na tabela de preços\n- Você só precisa saber o volume e informar o preço para tirar o pedido\n- É possível que a lista de pedido volte vazia se ainda não foi feito nenhum pedido"
+            }
+          },
+          "type": "@n8n/n8n-nodes-langchain.agent",
+          "typeVersion": 3.1,
+          "position": [
+            208,
+            0
+          ],
+          "id": "72c32b7d-67fa-4128-bed8-5644c132ce06",
+          "name": "AI Agent"
+        },
+        {
+          "parameters": {
+            "model": {
+              "__rl": true,
+              "value": "gpt-5.2-chat-latest",
+              "mode": "list",
+              "cachedResultName": "gpt-5.2-chat-latest"
+            },
+            "builtInTools": {},
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+          "typeVersion": 1.3,
+          "position": [
+            64,
+            208
+          ],
+          "id": "8a9e67c3-63b0-42b0-beb8-4e2e79aa73e2",
+          "name": "OpenAI Chat Model",
+          "credentials": {
+            "openAiApi": {
+              "id": "g3Ikw9hUcV3sNHD2",
+              "name": "OpenAi ppt-interact"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "sessionIdType": "customKey",
+            "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
+            "contextWindowLength": 10
+          },
+          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+          "typeVersion": 1.3,
+          "position": [
+            192,
+            208
+          ],
+          "id": "2178ea12-0fb3-401a-8ae1-f14f4db9a996",
+          "name": "Simple Memory"
+        },
+        {
+          "parameters": {
+            "descriptionType": "manual",
+            "toolDescription": "Cria pedidos. Deve ser informado o preço e volume de ao menos um combustível",
+            "operation": "append",
+            "documentId": {
+              "__rl": true,
+              "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+              "mode": "list",
+              "cachedResultName": "Exemplo Rodoil",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+            },
+            "sheetName": {
+              "__rl": true,
+              "value": "gid=0",
+              "mode": "list",
+              "cachedResultName": "Pedidos",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=0"
+            },
+            "columns": {
+              "mappingMode": "defineBelow",
+              "value": {
+                "Cliente": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Cliente', ``, 'string') }}",
+                "Data": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Data', ``, 'string') }}",
+                "Status": "Em implantação",
+                "Volume Gasolina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Volume_Gasolina', ``, 'string') }}",
+                "Volume Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Volume_Diesel', ``, 'string') }}",
+                "Preço Galosina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pre_o_Galosina', ``, 'string') }}",
+                "Valor Total": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Total', ``, 'string') }}",
+                "Valor Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Diesel', ``, 'string') }}",
+                "Valor Gasolina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Gasolina', ``, 'string') }}",
+                "Preço Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pre_o_Diesel', ``, 'string') }}",
+                "Forma de pagamento": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Forma_de_pagamento', ``, 'string') }}"
+              },
+              "matchingColumns": [],
+              "schema": [
+                {
+                  "id": "Cliente",
+                  "displayName": "Cliente",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Data",
+                  "displayName": "Data",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Status",
+                  "displayName": "Status",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Forma de pagamento",
+                  "displayName": "Forma de pagamento",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true,
+                  "removed": false
+                },
+                {
+                  "id": "Volume Gasolina",
+                  "displayName": "Volume Gasolina",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Volume Diesel",
+                  "displayName": "Volume Diesel",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Preço Galosina",
+                  "displayName": "Preço Galosina",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Preço Diesel",
+                  "displayName": "Preço Diesel",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Valor Gasolina",
+                  "displayName": "Valor Gasolina",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Valor Diesel",
+                  "displayName": "Valor Diesel",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                },
+                {
+                  "id": "Valor Total",
+                  "displayName": "Valor Total",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "type": "string",
+                  "canBeUsedToMatch": true
+                }
+              ],
+              "attemptToConvertTypes": false,
+              "convertFieldsToString": false
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.googleSheetsTool",
+          "typeVersion": 4.7,
+          "position": [
+            416,
+            432
+          ],
+          "id": "8d2954ef-0d37-43b5-8f32-44d4b1a0168e",
+          "name": "Criar pedidos",
+          "credentials": {
+            "googleSheetsOAuth2Api": {
+              "id": "lMFiT7SzuPJCIRBD",
+              "name": "Google Sheets account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "descriptionType": "manual",
+            "toolDescription": "Lista pedidos",
+            "documentId": {
+              "__rl": true,
+              "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+              "mode": "list",
+              "cachedResultName": "Exemplo Rodoil",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+            },
+            "sheetName": {
+              "__rl": true,
+              "value": "gid=0",
+              "mode": "list",
+              "cachedResultName": "Pedidos",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=0"
+            },
+            "filtersUI": {
+              "values": [
+                {
+                  "lookupColumn": "Cliente",
+                  "lookupValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('values0_Value', ``, 'string') }}"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.googleSheetsTool",
+          "typeVersion": 4.7,
+          "position": [
+            416,
+            256
+          ],
+          "id": "1a9bf9f9-6098-44d1-b587-afb309230ced",
+          "name": "Listar pedidos",
+          "credentials": {
+            "googleSheetsOAuth2Api": {
+              "id": "lMFiT7SzuPJCIRBD",
+              "name": "Google Sheets account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "descriptionType": "manual",
+            "toolDescription": "Lista preços e limite de crédito por cliente",
+            "authentication": "serviceAccount",
+            "documentId": {
+              "__rl": true,
+              "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+              "mode": "list",
+              "cachedResultName": "Exemplo Rodoil",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+            },
+            "sheetName": {
+              "__rl": true,
+              "value": 105560877,
+              "mode": "list",
+              "cachedResultName": "Preços e limite de crédito",
+              "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=105560877"
+            },
+            "filtersUI": {
+              "values": [
+                {
+                  "lookupColumn": "Cliente",
+                  "lookupValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('values0_Value', ``, 'string') }}"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.googleSheetsTool",
+          "typeVersion": 4.7,
+          "position": [
+            560,
+            256
+          ],
+          "id": "d823e988-d397-4ae7-b880-d1f817c272c0",
+          "name": "Listar preços e limite por cliente",
+          "credentials": {
+            "googleApi": {
+              "id": "eiIuzHtcptz8Oky1",
+              "name": "Google Sheets account 2"
+            }
+          }
+        }
+      ],
+      "connections": {
+        "When chat message received": {
+          "main": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "OpenAI Chat Model": {
+          "ai_languageModel": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_languageModel",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Simple Memory": {
+          "ai_memory": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_memory",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Listar pedidos": {
+          "ai_tool": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Listar preços e limite por cliente": {
+          "ai_tool": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Criar pedidos": {
+          "ai_tool": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        }
+      },
+      "settings": {
+        "executionOrder": "v1",
+        "availableInMCP": false
+      },
+      "staticData": null,
+      "meta": {
+        "templateCredsSetupCompleted": true
+      },
+      "pinData": {},
+      "versionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
+      "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
+      "versionCounter": 97,
+      "triggerCount": 1,
+      "shared": [
+        {
+          "updatedAt": "2026-02-01T20:10:04.801Z",
+          "createdAt": "2026-02-01T20:10:04.801Z",
+          "role": "workflow:owner",
+          "workflowId": "8oiVRxamU8Q8FCTdW7wWw",
+          "projectId": "RM08XJW2UnVIRsZg",
+          "project": {
+            "updatedAt": "2025-03-17T20:45:29.222Z",
+            "createdAt": "2025-03-17T20:44:07.833Z",
+            "id": "RM08XJW2UnVIRsZg",
+            "name": "sistemas pier <sistemas@pierpartners.com.br>",
+            "type": "personal",
+            "icon": null,
+            "description": null,
+            "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+            "projectRelations": [
+              {
+                "updatedAt": "2025-03-17T20:44:07.833Z",
+                "createdAt": "2025-03-17T20:44:07.833Z",
+                "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                "projectId": "RM08XJW2UnVIRsZg",
+                "user": {
+                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "createdAt": "2025-03-17T20:44:04.376Z",
+                  "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                  "email": "sistemas@pierpartners.com.br",
+                  "firstName": "sistemas",
+                  "lastName": "pier",
+                  "personalizationAnswers": {
+                    "version": "v4",
+                    "personalization_survey_submitted_at": "2025-03-17T20:45:43.316Z",
+                    "personalization_survey_n8n_version": "1.83.2",
+                    "companySize": "20-99",
+                    "companyType": "ecommerce",
+                    "role": "customer-support",
+                    "reportedSource": "podcast"
+                  },
+                  "settings": {
+                    "userActivated": true,
+                    "easyAIWorkflowOnboarded": true,
+                    "firstSuccessfulWorkflowId": "926UQuN4WyOXikAX",
+                    "userActivatedAt": 1742292005575,
+                    "npsSurvey": {
+                      "responded": true,
+                      "lastShownAt": 1762117383584
+                    }
+                  },
+                  "disabled": false,
+                  "mfaEnabled": false,
+                  "lastActiveAt": "2026-02-01",
+                  "isPending": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "tags": [],
+      "activeVersion": {
+        "updatedAt": "2026-02-01T20:38:54.283Z",
+        "createdAt": "2026-02-01T20:37:53.668Z",
+        "versionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
+        "workflowId": "8oiVRxamU8Q8FCTdW7wWw",
+        "nodes": [
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+            "typeVersion": 1.4,
+            "position": [
+              0,
+              0
+            ],
+            "id": "8cb1ac16-1ec1-406e-8fa5-c6c317f62487",
+            "name": "When chat message received",
+            "webhookId": "36d919b3-0375-4e0f-b0fc-3e04456fe722"
+          },
+          {
+            "parameters": {
+              "options": {
+                "systemMessage": "Você é um agente de vendas da Rodoil. Seu playook é o seguinte:\n1. Identifique o cliente pelo nome\n2. ⁠Veja que preços estamos praticando com ele hoje\n3. ⁠Leia o último pedido feito pelo cliente e peça se ele quer repetir usando os preços de hoje. Mostre como ficaria o pedido\n4. ⁠Valide se pedido fica dentro do limite do cliente. Considere pedidos que não estejam finalizados\n4. ⁠Crie o pedido, mas antes confirme com o cliente se está tudo certo\n\nObs:\n- Você só precisa do primeiro nome do cliente (sem CNPJ, CPF, cidade, etc)\n- Se não localizar nenhum pedido, dê boas vindas e tire o pedido. Mas o cliente deve constar na tabela de preços\n- Você só precisa saber o volume e informar o preço para tirar o pedido\n- É possível que a lista de pedido volte vazia se ainda não foi feito nenhum pedido"
+              }
+            },
+            "type": "@n8n/n8n-nodes-langchain.agent",
+            "typeVersion": 3.1,
+            "position": [
+              208,
+              0
+            ],
+            "id": "72c32b7d-67fa-4128-bed8-5644c132ce06",
+            "name": "AI Agent"
+          },
+          {
+            "parameters": {
+              "model": {
+                "__rl": true,
+                "value": "gpt-5.2-chat-latest",
+                "mode": "list",
+                "cachedResultName": "gpt-5.2-chat-latest"
+              },
+              "builtInTools": {},
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+            "typeVersion": 1.3,
+            "position": [
+              64,
+              208
+            ],
+            "id": "8a9e67c3-63b0-42b0-beb8-4e2e79aa73e2",
+            "name": "OpenAI Chat Model",
+            "credentials": {
+              "openAiApi": {
+                "id": "g3Ikw9hUcV3sNHD2",
+                "name": "OpenAi ppt-interact"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "sessionIdType": "customKey",
+              "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
+              "contextWindowLength": 10
+            },
+            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+            "typeVersion": 1.3,
+            "position": [
+              192,
+              208
+            ],
+            "id": "2178ea12-0fb3-401a-8ae1-f14f4db9a996",
+            "name": "Simple Memory"
+          },
+          {
+            "parameters": {
+              "descriptionType": "manual",
+              "toolDescription": "Cria pedidos. Deve ser informado o preço e volume de ao menos um combustível",
+              "operation": "append",
+              "documentId": {
+                "__rl": true,
+                "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+                "mode": "list",
+                "cachedResultName": "Exemplo Rodoil",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+              },
+              "sheetName": {
+                "__rl": true,
+                "value": "gid=0",
+                "mode": "list",
+                "cachedResultName": "Pedidos",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=0"
+              },
+              "columns": {
+                "mappingMode": "defineBelow",
+                "value": {
+                  "Cliente": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Cliente', ``, 'string') }}",
+                  "Data": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Data', ``, 'string') }}",
+                  "Status": "Em implantação",
+                  "Volume Gasolina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Volume_Gasolina', ``, 'string') }}",
+                  "Volume Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Volume_Diesel', ``, 'string') }}",
+                  "Preço Galosina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pre_o_Galosina', ``, 'string') }}",
+                  "Valor Total": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Total', ``, 'string') }}",
+                  "Valor Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Diesel', ``, 'string') }}",
+                  "Valor Gasolina": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Valor_Gasolina', ``, 'string') }}",
+                  "Preço Diesel": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pre_o_Diesel', ``, 'string') }}",
+                  "Forma de pagamento": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Forma_de_pagamento', ``, 'string') }}"
+                },
+                "matchingColumns": [],
+                "schema": [
+                  {
+                    "id": "Cliente",
+                    "displayName": "Cliente",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Data",
+                    "displayName": "Data",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Status",
+                    "displayName": "Status",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Forma de pagamento",
+                    "displayName": "Forma de pagamento",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true,
+                    "removed": false
+                  },
+                  {
+                    "id": "Volume Gasolina",
+                    "displayName": "Volume Gasolina",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Volume Diesel",
+                    "displayName": "Volume Diesel",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Preço Galosina",
+                    "displayName": "Preço Galosina",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Preço Diesel",
+                    "displayName": "Preço Diesel",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Valor Gasolina",
+                    "displayName": "Valor Gasolina",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Valor Diesel",
+                    "displayName": "Valor Diesel",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  },
+                  {
+                    "id": "Valor Total",
+                    "displayName": "Valor Total",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "type": "string",
+                    "canBeUsedToMatch": true
+                  }
+                ],
+                "attemptToConvertTypes": false,
+                "convertFieldsToString": false
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.googleSheetsTool",
+            "typeVersion": 4.7,
+            "position": [
+              416,
+              432
+            ],
+            "id": "8d2954ef-0d37-43b5-8f32-44d4b1a0168e",
+            "name": "Criar pedidos",
+            "credentials": {
+              "googleSheetsOAuth2Api": {
+                "id": "lMFiT7SzuPJCIRBD",
+                "name": "Google Sheets account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "descriptionType": "manual",
+              "toolDescription": "Lista pedidos",
+              "documentId": {
+                "__rl": true,
+                "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+                "mode": "list",
+                "cachedResultName": "Exemplo Rodoil",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+              },
+              "sheetName": {
+                "__rl": true,
+                "value": "gid=0",
+                "mode": "list",
+                "cachedResultName": "Pedidos",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=0"
+              },
+              "filtersUI": {
+                "values": [
+                  {
+                    "lookupColumn": "Cliente",
+                    "lookupValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('values0_Value', ``, 'string') }}"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.googleSheetsTool",
+            "typeVersion": 4.7,
+            "position": [
+              416,
+              256
+            ],
+            "id": "1a9bf9f9-6098-44d1-b587-afb309230ced",
+            "name": "Listar pedidos",
+            "credentials": {
+              "googleSheetsOAuth2Api": {
+                "id": "lMFiT7SzuPJCIRBD",
+                "name": "Google Sheets account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "descriptionType": "manual",
+              "toolDescription": "Lista preços e limite de crédito por cliente",
+              "authentication": "serviceAccount",
+              "documentId": {
+                "__rl": true,
+                "value": "14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris",
+                "mode": "list",
+                "cachedResultName": "Exemplo Rodoil",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit?usp=drivesdk"
+              },
+              "sheetName": {
+                "__rl": true,
+                "value": 105560877,
+                "mode": "list",
+                "cachedResultName": "Preços e limite de crédito",
+                "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14blEQdOzCXfM_nl_P4O5JWjXi3BSZPanLjEQTJ33ris/edit#gid=105560877"
+              },
+              "filtersUI": {
+                "values": [
+                  {
+                    "lookupColumn": "Cliente",
+                    "lookupValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('values0_Value', ``, 'string') }}"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.googleSheetsTool",
+            "typeVersion": 4.7,
+            "position": [
+              560,
+              256
+            ],
+            "id": "d823e988-d397-4ae7-b880-d1f817c272c0",
+            "name": "Listar preços e limite por cliente",
+            "credentials": {
+              "googleApi": {
+                "id": "eiIuzHtcptz8Oky1",
+                "name": "Google Sheets account 2"
+              }
+            }
+          }
+        ],
+        "connections": {
+          "When chat message received": {
+            "main": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "OpenAI Chat Model": {
+            "ai_languageModel": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_languageModel",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Simple Memory": {
+            "ai_memory": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_memory",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Listar pedidos": {
+            "ai_tool": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Listar preços e limite por cliente": {
+            "ai_tool": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Criar pedidos": {
+            "ai_tool": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          }
+        },
+        "authors": "sistemas pier",
+        "name": "Version 6f920e06",
+        "description": "",
+        "autosaved": true,
+        "workflowPublishHistory": [
+          {
+            "createdAt": "2026-02-01T20:38:54.256Z",
+            "id": 296,
+            "workflowId": "8oiVRxamU8Q8FCTdW7wWw",
+            "versionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
