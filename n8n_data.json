@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-02T01:52:23.354304+00:00",
+    "generated_at": "2026-02-02T11:58:35.100593+00:00",
     "workflow_count": 26
   },
   "workflows": [
@@ -945,7 +945,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -972,7 +972,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -2785,7 +2785,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2812,7 +2812,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -3838,7 +3838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3865,7 +3865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -4237,7 +4237,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4264,7 +4264,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -4962,7 +4962,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4989,7 +4989,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -6831,7 +6831,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6858,7 +6858,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -8585,7 +8585,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8612,7 +8612,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -9442,7 +9442,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9469,7 +9469,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -12635,7 +12635,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -12662,7 +12662,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -17022,7 +17022,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -17049,7 +17049,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -19179,7 +19179,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19206,7 +19206,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -19981,7 +19981,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20008,7 +20008,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -20796,7 +20796,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20823,7 +20823,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -21838,7 +21838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21865,7 +21865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -22595,7 +22595,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -22622,7 +22622,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -25373,7 +25373,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -25400,7 +25400,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -28090,7 +28090,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28117,7 +28117,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -28988,7 +28988,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29015,7 +29015,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -30949,7 +30949,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30976,7 +30976,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -33035,7 +33035,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -33062,7 +33062,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -34261,7 +34261,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34288,7 +34288,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -34540,7 +34540,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34567,7 +34567,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -35738,7 +35738,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -35765,7 +35765,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -36773,7 +36773,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-01T19:57:38.427Z",
+      "updatedAt": "2026-02-02T05:07:52.846Z",
       "createdAt": "2026-01-30T20:25:09.010Z",
       "id": "VnGLeDWoPD0HKTXd",
       "name": "Chat RodOIL Marley",
@@ -36790,7 +36790,7 @@
           "type": "@n8n/n8n-nodes-langchain.chatTrigger",
           "typeVersion": 1.4,
           "position": [
-            80,
+            240,
             0
           ],
           "id": "4c864879-830b-4d44-babd-32c38c19554d",
@@ -36952,8 +36952,8 @@
           "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
           "typeVersion": 1.3,
           "position": [
-            1296,
-            256
+            1216,
+            272
           ],
           "id": "0469ad92-ea35-49d7-8c9b-164c5e77249f",
           "name": "OpenAI Chat Model",
@@ -37576,8 +37576,8 @@
           "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
           "typeVersion": 1.3,
           "position": [
-            1424,
-            256
+            1376,
+            272
           ],
           "id": "73211709-11c6-4579-9c7e-dc110e145a36",
           "name": "Simple Memory"
@@ -37760,9 +37760,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
-      "activeVersionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
-      "versionCounter": 28,
+      "versionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
+      "activeVersionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
+      "versionCounter": 33,
       "triggerCount": 1,
       "shared": [
         {
@@ -37787,7 +37787,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -37814,7 +37814,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -37824,9 +37824,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-01T19:57:41.566Z",
-        "createdAt": "2026-02-01T19:57:38.430Z",
-        "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
+        "updatedAt": "2026-02-02T05:08:00.212Z",
+        "createdAt": "2026-02-02T05:07:52.849Z",
+        "versionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
         "workflowId": "VnGLeDWoPD0HKTXd",
         "nodes": [
           {
@@ -37838,7 +37838,7 @@
             "type": "@n8n/n8n-nodes-langchain.chatTrigger",
             "typeVersion": 1.4,
             "position": [
-              80,
+              240,
               0
             ],
             "id": "4c864879-830b-4d44-babd-32c38c19554d",
@@ -38000,8 +38000,8 @@
             "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
             "typeVersion": 1.3,
             "position": [
-              1296,
-              256
+              1216,
+              272
             ],
             "id": "0469ad92-ea35-49d7-8c9b-164c5e77249f",
             "name": "OpenAI Chat Model",
@@ -38624,8 +38624,8 @@
             "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
             "typeVersion": 1.3,
             "position": [
-              1424,
-              256
+              1376,
+              272
             ],
             "id": "73211709-11c6-4579-9c7e-dc110e145a36",
             "name": "Simple Memory"
@@ -38800,15 +38800,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 52a99e7c",
+        "name": "Version fe7933e8",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-01T19:57:41.561Z",
-            "id": 293,
+            "createdAt": "2026-02-02T05:08:00.203Z",
+            "id": 297,
             "workflowId": "VnGLeDWoPD0HKTXd",
-            "versionId": "52a99e7c-86ee-480a-ab76-f9d6de52543d",
+            "versionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -39830,7 +39830,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -39857,7 +39857,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
@@ -41286,7 +41286,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-01T19:52:38.458Z",
+                  "updatedAt": "2026-02-02T05:05:44.790Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -41313,7 +41313,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-01",
+                  "lastActiveAt": "2026-02-02",
                   "isPending": false
                 }
               }
