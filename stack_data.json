@@ -1,7 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-02-02T12:13:17.104675+00:00",
-    "workflow_count": 26
+    "generated_at": "2026-02-02T12:13:27.574022+00:00",
+    "workflow_count": 26,
+    "table_count": 29,
+    "function_count": 134,
+    "tables_used_by_n8n": 7,
+    "functions_used_by_n8n": 1
   },
   "workflows": [
     {
@@ -41727,5 +41731,960 @@
         ]
       }
     }
-  ]
+  ],
+  "supabase": {
+    "tables": [
+      {
+        "name": "alocacoes_horas",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "capitulos_material_de_apresentacoes",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "custom_agents_pier",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "dados_empresa_ficticia",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "df_slides_to_classify",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "embedding_slides",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "historico_marujo",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_actions",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_clients",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_connections",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_frentes",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_ideas",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_projects",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_sections",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_workstreams",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "leads",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "leads_emails",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "livro_damodaran",
+        "schema": "public",
+        "used_by_n8n": true
+      },
+      {
+        "name": "marujo_messages_chatbot",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "memoria_orquestrador",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "metadata_datalake",
+        "schema": "public",
+        "used_by_n8n": true
+      },
+      {
+        "name": "pessoas",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "projetos",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "projetos_gp",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "projetos_gp_rodrigo",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "reunioes_pinhao",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "transcricao_drops",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "user_activity_chatbot",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "wiki",
+        "schema": "public",
+        "used_by_n8n": true
+      }
+    ],
+    "functions": [
+      {
+        "name": "array_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "array_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "avg",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "avg",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "binary_quantize",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "binary_quantize",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "busca_reunioes_por_id_microsoft",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "buscar_reunioes_por_telefone",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": true
+      },
+      {
+        "name": "cosine_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "cosine_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "cosine_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "execute_sql",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "generate_access_token",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "get_user_by_phone",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_accum",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_add",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_avg",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_cmp",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_combine",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_concat",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_eq",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_ge",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_gt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_l2_squared_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_le",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_lt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_mul",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_ne",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_negative_inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_out",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_recv",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_send",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_spherical_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_sub",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_to_float4",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "halfvec_typmod_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "hamming_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "hnsw_bit_support",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "hnsw_halfvec_support",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "hnsw_sparsevec_support",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "hnswhandler",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "ivfflat_bit_support",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "ivfflat_halfvec_support",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "ivfflathandler",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "jaccard_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l1_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l1_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l1_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_norm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_norm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_normalize",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_normalize",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "l2_normalize",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "list_all_columns",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "list_functions",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "list_tables",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "list_tables_and_columns",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "match_documents_datalake",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "match_documents_livro_damodaran",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "match_documents_wiki",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "match_slides",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "run_query",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_cmp",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_eq",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_ge",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_gt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_l2_squared_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_le",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_lt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_ne",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_negative_inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_out",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_recv",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_send",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_to_vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sparsevec_typmod_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "subvector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "subvector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sum",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "sum",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "update_updated_at",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "update_updated_at_column",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_accum",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_add",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_avg",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_cmp",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_combine",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_concat",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_dims",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_dims",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_eq",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_ge",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_gt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_l2_squared_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_le",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_lt",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_mul",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_ne",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_negative_inner_product",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_norm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_out",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_recv",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_send",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_spherical_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_sub",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_to_float4",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_to_halfvec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_to_sparsevec",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "vector_typmod_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      }
+    ]
+  }
 }
