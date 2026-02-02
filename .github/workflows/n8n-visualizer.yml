@@ -34,6 +34,20 @@ jobs:
           VERIFY_TLS: "true"
         run: |
           python n8n_export_workflows.py
+
+      - name: Export Supabase Data
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SCHEMAS: "public"
+        run: |
+          python supabase_export_tables.py
+        continue-on-error: true  # Don't fail if Supabase export fails
+
+      - name: Merge Data
+        run: |
+          python merge_data.py
+        continue-on-error: true  # Don't fail if merge fails (fallback to n8n_data.json)
           
       - name: Prepare Deployment
         run: |
@@ -41,7 +55,11 @@ jobs:
           cp index.html public/
           cp style.css public/
           cp app.js public/
-          cp n8n_data.json public/ || cp n8n_workflows_export/n8n_data.json public/
+          # Try stack_data.json first, fallback to n8n_data.json
+          cp stack_data.json public/ 2>/dev/null || cp n8n_data.json public/ || cp n8n_workflows_export/n8n_data.json public/
+          # Also copy individual files if they exist
+          cp n8n_data.json public/ 2>/dev/null || true
+          cp supabase_data.json public/ 2>/dev/null || true
           
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
