@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-02-10T02:05:15.465152+00:00",
-    "workflow_count": 25,
+    "generated_at": "2026-02-11T02:00:59.938401+00:00",
+    "workflow_count": 26,
     "table_count": 29,
     "function_count": 134,
     "tables_used_by_n8n": 7,
@@ -924,7 +924,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 2,
       "shared": [
         {
@@ -949,7 +949,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -976,7 +976,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -2764,7 +2764,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 2,
       "shared": [
         {
@@ -2789,7 +2789,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2816,7 +2816,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -3817,7 +3817,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 0,
       "shared": [
         {
@@ -3842,7 +3842,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3869,7 +3869,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -4216,7 +4216,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 1,
       "shared": [
         {
@@ -4241,7 +4241,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4268,7 +4268,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -4941,7 +4941,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 38,
+      "versionCounter": 40,
       "triggerCount": 3,
       "shared": [
         {
@@ -4966,7 +4966,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4993,7 +4993,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -6810,7 +6810,7 @@
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
-      "versionCounter": 38,
+      "versionCounter": 40,
       "triggerCount": 1,
       "shared": [
         {
@@ -6835,7 +6835,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6862,7 +6862,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -8564,7 +8564,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 1,
       "shared": [
         {
@@ -8589,7 +8589,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8616,7 +8616,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -9421,7 +9421,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 107,
+      "versionCounter": 109,
       "triggerCount": 2,
       "shared": [
         {
@@ -9446,7 +9446,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9473,7 +9473,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -11686,7 +11686,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 250,
+      "versionCounter": 252,
       "triggerCount": 1,
       "shared": [
         {
@@ -11711,7 +11711,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -11738,7 +11738,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -13843,7 +13843,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 1,
       "shared": [
         {
@@ -13868,7 +13868,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -13895,7 +13895,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -14361,6 +14361,3536 @@
       }
     },
     {
+      "updatedAt": "2026-02-10T15:52:36.246Z",
+      "createdAt": "2025-07-23T19:13:20.373Z",
+      "id": "2oauDYUglr1vkbiw",
+      "name": "Pessoas Sharepoint  - Notion - Supabase",
+      "description": "(Atualmente desativado por problemas no id) Mantêm atualizado conforme o azure de pessoas da Píer os dados no database Pessoas do Notion, criando para aqueles que ainda não existem e atualizando os dados em caso de mudança. Possuí tambem no fluxo a atualização diaária dos projetos do notion para o supabase.",
+      "active": true,
+      "isArchived": false,
+      "nodes": [
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "getAll",
+            "databaseId": {
+              "__rl": true,
+              "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+              "mode": "id"
+            },
+            "returnAll": true,
+            "filterType": "manual",
+            "filters": {
+              "conditions": [
+                {
+                  "key": "Telefone|rich_text",
+                  "condition": "is_not_empty"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            352,
+            1200
+          ],
+          "id": "abcd690b-8695-4028-b1d8-f3b50f86deff",
+          "name": "Get many database pages1",
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 2
+              },
+              "conditions": [
+                {
+                  "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                  "leftValue": "={{ $json.mobilePhone }}",
+                  "rightValue": "^\\d+$",
+                  "operator": {
+                    "type": "string",
+                    "operation": "regex"
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.filter",
+          "typeVersion": 2.2,
+          "position": [
+            720,
+            960
+          ],
+          "id": "9a3e4e27-b90f-4d69-ba25-6c7ec5254b59",
+          "name": "Filter2"
+        },
+        {
+          "parameters": {
+            "content": "## Criar pessoa no Notion\n### Com base na condição: está cadastrado no sharepoint, tem telefone e não está com id do notion preenchido (aboutMe)\n**TO-DO: Lidar com deleções**",
+            "height": 736,
+            "width": 1856
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "position": [
+            -208,
+            784
+          ],
+          "typeVersion": 1,
+          "id": "63943969-4846-4a20-a131-82b771b8d817",
+          "name": "Sticky Note"
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "databaseId": {
+              "__rl": true,
+              "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+              "mode": "id"
+            },
+            "title": "={{ $json.displayName }}",
+            "propertiesUi": {
+              "propertyValues": [
+                {
+                  "key": "Email|email",
+                  "emailValue": "={{ $json.mail }}"
+                },
+                {
+                  "key": "Telefone|rich_text",
+                  "textContent": "={{ $json.mobilePhone }}"
+                },
+                {
+                  "key": "Aniversário|date",
+                  "includeTime": false,
+                  "date": "={{ $json.birthday.split(\"T\")[0] }}"
+                },
+                {
+                  "key": "Vertical|select",
+                  "selectValue": "={{ $json.department }}"
+                },
+                {
+                  "key": "Posição|select",
+                  "selectValue": "={{ $json.jobTitle }}"
+                },
+                {
+                  "key": "Nome|title",
+                  "title": "={{ $json.displayName }}"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            1200,
+            1184
+          ],
+          "id": "9f6f4d50-234f-43fc-9036-9b937b2f38f9",
+          "name": "Create a database page",
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "returnAll": true,
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            352,
+            960
+          ],
+          "id": "8e1cc756-b01d-4a0a-9081-537a806dc59f",
+          "name": "Get many users2",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "operation": "get",
+            "user": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "output": "fields",
+            "fields": [
+              "aboutMe",
+              "birthday",
+              "department",
+              "employeeHireDate",
+              "jobTitle",
+              "mail",
+              "mobilePhone",
+              "userPrincipalName",
+              "displayName"
+            ],
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            544,
+            960
+          ],
+          "id": "ca59fd82-032b-41bd-907d-7f814794d992",
+          "name": "Get user1",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "mode": "combine",
+            "advanced": true,
+            "mergeByFields": {
+              "values": [
+                {
+                  "field1": "aboutMe",
+                  "field2": "id"
+                }
+              ]
+            },
+            "joinMode": "keepNonMatches",
+            "outputDataFrom": "input1",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.merge",
+          "typeVersion": 3.2,
+          "position": [
+            992,
+            1184
+          ],
+          "id": "ce220eb1-70e2-4aed-b695-b67a7ca58d83",
+          "name": "Busca não criados no Notion"
+        },
+        {
+          "parameters": {
+            "mode": "combine",
+            "advanced": true,
+            "mergeByFields": {
+              "values": [
+                {
+                  "field1": "aboutMe",
+                  "field2": "id"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.merge",
+          "typeVersion": 3.2,
+          "position": [
+            992,
+            976
+          ],
+          "id": "8ab9de4a-9c98-43d7-a5d0-7d28f359dd87",
+          "name": "Cruza informações"
+        },
+        {
+          "parameters": {
+            "jsCode": "return items.filter(item => {\n  return item.json.mail !== item.json.property_email || item.json.mobilePhone !== item.json.property_telefone || item.json.birthday.split('T')[0] !== item.json.property_anivers_rio.start || \nitem.json.department !== item.json.property_vertical || item.json.jobTitle !== item.json.property_posi_o \n});"
+          },
+          "type": "n8n-nodes-base.code",
+          "typeVersion": 2,
+          "position": [
+            1200,
+            976
+          ],
+          "id": "7f8f07a4-53e3-472a-991e-148133b27324",
+          "name": "Code1"
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 2
+              },
+              "conditions": [
+                {
+                  "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                  "leftValue": "={{ $json.mobilePhone }}",
+                  "rightValue": "^\\d+$",
+                  "operator": {
+                    "type": "string",
+                    "operation": "regex"
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.filter",
+          "typeVersion": 2.2,
+          "position": [
+            560,
+            1680
+          ],
+          "id": "9e61035c-a79b-4b10-b9f0-a2f968a557a6",
+          "name": "Filter"
+        },
+        {
+          "parameters": {
+            "returnAll": true,
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            192,
+            1680
+          ],
+          "id": "1bdfaa48-b1b8-42cd-b13f-564478ca1343",
+          "name": "Get many users3",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "operation": "get",
+            "user": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "output": "fields",
+            "fields": [
+              "aboutMe",
+              "birthday",
+              "department",
+              "employeeHireDate",
+              "jobTitle",
+              "mail",
+              "mobilePhone",
+              "userPrincipalName",
+              "displayName"
+            ],
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            384,
+            1680
+          ],
+          "id": "25a41ff0-3a6d-43de-92ca-be596d74b97e",
+          "name": "Get user",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "assignments": {
+              "assignments": [
+                {
+                  "id": "2c456cda-98f8-4de2-ac43-7836bee70703",
+                  "name": "id_notion",
+                  "value": "={{ $json.aboutMe }}",
+                  "type": "string"
+                },
+                {
+                  "id": "69035d94-c125-4b98-b04c-422011d1d6bd",
+                  "name": "id_microsoft",
+                  "value": "={{ $json.id }}",
+                  "type": "string"
+                },
+                {
+                  "id": "dda09bb9-4e7f-40e0-958d-e14a14a99904",
+                  "name": "nome",
+                  "value": "={{ $json.displayName }}",
+                  "type": "string"
+                },
+                {
+                  "id": "cd42519c-f781-4f3e-9d25-a59b4740ac9e",
+                  "name": "vertical",
+                  "value": "={{ $json.department }}",
+                  "type": "string"
+                },
+                {
+                  "id": "cad1b65e-d1c2-4b17-96ac-ab7fe612e9fa",
+                  "name": "cargo",
+                  "value": "={{ $json.jobTitle }}",
+                  "type": "string"
+                },
+                {
+                  "id": "b8d01a9c-3a7b-4152-94fc-39bd2e6f57bd",
+                  "name": "email",
+                  "value": "={{ $json.mail }}",
+                  "type": "string"
+                },
+                {
+                  "id": "25f2a93e-1389-4d4a-9202-e169e7e36842",
+                  "name": "telefone",
+                  "value": "={{ $json.mobilePhone }}",
+                  "type": "string"
+                },
+                {
+                  "id": "70b8fbee-b5e1-4792-b2d1-ec4a1ff6737d",
+                  "name": "aniversario",
+                  "value": "={{ $json.birthday }}",
+                  "type": "string"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.set",
+          "typeVersion": 3.4,
+          "position": [
+            736,
+            1680
+          ],
+          "id": "ca2eb5c4-2944-4b91-8be3-6e30443f854e",
+          "name": "Edit Fields"
+        },
+        {
+          "parameters": {
+            "operation": "update",
+            "tableId": "pessoas",
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "id_microsoft",
+                  "condition": "eq",
+                  "keyValue": "={{ $json.id_microsoft }}"
+                }
+              ]
+            },
+            "fieldsUi": {
+              "fieldValues": [
+                {
+                  "fieldId": "nome",
+                  "fieldValue": "={{ $('Edit Fields').item.json.nome }}"
+                },
+                {
+                  "fieldId": "email",
+                  "fieldValue": "={{ $('Edit Fields').item.json.email }}"
+                },
+                {
+                  "fieldId": "telefone",
+                  "fieldValue": "={{ $('Edit Fields').item.json.telefone }}"
+                },
+                {
+                  "fieldId": "id_notion",
+                  "fieldValue": "={{ $('Edit Fields').item.json.id_notion }}"
+                },
+                {
+                  "fieldId": "vertical",
+                  "fieldValue": "={{ $('Edit Fields').item.json.vertical }}"
+                },
+                {
+                  "fieldId": "cargo",
+                  "fieldValue": "={{ $('Edit Fields').item.json.cargo }}"
+                },
+                {
+                  "fieldId": "aniversario",
+                  "fieldValue": "={{ $('Edit Fields').item.json.aniversario }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            1536,
+            1968
+          ],
+          "id": "165977a7-a0d1-4796-850a-d4730237a740",
+          "name": "Update a row",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "operation": "get",
+            "tableId": "pessoas",
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "id_microsoft",
+                  "keyValue": "={{ $json.id_microsoft }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            1104,
+            2048
+          ],
+          "id": "55c43ee5-b185-4d13-a2a4-3f5d508b1c2c",
+          "name": "Get a row",
+          "alwaysOutputData": true,
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "n8n-nodes-base.splitInBatches",
+          "typeVersion": 3,
+          "position": [
+            928,
+            1888
+          ],
+          "id": "28795c16-6fb9-4a8c-8362-b195a7be263a",
+          "name": "Loop Over Items1"
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 2
+              },
+              "conditions": [
+                {
+                  "id": "542c1d17-d430-4696-b8ce-4ded78df50cf",
+                  "leftValue": "={{ $json.id }}",
+                  "rightValue": "",
+                  "operator": {
+                    "type": "number",
+                    "operation": "exists",
+                    "singleValue": true
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.if",
+          "typeVersion": 2.2,
+          "position": [
+            1296,
+            2048
+          ],
+          "id": "f6b7789b-b287-4916-8580-c77db7644383",
+          "name": "Exists"
+        },
+        {
+          "parameters": {
+            "tableId": "pessoas",
+            "fieldsUi": {
+              "fieldValues": [
+                {
+                  "fieldId": "nome",
+                  "fieldValue": "={{ $('Edit Fields').item.json.nome }}"
+                },
+                {
+                  "fieldId": "email",
+                  "fieldValue": "={{ $('Edit Fields').item.json.email }}"
+                },
+                {
+                  "fieldId": "telefone",
+                  "fieldValue": "={{ $('Edit Fields').item.json.telefone }}"
+                },
+                {
+                  "fieldId": "id_microsoft",
+                  "fieldValue": "={{ $('Edit Fields').item.json.id_microsoft }}"
+                },
+                {
+                  "fieldId": "id_notion",
+                  "fieldValue": "={{ $('Edit Fields').item.json.id_notion }}"
+                },
+                {
+                  "fieldId": "vertical",
+                  "fieldValue": "={{ $('Edit Fields').item.json.vertical }}"
+                },
+                {
+                  "fieldId": "cargo",
+                  "fieldValue": "={{ $('Edit Fields').item.json.cargo }}"
+                },
+                {
+                  "fieldId": "aniversario",
+                  "fieldValue": "={{ $('Edit Fields').item.json.aniversario }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            1536,
+            2128
+          ],
+          "id": "0a373c7b-ffcc-4fbd-b369-483d350d3b42",
+          "name": "Create a row",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {},
+          "type": "n8n-nodes-base.merge",
+          "typeVersion": 3.2,
+          "position": [
+            1776,
+            2048
+          ],
+          "id": "49ef9de3-e8c7-40dc-b5b9-0314da978e82",
+          "name": "Merge"
+        },
+        {
+          "parameters": {
+            "operation": "update",
+            "user": {
+              "__rl": true,
+              "value": "={{ $('Busca não criados no Notion').item.json.id }}",
+              "mode": "id"
+            },
+            "updateFields": {
+              "aboutMe": "={{ $json.id }}"
+            },
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            1408,
+            1184
+          ],
+          "id": "c1d6795c-a694-4c1a-91bb-16f3751db9a1",
+          "name": "Preenche ID Notion",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "update",
+            "pageId": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "propertiesUi": {
+              "propertyValues": [
+                {
+                  "key": "Aniversário|date",
+                  "includeTime": false,
+                  "date": "={{ $json.birthday.split(\"T\")[0] }}"
+                },
+                {
+                  "key": "Vertical|select",
+                  "selectValue": "={{ $json.department }}"
+                },
+                {
+                  "key": "Posição|select",
+                  "selectValue": "={{ $json.jobTitle }}"
+                },
+                {
+                  "key": "Email|email",
+                  "emailValue": "={{ $json.mail }}"
+                },
+                {
+                  "key": "Telefone|rich_text",
+                  "textContent": "={{ $json.mobilePhone }}"
+                },
+                {
+                  "key": "Nome|title",
+                  "title": "={{ $json.name }}"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            1408,
+            976
+          ],
+          "id": "8e89e35f-59b3-4168-9bf2-a3165d953ac0",
+          "name": "Update a database page",
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "rule": {
+              "interval": [
+                {
+                  "triggerAtHour": 1
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.scheduleTrigger",
+          "typeVersion": 1.2,
+          "position": [
+            -144,
+            1088
+          ],
+          "id": "60eb246f-3201-4ad3-b9b8-0527fbd2bb25",
+          "name": "Schedule Trigger"
+        },
+        {
+          "parameters": {
+            "rule": {
+              "interval": [
+                {
+                  "triggerAtHour": 2
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.scheduleTrigger",
+          "typeVersion": 1.2,
+          "position": [
+            -144,
+            1680
+          ],
+          "id": "4d24cc14-d258-45b6-a187-fb5acbdccb3c",
+          "name": "Schedule Trigger1"
+        },
+        {
+          "parameters": {
+            "content": "## Carrega no Supabase\n### Com base na condição: está cadastrado no sharepoint e tem telefone. Se o id_microsoft já existe no Supabase, faz update. Se não, faz insert.\n**TO-DO: Lidar com deleções**",
+            "height": 736,
+            "width": 2176
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "position": [
+            -208,
+            1568
+          ],
+          "typeVersion": 1,
+          "id": "885c8a3a-100e-4624-ba76-56767239208e",
+          "name": "Sticky Note1"
+        },
+        {
+          "parameters": {
+            "content": "## Carrega projetos no Supabase",
+            "height": 608,
+            "width": 1280
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "position": [
+            -208,
+            2352
+          ],
+          "typeVersion": 1,
+          "id": "d49ab468-94f8-4fc6-9e4a-03863d5270fc",
+          "name": "Sticky Note2"
+        },
+        {
+          "parameters": {
+            "rule": {
+              "interval": [
+                {}
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.scheduleTrigger",
+          "typeVersion": 1.2,
+          "position": [
+            -128,
+            2656
+          ],
+          "id": "0bc9a81b-2a2c-4355-8e3d-a38f64c6d3a7",
+          "name": "Schedule Trigger2"
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "getAll",
+            "databaseId": {
+              "__rl": true,
+              "value": "c2af396cc2a347eca452b2b2bf6b9031",
+              "mode": "id"
+            },
+            "returnAll": true,
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            272,
+            2656
+          ],
+          "id": "4c47cbe8-c76b-4f08-a7bb-acfffb68a8ce",
+          "name": "Get many database pages",
+          "retryOnFail": true,
+          "waitBetweenTries": 5000,
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "assignments": {
+              "assignments": [
+                {
+                  "id": "54157827-662f-4765-af49-d6525442c4a4",
+                  "name": "id_notion",
+                  "value": "={{ $json.id }}",
+                  "type": "string"
+                },
+                {
+                  "id": "59039e65-9f12-4749-9578-0777f02e9d60",
+                  "name": "projeto",
+                  "value": "={{ $json.name }}",
+                  "type": "string"
+                },
+                {
+                  "id": "99ca1fc0-46a6-47ae-8e91-b3dc9447a5e2",
+                  "name": "empresa",
+                  "value": "={{ $json.property_empresa }}",
+                  "type": "string"
+                },
+                {
+                  "id": "58986c42-930d-4267-b5ed-a708c5f290c8",
+                  "name": "vertical",
+                  "value": "={{ $json.property_vertical }}",
+                  "type": "string"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.set",
+          "typeVersion": 3.4,
+          "position": [
+            448,
+            2656
+          ],
+          "id": "12754d74-38a9-42c0-a12d-b2777652e259",
+          "name": "Edit Fields1"
+        },
+        {
+          "parameters": {
+            "tableId": "projetos",
+            "fieldsUi": {
+              "fieldValues": [
+                {
+                  "fieldId": "projeto",
+                  "fieldValue": "={{ $json.projeto }}"
+                },
+                {
+                  "fieldId": "empresa",
+                  "fieldValue": "={{ $json.empresa }}"
+                },
+                {
+                  "fieldId": "id_notion",
+                  "fieldValue": "={{ $json.id_notion }}"
+                },
+                {
+                  "fieldId": "vertical",
+                  "fieldValue": "={{ $json.vertical }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            896,
+            2720
+          ],
+          "id": "ba5269be-289e-4fc4-bc89-9633aad2aee9",
+          "name": "Create a row1",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "n8n-nodes-base.splitInBatches",
+          "typeVersion": 3,
+          "position": [
+            672,
+            2656
+          ],
+          "id": "a046a5be-f5fe-4f16-baa3-b18d4d8d4ec9",
+          "name": "Loop Over Items"
+        },
+        {
+          "parameters": {
+            "operation": "delete",
+            "tableId": "projetos",
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "id",
+                  "condition": "gt",
+                  "keyValue": "0"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            96,
+            2512
+          ],
+          "id": "b0ef7ea4-55ec-4c9e-bfc5-d64d7eb372a0",
+          "name": "Delete a row",
+          "alwaysOutputData": true,
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "url": "https://graph.microsoft.com/v1.0/me",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "microsoftEntraOAuth2Api",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequest",
+          "typeVersion": 4.2,
+          "position": [
+            64,
+            1088
+          ],
+          "id": "0948043e-fcaf-4d73-81c5-315e3751af3f",
+          "name": "HTTP Request",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "url": "https://graph.microsoft.com/v1.0/me",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "microsoftEntraOAuth2Api",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequest",
+          "typeVersion": 4.2,
+          "position": [
+            16,
+            1680
+          ],
+          "id": "f92c3658-d34c-44d4-9287-24c8723d9cf9",
+          "name": "HTTP Request1",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "getAll",
+            "databaseId": {
+              "__rl": true,
+              "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+              "mode": "id"
+            },
+            "returnAll": true,
+            "filterType": "manual",
+            "filters": {
+              "conditions": [
+                {
+                  "key": "Telefone|rich_text",
+                  "condition": "is_not_empty"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            544,
+            400
+          ],
+          "id": "70980835-ff97-4e22-8bff-25808326e700",
+          "name": "Get many database pages2",
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 2
+              },
+              "conditions": [
+                {
+                  "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                  "leftValue": "={{ $json.aboutMe }}",
+                  "rightValue": "^\\d+$",
+                  "operator": {
+                    "type": "string",
+                    "operation": "notEmpty",
+                    "singleValue": true
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.filter",
+          "typeVersion": 2.2,
+          "position": [
+            720,
+            176
+          ],
+          "id": "960f3b92-714d-4cc7-be99-37b1681422fa",
+          "name": "Filter3"
+        },
+        {
+          "parameters": {
+            "content": "## Ajustar informação user azure\n### Com base na condição: está cadastrado no sharepoint, tem telefone e não está com id do notion preenchido (aboutMe)",
+            "height": 736,
+            "width": 1856
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "position": [
+            -208,
+            0
+          ],
+          "typeVersion": 1,
+          "id": "8b16ae05-1b17-49a9-afef-de41f634036c",
+          "name": "Sticky Note3"
+        },
+        {
+          "parameters": {
+            "returnAll": true,
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            352,
+            176
+          ],
+          "id": "df8aff9b-54c5-4794-b970-43f1af359e96",
+          "name": "Get many users",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "operation": "get",
+            "user": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "output": "fields",
+            "fields": [
+              "aboutMe",
+              "birthday",
+              "department",
+              "employeeHireDate",
+              "jobTitle",
+              "mail",
+              "mobilePhone",
+              "userPrincipalName",
+              "displayName"
+            ],
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            544,
+            176
+          ],
+          "id": "ae590faa-6f1d-4f3b-95e1-42c3fa0c0545",
+          "name": "Get user2",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "mode": "combine",
+            "advanced": true,
+            "mergeByFields": {
+              "values": [
+                {
+                  "field1": "aboutMe",
+                  "field2": "id"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.merge",
+          "typeVersion": 3.2,
+          "position": [
+            976,
+            304
+          ],
+          "id": "4c3c67d5-52d9-4cb3-bda6-c57bb96ac440",
+          "name": "Busca não criados no Notion1"
+        },
+        {
+          "parameters": {
+            "url": "https://graph.microsoft.com/v1.0/me",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "microsoftEntraOAuth2Api",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequest",
+          "typeVersion": 4.2,
+          "position": [
+            64,
+            320
+          ],
+          "id": "5fefa117-07f7-4c89-aec0-2f8e83a45d92",
+          "name": "HTTP Request2",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {},
+          "type": "n8n-nodes-base.manualTrigger",
+          "typeVersion": 1,
+          "position": [
+            -144,
+            320
+          ],
+          "id": "ed37b21a-28f8-47b4-b892-5ece265eab46",
+          "name": "When clicking ‘Execute workflow’"
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 2
+              },
+              "conditions": [
+                {
+                  "id": "45a7bc05-1311-48ea-8995-eb03efed3d0f",
+                  "leftValue": "={{ $json.property_hire_date != null && $json.property_hire_date !== '' }}",
+                  "rightValue": "",
+                  "operator": {
+                    "type": "boolean",
+                    "operation": "true",
+                    "singleValue": true
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.filter",
+          "typeVersion": 2.2,
+          "position": [
+            1184,
+            304
+          ],
+          "id": "d8fad07c-c366-4984-86a0-08f89e6c9a66",
+          "name": "Filter1"
+        },
+        {
+          "parameters": {
+            "operation": "update",
+            "user": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "updateFields": {
+              "employeeHireDate": "={{ new Date($json.property_hire_date.start).toISOString() }}"
+            },
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            1472,
+            416
+          ],
+          "id": "ba4b8e27-ab5c-45f8-9b56-f2dab404150d",
+          "name": "Preenche hiredate",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "operation": "get",
+            "user": {
+              "__rl": true,
+              "value": "={{ $json.id }}",
+              "mode": "id"
+            },
+            "output": "fields",
+            "fields": [
+              "aboutMe",
+              "hireDate"
+            ],
+            "requestOptions": {}
+          },
+          "type": "n8n-nodes-base.microsoftEntra",
+          "typeVersion": 1,
+          "position": [
+            1472,
+            160
+          ],
+          "id": "cfe83718-f37a-4fbd-b49b-b165631332fa",
+          "name": "Get user3",
+          "credentials": {
+            "microsoftEntraOAuth2Api": {
+              "id": "4pvYUwvVLls5URCq",
+              "name": "Microsoft Entra ID (Azure Active Directory) account"
+            }
+          }
+        }
+      ],
+      "connections": {
+        "Get many database pages1": {
+          "main": [
+            [
+              {
+                "node": "Busca não criados no Notion",
+                "type": "main",
+                "index": 1
+              },
+              {
+                "node": "Cruza informações",
+                "type": "main",
+                "index": 1
+              }
+            ]
+          ]
+        },
+        "Filter2": {
+          "main": [
+            [
+              {
+                "node": "Busca não criados no Notion",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Cruza informações",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Create a database page": {
+          "main": [
+            [
+              {
+                "node": "Preenche ID Notion",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many users2": {
+          "main": [
+            [
+              {
+                "node": "Get user1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get user1": {
+          "main": [
+            [
+              {
+                "node": "Filter2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Busca não criados no Notion": {
+          "main": [
+            [
+              {
+                "node": "Create a database page",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Cruza informações": {
+          "main": [
+            [
+              {
+                "node": "Code1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many users3": {
+          "main": [
+            [
+              {
+                "node": "Get user",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get user": {
+          "main": [
+            [
+              {
+                "node": "Filter",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Filter": {
+          "main": [
+            [
+              {
+                "node": "Edit Fields",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Edit Fields": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get a row": {
+          "main": [
+            [
+              {
+                "node": "Exists",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Loop Over Items1": {
+          "main": [
+            [],
+            [
+              {
+                "node": "Get a row",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Exists": {
+          "main": [
+            [
+              {
+                "node": "Update a row",
+                "type": "main",
+                "index": 0
+              }
+            ],
+            [
+              {
+                "node": "Create a row",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Update a row": {
+          "main": [
+            [
+              {
+                "node": "Merge",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Create a row": {
+          "main": [
+            [
+              {
+                "node": "Merge",
+                "type": "main",
+                "index": 1
+              }
+            ]
+          ]
+        },
+        "Merge": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Code1": {
+          "main": [
+            [
+              {
+                "node": "Update a database page",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Schedule Trigger1": {
+          "main": [
+            [
+              {
+                "node": "HTTP Request1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Schedule Trigger": {
+          "main": [
+            [
+              {
+                "node": "HTTP Request",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Schedule Trigger2": {
+          "main": [
+            [
+              {
+                "node": "Delete a row",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Get many database pages",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many database pages": {
+          "main": [
+            [
+              {
+                "node": "Edit Fields1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Edit Fields1": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Loop Over Items": {
+          "main": [
+            [],
+            [
+              {
+                "node": "Create a row1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Create a row1": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Delete a row": {
+          "main": [
+            []
+          ]
+        },
+        "HTTP Request": {
+          "main": [
+            [
+              {
+                "node": "Get many database pages1",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Get many users2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "HTTP Request1": {
+          "main": [
+            [
+              {
+                "node": "Get many users3",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many database pages2": {
+          "main": [
+            [
+              {
+                "node": "Busca não criados no Notion1",
+                "type": "main",
+                "index": 1
+              }
+            ]
+          ]
+        },
+        "Filter3": {
+          "main": [
+            [
+              {
+                "node": "Busca não criados no Notion1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many users": {
+          "main": [
+            [
+              {
+                "node": "Get user2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get user2": {
+          "main": [
+            [
+              {
+                "node": "Filter3",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Busca não criados no Notion1": {
+          "main": [
+            [
+              {
+                "node": "Filter1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "HTTP Request2": {
+          "main": [
+            [
+              {
+                "node": "Get many users",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Get many database pages2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "When clicking ‘Execute workflow’": {
+          "main": [
+            [
+              {
+                "node": "HTTP Request2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Filter1": {
+          "main": [
+            [
+              {
+                "node": "Get user3",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Preenche hiredate",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        }
+      },
+      "settings": {
+        "executionOrder": "v1",
+        "timeSavedMode": "fixed",
+        "callerPolicy": "workflowsFromSameOwner",
+        "availableInMCP": false
+      },
+      "staticData": {
+        "node:Schedule Trigger": {
+          "recurrenceRules": []
+        },
+        "node:Schedule Trigger1": {
+          "recurrenceRules": []
+        },
+        "node:Schedule Trigger2": {
+          "recurrenceRules": []
+        }
+      },
+      "meta": {
+        "templateCredsSetupCompleted": true
+      },
+      "pinData": {},
+      "versionId": "ff69ac6a-dd9d-4171-a20d-bad5aa495ef7",
+      "activeVersionId": "ff69ac6a-dd9d-4171-a20d-bad5aa495ef7",
+      "versionCounter": 86,
+      "triggerCount": 3,
+      "shared": [
+        {
+          "updatedAt": "2025-07-23T19:13:20.373Z",
+          "createdAt": "2025-07-23T19:13:20.373Z",
+          "role": "workflow:owner",
+          "workflowId": "2oauDYUglr1vkbiw",
+          "projectId": "RM08XJW2UnVIRsZg",
+          "project": {
+            "updatedAt": "2025-03-17T20:45:29.222Z",
+            "createdAt": "2025-03-17T20:44:07.833Z",
+            "id": "RM08XJW2UnVIRsZg",
+            "name": "sistemas pier <sistemas@pierpartners.com.br>",
+            "type": "personal",
+            "icon": null,
+            "description": null,
+            "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+            "projectRelations": [
+              {
+                "updatedAt": "2025-03-17T20:44:07.833Z",
+                "createdAt": "2025-03-17T20:44:07.833Z",
+                "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                "projectId": "RM08XJW2UnVIRsZg",
+                "user": {
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
+                  "createdAt": "2025-03-17T20:44:04.376Z",
+                  "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                  "email": "sistemas@pierpartners.com.br",
+                  "firstName": "sistemas",
+                  "lastName": "pier",
+                  "personalizationAnswers": {
+                    "version": "v4",
+                    "personalization_survey_submitted_at": "2025-03-17T20:45:43.316Z",
+                    "personalization_survey_n8n_version": "1.83.2",
+                    "companySize": "20-99",
+                    "companyType": "ecommerce",
+                    "role": "customer-support",
+                    "reportedSource": "podcast"
+                  },
+                  "settings": {
+                    "userActivated": true,
+                    "easyAIWorkflowOnboarded": true,
+                    "firstSuccessfulWorkflowId": "926UQuN4WyOXikAX",
+                    "userActivatedAt": 1742292005575,
+                    "npsSurvey": {
+                      "responded": true,
+                      "lastShownAt": 1762117383584
+                    }
+                  },
+                  "disabled": false,
+                  "mfaEnabled": false,
+                  "lastActiveAt": "2026-02-10",
+                  "isPending": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "tags": [
+        {
+          "updatedAt": "2026-01-11T18:32:09.742Z",
+          "createdAt": "2026-01-11T18:32:09.742Z",
+          "id": "O3mHzZxZJejRksu9",
+          "name": "ETL"
+        },
+        {
+          "updatedAt": "2026-01-11T18:30:50.671Z",
+          "createdAt": "2026-01-11T18:30:50.671Z",
+          "id": "CDV4a4fZOILmvByk",
+          "name": "processos-internos"
+        }
+      ],
+      "activeVersion": {
+        "updatedAt": "2026-02-10T15:54:39.238Z",
+        "createdAt": "2026-02-10T15:52:36.248Z",
+        "versionId": "ff69ac6a-dd9d-4171-a20d-bad5aa495ef7",
+        "workflowId": "2oauDYUglr1vkbiw",
+        "nodes": [
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "getAll",
+              "databaseId": {
+                "__rl": true,
+                "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+                "mode": "id"
+              },
+              "returnAll": true,
+              "filterType": "manual",
+              "filters": {
+                "conditions": [
+                  {
+                    "key": "Telefone|rich_text",
+                    "condition": "is_not_empty"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              352,
+              1200
+            ],
+            "id": "abcd690b-8695-4028-b1d8-f3b50f86deff",
+            "name": "Get many database pages1",
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                    "leftValue": "={{ $json.mobilePhone }}",
+                    "rightValue": "^\\d+$",
+                    "operator": {
+                      "type": "string",
+                      "operation": "regex"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.filter",
+            "typeVersion": 2.2,
+            "position": [
+              720,
+              960
+            ],
+            "id": "9a3e4e27-b90f-4d69-ba25-6c7ec5254b59",
+            "name": "Filter2"
+          },
+          {
+            "parameters": {
+              "content": "## Criar pessoa no Notion\n### Com base na condição: está cadastrado no sharepoint, tem telefone e não está com id do notion preenchido (aboutMe)\n**TO-DO: Lidar com deleções**",
+              "height": 736,
+              "width": 1856
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "position": [
+              -208,
+              784
+            ],
+            "typeVersion": 1,
+            "id": "63943969-4846-4a20-a131-82b771b8d817",
+            "name": "Sticky Note"
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "databaseId": {
+                "__rl": true,
+                "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+                "mode": "id"
+              },
+              "title": "={{ $json.displayName }}",
+              "propertiesUi": {
+                "propertyValues": [
+                  {
+                    "key": "Email|email",
+                    "emailValue": "={{ $json.mail }}"
+                  },
+                  {
+                    "key": "Telefone|rich_text",
+                    "textContent": "={{ $json.mobilePhone }}"
+                  },
+                  {
+                    "key": "Aniversário|date",
+                    "includeTime": false,
+                    "date": "={{ $json.birthday.split(\"T\")[0] }}"
+                  },
+                  {
+                    "key": "Vertical|select",
+                    "selectValue": "={{ $json.department }}"
+                  },
+                  {
+                    "key": "Posição|select",
+                    "selectValue": "={{ $json.jobTitle }}"
+                  },
+                  {
+                    "key": "Nome|title",
+                    "title": "={{ $json.displayName }}"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              1200,
+              1184
+            ],
+            "id": "9f6f4d50-234f-43fc-9036-9b937b2f38f9",
+            "name": "Create a database page",
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "returnAll": true,
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              352,
+              960
+            ],
+            "id": "8e1cc756-b01d-4a0a-9081-537a806dc59f",
+            "name": "Get many users2",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "operation": "get",
+              "user": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "output": "fields",
+              "fields": [
+                "aboutMe",
+                "birthday",
+                "department",
+                "employeeHireDate",
+                "jobTitle",
+                "mail",
+                "mobilePhone",
+                "userPrincipalName",
+                "displayName"
+              ],
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              544,
+              960
+            ],
+            "id": "ca59fd82-032b-41bd-907d-7f814794d992",
+            "name": "Get user1",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "mode": "combine",
+              "advanced": true,
+              "mergeByFields": {
+                "values": [
+                  {
+                    "field1": "aboutMe",
+                    "field2": "id"
+                  }
+                ]
+              },
+              "joinMode": "keepNonMatches",
+              "outputDataFrom": "input1",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.merge",
+            "typeVersion": 3.2,
+            "position": [
+              992,
+              1184
+            ],
+            "id": "ce220eb1-70e2-4aed-b695-b67a7ca58d83",
+            "name": "Busca não criados no Notion"
+          },
+          {
+            "parameters": {
+              "mode": "combine",
+              "advanced": true,
+              "mergeByFields": {
+                "values": [
+                  {
+                    "field1": "aboutMe",
+                    "field2": "id"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.merge",
+            "typeVersion": 3.2,
+            "position": [
+              992,
+              976
+            ],
+            "id": "8ab9de4a-9c98-43d7-a5d0-7d28f359dd87",
+            "name": "Cruza informações"
+          },
+          {
+            "parameters": {
+              "jsCode": "return items.filter(item => {\n  return item.json.mail !== item.json.property_email || item.json.mobilePhone !== item.json.property_telefone || item.json.birthday.split('T')[0] !== item.json.property_anivers_rio.start || \nitem.json.department !== item.json.property_vertical || item.json.jobTitle !== item.json.property_posi_o \n});"
+            },
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+              1200,
+              976
+            ],
+            "id": "7f8f07a4-53e3-472a-991e-148133b27324",
+            "name": "Code1"
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                    "leftValue": "={{ $json.mobilePhone }}",
+                    "rightValue": "^\\d+$",
+                    "operator": {
+                      "type": "string",
+                      "operation": "regex"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.filter",
+            "typeVersion": 2.2,
+            "position": [
+              560,
+              1680
+            ],
+            "id": "9e61035c-a79b-4b10-b9f0-a2f968a557a6",
+            "name": "Filter"
+          },
+          {
+            "parameters": {
+              "returnAll": true,
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              192,
+              1680
+            ],
+            "id": "1bdfaa48-b1b8-42cd-b13f-564478ca1343",
+            "name": "Get many users3",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "operation": "get",
+              "user": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "output": "fields",
+              "fields": [
+                "aboutMe",
+                "birthday",
+                "department",
+                "employeeHireDate",
+                "jobTitle",
+                "mail",
+                "mobilePhone",
+                "userPrincipalName",
+                "displayName"
+              ],
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              384,
+              1680
+            ],
+            "id": "25a41ff0-3a6d-43de-92ca-be596d74b97e",
+            "name": "Get user",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "assignments": {
+                "assignments": [
+                  {
+                    "id": "2c456cda-98f8-4de2-ac43-7836bee70703",
+                    "name": "id_notion",
+                    "value": "={{ $json.aboutMe }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "69035d94-c125-4b98-b04c-422011d1d6bd",
+                    "name": "id_microsoft",
+                    "value": "={{ $json.id }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "dda09bb9-4e7f-40e0-958d-e14a14a99904",
+                    "name": "nome",
+                    "value": "={{ $json.displayName }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "cd42519c-f781-4f3e-9d25-a59b4740ac9e",
+                    "name": "vertical",
+                    "value": "={{ $json.department }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "cad1b65e-d1c2-4b17-96ac-ab7fe612e9fa",
+                    "name": "cargo",
+                    "value": "={{ $json.jobTitle }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "b8d01a9c-3a7b-4152-94fc-39bd2e6f57bd",
+                    "name": "email",
+                    "value": "={{ $json.mail }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "25f2a93e-1389-4d4a-9202-e169e7e36842",
+                    "name": "telefone",
+                    "value": "={{ $json.mobilePhone }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "70b8fbee-b5e1-4792-b2d1-ec4a1ff6737d",
+                    "name": "aniversario",
+                    "value": "={{ $json.birthday }}",
+                    "type": "string"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.set",
+            "typeVersion": 3.4,
+            "position": [
+              736,
+              1680
+            ],
+            "id": "ca2eb5c4-2944-4b91-8be3-6e30443f854e",
+            "name": "Edit Fields"
+          },
+          {
+            "parameters": {
+              "operation": "update",
+              "tableId": "pessoas",
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "id_microsoft",
+                    "condition": "eq",
+                    "keyValue": "={{ $json.id_microsoft }}"
+                  }
+                ]
+              },
+              "fieldsUi": {
+                "fieldValues": [
+                  {
+                    "fieldId": "nome",
+                    "fieldValue": "={{ $('Edit Fields').item.json.nome }}"
+                  },
+                  {
+                    "fieldId": "email",
+                    "fieldValue": "={{ $('Edit Fields').item.json.email }}"
+                  },
+                  {
+                    "fieldId": "telefone",
+                    "fieldValue": "={{ $('Edit Fields').item.json.telefone }}"
+                  },
+                  {
+                    "fieldId": "id_notion",
+                    "fieldValue": "={{ $('Edit Fields').item.json.id_notion }}"
+                  },
+                  {
+                    "fieldId": "vertical",
+                    "fieldValue": "={{ $('Edit Fields').item.json.vertical }}"
+                  },
+                  {
+                    "fieldId": "cargo",
+                    "fieldValue": "={{ $('Edit Fields').item.json.cargo }}"
+                  },
+                  {
+                    "fieldId": "aniversario",
+                    "fieldValue": "={{ $('Edit Fields').item.json.aniversario }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              1536,
+              1968
+            ],
+            "id": "165977a7-a0d1-4796-850a-d4730237a740",
+            "name": "Update a row",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "operation": "get",
+              "tableId": "pessoas",
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "id_microsoft",
+                    "keyValue": "={{ $json.id_microsoft }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              1104,
+              2048
+            ],
+            "id": "55c43ee5-b185-4d13-a2a4-3f5d508b1c2c",
+            "name": "Get a row",
+            "alwaysOutputData": true,
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "n8n-nodes-base.splitInBatches",
+            "typeVersion": 3,
+            "position": [
+              928,
+              1888
+            ],
+            "id": "28795c16-6fb9-4a8c-8362-b195a7be263a",
+            "name": "Loop Over Items1"
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "542c1d17-d430-4696-b8ce-4ded78df50cf",
+                    "leftValue": "={{ $json.id }}",
+                    "rightValue": "",
+                    "operator": {
+                      "type": "number",
+                      "operation": "exists",
+                      "singleValue": true
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.if",
+            "typeVersion": 2.2,
+            "position": [
+              1296,
+              2048
+            ],
+            "id": "f6b7789b-b287-4916-8580-c77db7644383",
+            "name": "Exists"
+          },
+          {
+            "parameters": {
+              "tableId": "pessoas",
+              "fieldsUi": {
+                "fieldValues": [
+                  {
+                    "fieldId": "nome",
+                    "fieldValue": "={{ $('Edit Fields').item.json.nome }}"
+                  },
+                  {
+                    "fieldId": "email",
+                    "fieldValue": "={{ $('Edit Fields').item.json.email }}"
+                  },
+                  {
+                    "fieldId": "telefone",
+                    "fieldValue": "={{ $('Edit Fields').item.json.telefone }}"
+                  },
+                  {
+                    "fieldId": "id_microsoft",
+                    "fieldValue": "={{ $('Edit Fields').item.json.id_microsoft }}"
+                  },
+                  {
+                    "fieldId": "id_notion",
+                    "fieldValue": "={{ $('Edit Fields').item.json.id_notion }}"
+                  },
+                  {
+                    "fieldId": "vertical",
+                    "fieldValue": "={{ $('Edit Fields').item.json.vertical }}"
+                  },
+                  {
+                    "fieldId": "cargo",
+                    "fieldValue": "={{ $('Edit Fields').item.json.cargo }}"
+                  },
+                  {
+                    "fieldId": "aniversario",
+                    "fieldValue": "={{ $('Edit Fields').item.json.aniversario }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              1536,
+              2128
+            ],
+            "id": "0a373c7b-ffcc-4fbd-b369-483d350d3b42",
+            "name": "Create a row",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {},
+            "type": "n8n-nodes-base.merge",
+            "typeVersion": 3.2,
+            "position": [
+              1776,
+              2048
+            ],
+            "id": "49ef9de3-e8c7-40dc-b5b9-0314da978e82",
+            "name": "Merge"
+          },
+          {
+            "parameters": {
+              "operation": "update",
+              "user": {
+                "__rl": true,
+                "value": "={{ $('Busca não criados no Notion').item.json.id }}",
+                "mode": "id"
+              },
+              "updateFields": {
+                "aboutMe": "={{ $json.id }}"
+              },
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              1408,
+              1184
+            ],
+            "id": "c1d6795c-a694-4c1a-91bb-16f3751db9a1",
+            "name": "Preenche ID Notion",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "update",
+              "pageId": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "propertiesUi": {
+                "propertyValues": [
+                  {
+                    "key": "Aniversário|date",
+                    "includeTime": false,
+                    "date": "={{ $json.birthday.split(\"T\")[0] }}"
+                  },
+                  {
+                    "key": "Vertical|select",
+                    "selectValue": "={{ $json.department }}"
+                  },
+                  {
+                    "key": "Posição|select",
+                    "selectValue": "={{ $json.jobTitle }}"
+                  },
+                  {
+                    "key": "Email|email",
+                    "emailValue": "={{ $json.mail }}"
+                  },
+                  {
+                    "key": "Telefone|rich_text",
+                    "textContent": "={{ $json.mobilePhone }}"
+                  },
+                  {
+                    "key": "Nome|title",
+                    "title": "={{ $json.name }}"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              1408,
+              976
+            ],
+            "id": "8e89e35f-59b3-4168-9bf2-a3165d953ac0",
+            "name": "Update a database page",
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "rule": {
+                "interval": [
+                  {
+                    "triggerAtHour": 1
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.scheduleTrigger",
+            "typeVersion": 1.2,
+            "position": [
+              -144,
+              1088
+            ],
+            "id": "60eb246f-3201-4ad3-b9b8-0527fbd2bb25",
+            "name": "Schedule Trigger"
+          },
+          {
+            "parameters": {
+              "rule": {
+                "interval": [
+                  {
+                    "triggerAtHour": 2
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.scheduleTrigger",
+            "typeVersion": 1.2,
+            "position": [
+              -144,
+              1680
+            ],
+            "id": "4d24cc14-d258-45b6-a187-fb5acbdccb3c",
+            "name": "Schedule Trigger1"
+          },
+          {
+            "parameters": {
+              "content": "## Carrega no Supabase\n### Com base na condição: está cadastrado no sharepoint e tem telefone. Se o id_microsoft já existe no Supabase, faz update. Se não, faz insert.\n**TO-DO: Lidar com deleções**",
+              "height": 736,
+              "width": 2176
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "position": [
+              -208,
+              1568
+            ],
+            "typeVersion": 1,
+            "id": "885c8a3a-100e-4624-ba76-56767239208e",
+            "name": "Sticky Note1"
+          },
+          {
+            "parameters": {
+              "content": "## Carrega projetos no Supabase",
+              "height": 608,
+              "width": 1280
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "position": [
+              -208,
+              2352
+            ],
+            "typeVersion": 1,
+            "id": "d49ab468-94f8-4fc6-9e4a-03863d5270fc",
+            "name": "Sticky Note2"
+          },
+          {
+            "parameters": {
+              "rule": {
+                "interval": [
+                  {}
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.scheduleTrigger",
+            "typeVersion": 1.2,
+            "position": [
+              -128,
+              2656
+            ],
+            "id": "0bc9a81b-2a2c-4355-8e3d-a38f64c6d3a7",
+            "name": "Schedule Trigger2"
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "getAll",
+              "databaseId": {
+                "__rl": true,
+                "value": "c2af396cc2a347eca452b2b2bf6b9031",
+                "mode": "id"
+              },
+              "returnAll": true,
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              272,
+              2656
+            ],
+            "id": "4c47cbe8-c76b-4f08-a7bb-acfffb68a8ce",
+            "name": "Get many database pages",
+            "retryOnFail": true,
+            "waitBetweenTries": 5000,
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "assignments": {
+                "assignments": [
+                  {
+                    "id": "54157827-662f-4765-af49-d6525442c4a4",
+                    "name": "id_notion",
+                    "value": "={{ $json.id }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "59039e65-9f12-4749-9578-0777f02e9d60",
+                    "name": "projeto",
+                    "value": "={{ $json.name }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "99ca1fc0-46a6-47ae-8e91-b3dc9447a5e2",
+                    "name": "empresa",
+                    "value": "={{ $json.property_empresa }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "58986c42-930d-4267-b5ed-a708c5f290c8",
+                    "name": "vertical",
+                    "value": "={{ $json.property_vertical }}",
+                    "type": "string"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.set",
+            "typeVersion": 3.4,
+            "position": [
+              448,
+              2656
+            ],
+            "id": "12754d74-38a9-42c0-a12d-b2777652e259",
+            "name": "Edit Fields1"
+          },
+          {
+            "parameters": {
+              "tableId": "projetos",
+              "fieldsUi": {
+                "fieldValues": [
+                  {
+                    "fieldId": "projeto",
+                    "fieldValue": "={{ $json.projeto }}"
+                  },
+                  {
+                    "fieldId": "empresa",
+                    "fieldValue": "={{ $json.empresa }}"
+                  },
+                  {
+                    "fieldId": "id_notion",
+                    "fieldValue": "={{ $json.id_notion }}"
+                  },
+                  {
+                    "fieldId": "vertical",
+                    "fieldValue": "={{ $json.vertical }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              896,
+              2720
+            ],
+            "id": "ba5269be-289e-4fc4-bc89-9633aad2aee9",
+            "name": "Create a row1",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "n8n-nodes-base.splitInBatches",
+            "typeVersion": 3,
+            "position": [
+              672,
+              2656
+            ],
+            "id": "a046a5be-f5fe-4f16-baa3-b18d4d8d4ec9",
+            "name": "Loop Over Items"
+          },
+          {
+            "parameters": {
+              "operation": "delete",
+              "tableId": "projetos",
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "id",
+                    "condition": "gt",
+                    "keyValue": "0"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              96,
+              2512
+            ],
+            "id": "b0ef7ea4-55ec-4c9e-bfc5-d64d7eb372a0",
+            "name": "Delete a row",
+            "alwaysOutputData": true,
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "url": "https://graph.microsoft.com/v1.0/me",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "microsoftEntraOAuth2Api",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequest",
+            "typeVersion": 4.2,
+            "position": [
+              64,
+              1088
+            ],
+            "id": "0948043e-fcaf-4d73-81c5-315e3751af3f",
+            "name": "HTTP Request",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "url": "https://graph.microsoft.com/v1.0/me",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "microsoftEntraOAuth2Api",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequest",
+            "typeVersion": 4.2,
+            "position": [
+              16,
+              1680
+            ],
+            "id": "f92c3658-d34c-44d4-9287-24c8723d9cf9",
+            "name": "HTTP Request1",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "getAll",
+              "databaseId": {
+                "__rl": true,
+                "value": "ad3cdbff851f4ec9981c8ff61d32dd19",
+                "mode": "id"
+              },
+              "returnAll": true,
+              "filterType": "manual",
+              "filters": {
+                "conditions": [
+                  {
+                    "key": "Telefone|rich_text",
+                    "condition": "is_not_empty"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              544,
+              400
+            ],
+            "id": "70980835-ff97-4e22-8bff-25808326e700",
+            "name": "Get many database pages2",
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "3b745feb-e9a5-4d09-9f24-601c419e84e1",
+                    "leftValue": "={{ $json.aboutMe }}",
+                    "rightValue": "^\\d+$",
+                    "operator": {
+                      "type": "string",
+                      "operation": "notEmpty",
+                      "singleValue": true
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.filter",
+            "typeVersion": 2.2,
+            "position": [
+              720,
+              176
+            ],
+            "id": "960f3b92-714d-4cc7-be99-37b1681422fa",
+            "name": "Filter3"
+          },
+          {
+            "parameters": {
+              "content": "## Ajustar informação user azure\n### Com base na condição: está cadastrado no sharepoint, tem telefone e não está com id do notion preenchido (aboutMe)",
+              "height": 736,
+              "width": 1856
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "position": [
+              -208,
+              0
+            ],
+            "typeVersion": 1,
+            "id": "8b16ae05-1b17-49a9-afef-de41f634036c",
+            "name": "Sticky Note3"
+          },
+          {
+            "parameters": {
+              "returnAll": true,
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              352,
+              176
+            ],
+            "id": "df8aff9b-54c5-4794-b970-43f1af359e96",
+            "name": "Get many users",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "operation": "get",
+              "user": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "output": "fields",
+              "fields": [
+                "aboutMe",
+                "birthday",
+                "department",
+                "employeeHireDate",
+                "jobTitle",
+                "mail",
+                "mobilePhone",
+                "userPrincipalName",
+                "displayName"
+              ],
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              544,
+              176
+            ],
+            "id": "ae590faa-6f1d-4f3b-95e1-42c3fa0c0545",
+            "name": "Get user2",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "mode": "combine",
+              "advanced": true,
+              "mergeByFields": {
+                "values": [
+                  {
+                    "field1": "aboutMe",
+                    "field2": "id"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.merge",
+            "typeVersion": 3.2,
+            "position": [
+              976,
+              304
+            ],
+            "id": "4c3c67d5-52d9-4cb3-bda6-c57bb96ac440",
+            "name": "Busca não criados no Notion1"
+          },
+          {
+            "parameters": {
+              "url": "https://graph.microsoft.com/v1.0/me",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "microsoftEntraOAuth2Api",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequest",
+            "typeVersion": 4.2,
+            "position": [
+              64,
+              320
+            ],
+            "id": "5fefa117-07f7-4c89-aec0-2f8e83a45d92",
+            "name": "HTTP Request2",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {},
+            "type": "n8n-nodes-base.manualTrigger",
+            "typeVersion": 1,
+            "position": [
+              -144,
+              320
+            ],
+            "id": "ed37b21a-28f8-47b4-b892-5ece265eab46",
+            "name": "When clicking ‘Execute workflow’"
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "45a7bc05-1311-48ea-8995-eb03efed3d0f",
+                    "leftValue": "={{ $json.property_hire_date != null && $json.property_hire_date !== '' }}",
+                    "rightValue": "",
+                    "operator": {
+                      "type": "boolean",
+                      "operation": "true",
+                      "singleValue": true
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.filter",
+            "typeVersion": 2.2,
+            "position": [
+              1184,
+              304
+            ],
+            "id": "d8fad07c-c366-4984-86a0-08f89e6c9a66",
+            "name": "Filter1"
+          },
+          {
+            "parameters": {
+              "operation": "update",
+              "user": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "updateFields": {
+                "employeeHireDate": "={{ new Date($json.property_hire_date.start).toISOString() }}"
+              },
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              1472,
+              416
+            ],
+            "id": "ba4b8e27-ab5c-45f8-9b56-f2dab404150d",
+            "name": "Preenche hiredate",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "operation": "get",
+              "user": {
+                "__rl": true,
+                "value": "={{ $json.id }}",
+                "mode": "id"
+              },
+              "output": "fields",
+              "fields": [
+                "aboutMe",
+                "hireDate"
+              ],
+              "requestOptions": {}
+            },
+            "type": "n8n-nodes-base.microsoftEntra",
+            "typeVersion": 1,
+            "position": [
+              1472,
+              160
+            ],
+            "id": "cfe83718-f37a-4fbd-b49b-b165631332fa",
+            "name": "Get user3",
+            "credentials": {
+              "microsoftEntraOAuth2Api": {
+                "id": "4pvYUwvVLls5URCq",
+                "name": "Microsoft Entra ID (Azure Active Directory) account"
+              }
+            }
+          }
+        ],
+        "connections": {
+          "Get many database pages1": {
+            "main": [
+              [
+                {
+                  "node": "Busca não criados no Notion",
+                  "type": "main",
+                  "index": 1
+                },
+                {
+                  "node": "Cruza informações",
+                  "type": "main",
+                  "index": 1
+                }
+              ]
+            ]
+          },
+          "Filter2": {
+            "main": [
+              [
+                {
+                  "node": "Busca não criados no Notion",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Cruza informações",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Create a database page": {
+            "main": [
+              [
+                {
+                  "node": "Preenche ID Notion",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many users2": {
+            "main": [
+              [
+                {
+                  "node": "Get user1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get user1": {
+            "main": [
+              [
+                {
+                  "node": "Filter2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Busca não criados no Notion": {
+            "main": [
+              [
+                {
+                  "node": "Create a database page",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Cruza informações": {
+            "main": [
+              [
+                {
+                  "node": "Code1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many users3": {
+            "main": [
+              [
+                {
+                  "node": "Get user",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get user": {
+            "main": [
+              [
+                {
+                  "node": "Filter",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Filter": {
+            "main": [
+              [
+                {
+                  "node": "Edit Fields",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Edit Fields": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get a row": {
+            "main": [
+              [
+                {
+                  "node": "Exists",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Loop Over Items1": {
+            "main": [
+              [],
+              [
+                {
+                  "node": "Get a row",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Exists": {
+            "main": [
+              [
+                {
+                  "node": "Update a row",
+                  "type": "main",
+                  "index": 0
+                }
+              ],
+              [
+                {
+                  "node": "Create a row",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Update a row": {
+            "main": [
+              [
+                {
+                  "node": "Merge",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Create a row": {
+            "main": [
+              [
+                {
+                  "node": "Merge",
+                  "type": "main",
+                  "index": 1
+                }
+              ]
+            ]
+          },
+          "Merge": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Code1": {
+            "main": [
+              [
+                {
+                  "node": "Update a database page",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Schedule Trigger1": {
+            "main": [
+              [
+                {
+                  "node": "HTTP Request1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Schedule Trigger": {
+            "main": [
+              [
+                {
+                  "node": "HTTP Request",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Schedule Trigger2": {
+            "main": [
+              [
+                {
+                  "node": "Delete a row",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Get many database pages",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many database pages": {
+            "main": [
+              [
+                {
+                  "node": "Edit Fields1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Edit Fields1": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Loop Over Items": {
+            "main": [
+              [],
+              [
+                {
+                  "node": "Create a row1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Create a row1": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Delete a row": {
+            "main": [
+              []
+            ]
+          },
+          "HTTP Request": {
+            "main": [
+              [
+                {
+                  "node": "Get many database pages1",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Get many users2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "HTTP Request1": {
+            "main": [
+              [
+                {
+                  "node": "Get many users3",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many database pages2": {
+            "main": [
+              [
+                {
+                  "node": "Busca não criados no Notion1",
+                  "type": "main",
+                  "index": 1
+                }
+              ]
+            ]
+          },
+          "Filter3": {
+            "main": [
+              [
+                {
+                  "node": "Busca não criados no Notion1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many users": {
+            "main": [
+              [
+                {
+                  "node": "Get user2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get user2": {
+            "main": [
+              [
+                {
+                  "node": "Filter3",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Busca não criados no Notion1": {
+            "main": [
+              [
+                {
+                  "node": "Filter1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "HTTP Request2": {
+            "main": [
+              [
+                {
+                  "node": "Get many users",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Get many database pages2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "When clicking ‘Execute workflow’": {
+            "main": [
+              [
+                {
+                  "node": "HTTP Request2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Filter1": {
+            "main": [
+              [
+                {
+                  "node": "Get user3",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Preenche hiredate",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          }
+        },
+        "authors": "sistemas pier",
+        "name": "Version ff69ac6a",
+        "description": "",
+        "autosaved": true,
+        "workflowPublishHistory": [
+          {
+            "createdAt": "2026-02-10T15:54:39.227Z",
+            "id": 323,
+            "workflowId": "2oauDYUglr1vkbiw",
+            "versionId": "ff69ac6a-dd9d-4171-a20d-bad5aa495ef7",
+            "event": "activated",
+            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
+          }
+        ]
+      }
+    },
+    {
       "updatedAt": "2026-01-14T13:38:06.377Z",
       "createdAt": "2025-08-29T19:19:26.579Z",
       "id": "bQ3zvMKLZlxeBW31",
@@ -14645,7 +18175,7 @@
       "pinData": {},
       "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
       "activeVersionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
-      "versionCounter": 39,
+      "versionCounter": 41,
       "triggerCount": 1,
       "shared": [
         {
@@ -14670,7 +18200,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -14697,7 +18227,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -15460,7 +18990,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 41,
+      "versionCounter": 43,
       "triggerCount": 2,
       "shared": [
         {
@@ -15485,7 +19015,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -15512,7 +19042,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -16502,7 +20032,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 40,
+      "versionCounter": 42,
       "triggerCount": 1,
       "shared": [
         {
@@ -16527,7 +20057,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -16554,7 +20084,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -17354,7 +20884,7 @@
       "pinData": {},
       "versionId": "3173e110-87d4-469f-aa74-da6cde8e6313",
       "activeVersionId": "e5ac8c2a-0b45-410f-b19c-267d42ccec76",
-      "versionCounter": 76,
+      "versionCounter": 78,
       "triggerCount": 1,
       "shared": [
         {
@@ -17379,7 +20909,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -17406,7 +20936,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -17705,7 +21235,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-09T21:53:32.062Z",
+      "updatedAt": "2026-02-10T19:40:11.304Z",
       "createdAt": "2025-12-28T16:41:54.247Z",
       "id": "gKNGnV5aOelesPEn",
       "name": "PPT Chat Agent Workflow",
@@ -18185,7 +21715,7 @@
           "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
           "typeVersion": 2.2,
           "position": [
-            1632,
+            1488,
             2832
           ],
           "id": "d979dbd8-69d3-48a7-b7fd-bb761d26bfbc",
@@ -19624,8 +23154,8 @@
           "type": "n8n-nodes-base.supabaseTool",
           "typeVersion": 1,
           "position": [
-            2080,
-            2784
+            1936,
+            2816
           ],
           "id": "e84f986d-3b1d-449f-a990-df8d84540bca",
           "name": "Memória do projeto",
@@ -19786,38 +23316,70 @@
           "parameters": {
             "descriptionType": "manual",
             "toolDescription": "Busca de projeto. Retorna nome, id e outras informações interessantes",
-            "resource": "databasePage",
             "operation": "getAll",
-            "databaseId": {
-              "__rl": true,
-              "value": "c2af396cc2a347eca452b2b2bf6b9031",
-              "mode": "id"
-            },
+            "tableId": "projetos",
             "returnAll": true,
-            "filterType": "manual",
             "filters": {
               "conditions": [
                 {
-                  "key": "Nome|title",
-                  "condition": "contains",
-                  "titleValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Title', `string para busca projeto. estamos usando \"contains\", então basta parte do nome`, 'string') }}"
+                  "keyName": "projeto",
+                  "condition": "ilike",
+                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', `Termo de busca pelo projeto usando cláusula ILIKE. Usar * no lugar de %`, 'string') }}"
                 }
               ]
-            },
-            "options": {}
+            }
           },
-          "type": "n8n-nodes-base.notionTool",
-          "typeVersion": 2.2,
+          "type": "n8n-nodes-base.supabaseTool",
+          "typeVersion": 1,
           "position": [
-            1808,
-            2848
+            1792,
+            2864
           ],
-          "id": "4dc0049d-2730-44c4-8765-5dff762e6bde",
-          "name": "Busca projeto",
+          "id": "f57ec81a-f750-47cd-aaa3-622ea4f7da3f",
+          "name": "Busca Projeto",
           "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "descriptionType": "manual",
+            "toolDescription": "Busca o último evento relacionado ao projeto. Ajuda a entender o que aconteceu por último",
+            "useCustomSchema": true,
+            "schema": "knowledge_base",
+            "operation": "getAll",
+            "tableId": "memorias_projetos_eventos",
+            "returnAll": true,
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "projeto_id",
+                  "condition": "eq",
+                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', ``, 'string') }}"
+                },
+                {
+                  "keyName": "id",
+                  "condition": "eq",
+                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Field_Value', `id do último evento vinculado à memória do projeto`, 'string') }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabaseTool",
+          "typeVersion": 1,
+          "position": [
+            1632,
+            2864
+          ],
+          "id": "946db6ee-1f4e-4428-b502-973a9674c438",
+          "name": "Busca Evento",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
             }
           }
         }
@@ -20627,7 +24189,18 @@
             ]
           ]
         },
-        "Busca projeto": {
+        "Busca Projeto": {
+          "ai_tool": [
+            [
+              {
+                "node": "MCP Server Trigger",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Busca Evento": {
           "ai_tool": [
             [
               {
@@ -20654,9 +24227,9 @@
           "recurrenceRules": []
         },
         "node:Notion Trigger": {
-          "lastTimeChecked": "2026-02-09T23:00:00.000Z",
+          "lastTimeChecked": "2026-02-10T22:00:00.000Z",
           "possibleDuplicates": [
-            "30202cfe-4c0e-80b9-8fca-ec5439eb96e3"
+            "30302cfe-4c0e-80d4-a934-c436fd3d2a8f"
           ]
         }
       },
@@ -20664,9 +24237,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "de679c5c-5d19-4bce-a24b-11191a0c9ff7",
-      "activeVersionId": "de679c5c-5d19-4bce-a24b-11191a0c9ff7",
-      "versionCounter": 1019,
+      "versionId": "644e9848-ec0a-4866-9565-21c0faa62af7",
+      "activeVersionId": "644e9848-ec0a-4866-9565-21c0faa62af7",
+      "versionCounter": 1094,
       "triggerCount": 8,
       "shared": [
         {
@@ -20691,7 +24264,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20718,7 +24291,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -20735,9 +24308,9 @@
         }
       ],
       "activeVersion": {
-        "updatedAt": "2026-02-09T21:53:42.659Z",
-        "createdAt": "2026-02-09T21:53:32.066Z",
-        "versionId": "de679c5c-5d19-4bce-a24b-11191a0c9ff7",
+        "updatedAt": "2026-02-10T19:40:36.676Z",
+        "createdAt": "2026-02-10T19:40:11.301Z",
+        "versionId": "644e9848-ec0a-4866-9565-21c0faa62af7",
         "workflowId": "gKNGnV5aOelesPEn",
         "nodes": [
           {
@@ -21212,7 +24785,7 @@
             "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
             "typeVersion": 2.2,
             "position": [
-              1632,
+              1488,
               2832
             ],
             "id": "d979dbd8-69d3-48a7-b7fd-bb761d26bfbc",
@@ -22651,8 +26224,8 @@
             "type": "n8n-nodes-base.supabaseTool",
             "typeVersion": 1,
             "position": [
-              2080,
-              2784
+              1936,
+              2816
             ],
             "id": "e84f986d-3b1d-449f-a990-df8d84540bca",
             "name": "Memória do projeto",
@@ -22813,38 +26386,70 @@
             "parameters": {
               "descriptionType": "manual",
               "toolDescription": "Busca de projeto. Retorna nome, id e outras informações interessantes",
-              "resource": "databasePage",
               "operation": "getAll",
-              "databaseId": {
-                "__rl": true,
-                "value": "c2af396cc2a347eca452b2b2bf6b9031",
-                "mode": "id"
-              },
+              "tableId": "projetos",
               "returnAll": true,
-              "filterType": "manual",
               "filters": {
                 "conditions": [
                   {
-                    "key": "Nome|title",
-                    "condition": "contains",
-                    "titleValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Title', `string para busca projeto. estamos usando \"contains\", então basta parte do nome`, 'string') }}"
+                    "keyName": "projeto",
+                    "condition": "ilike",
+                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', `Termo de busca pelo projeto usando cláusula ILIKE. Usar * no lugar de %`, 'string') }}"
                   }
                 ]
-              },
-              "options": {}
+              }
             },
-            "type": "n8n-nodes-base.notionTool",
-            "typeVersion": 2.2,
+            "type": "n8n-nodes-base.supabaseTool",
+            "typeVersion": 1,
             "position": [
-              1808,
-              2848
+              1792,
+              2864
             ],
-            "id": "4dc0049d-2730-44c4-8765-5dff762e6bde",
-            "name": "Busca projeto",
+            "id": "f57ec81a-f750-47cd-aaa3-622ea4f7da3f",
+            "name": "Busca Projeto",
             "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "descriptionType": "manual",
+              "toolDescription": "Busca o último evento relacionado ao projeto. Ajuda a entender o que aconteceu por último",
+              "useCustomSchema": true,
+              "schema": "knowledge_base",
+              "operation": "getAll",
+              "tableId": "memorias_projetos_eventos",
+              "returnAll": true,
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "projeto_id",
+                    "condition": "eq",
+                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', ``, 'string') }}"
+                  },
+                  {
+                    "keyName": "id",
+                    "condition": "eq",
+                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Field_Value', `id do último evento vinculado à memória do projeto`, 'string') }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabaseTool",
+            "typeVersion": 1,
+            "position": [
+              1632,
+              2864
+            ],
+            "id": "946db6ee-1f4e-4428-b502-973a9674c438",
+            "name": "Busca Evento",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
               }
             }
           }
@@ -23654,7 +27259,18 @@
               ]
             ]
           },
-          "Busca projeto": {
+          "Busca Projeto": {
+            "ai_tool": [
+              [
+                {
+                  "node": "MCP Server Trigger",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Busca Evento": {
             "ai_tool": [
               [
                 {
@@ -23667,15 +27283,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version de679c5c",
+        "name": "Version 644e9848",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-09T21:53:42.652Z",
-            "id": 322,
+            "createdAt": "2026-02-10T19:40:36.669Z",
+            "id": 326,
             "workflowId": "gKNGnV5aOelesPEn",
-            "versionId": "de679c5c-5d19-4bce-a24b-11191a0c9ff7",
+            "versionId": "644e9848-ec0a-4866-9565-21c0faa62af7",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -23818,7 +27434,7 @@
       },
       "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
       "activeVersionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "versionCounter": 51,
+      "versionCounter": 53,
       "triggerCount": 0,
       "shared": [
         {
@@ -23843,7 +27459,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -23870,7 +27486,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -25328,7 +28944,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 123,
+      "versionCounter": 125,
       "triggerCount": 1,
       "shared": [
         {
@@ -25353,7 +28969,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -25380,7 +28996,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -27414,7 +31030,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 742,
+      "versionCounter": 744,
       "triggerCount": 3,
       "shared": [
         {
@@ -27439,7 +31055,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -27466,7 +31082,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -28640,7 +32256,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 54,
+      "versionCounter": 56,
       "triggerCount": 0,
       "shared": [
         {
@@ -28665,7 +32281,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28692,7 +32308,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -28919,7 +32535,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 34,
+      "versionCounter": 36,
       "triggerCount": 0,
       "shared": [
         {
@@ -28944,7 +32560,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28971,7 +32587,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -30117,7 +33733,7 @@
       "pinData": {},
       "versionId": "756ccaf9-19a0-4fc8-938c-c43c18a72c31",
       "activeVersionId": "699edab7-5886-4fff-a983-45446ba5b61c",
-      "versionCounter": 495,
+      "versionCounter": 497,
       "triggerCount": 1,
       "shared": [
         {
@@ -30142,7 +33758,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30169,7 +33785,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -32166,7 +35782,7 @@
       "pinData": {},
       "versionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
       "activeVersionId": "fe7933e8-99c9-4873-8b68-8cafcbf0bf6d",
-      "versionCounter": 35,
+      "versionCounter": 37,
       "triggerCount": 1,
       "shared": [
         {
@@ -32191,7 +35807,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32218,7 +35834,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -34209,7 +37825,7 @@
       "pinData": {},
       "versionId": "a0cf036c-985c-462e-865d-186a13789e26",
       "activeVersionId": "3956c5e0-036c-4f9c-8213-24fd25332be2",
-      "versionCounter": 48,
+      "versionCounter": 50,
       "triggerCount": 1,
       "shared": [
         {
@@ -34234,7 +37850,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34261,7 +37877,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -35665,7 +39281,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 123,
+      "versionCounter": 125,
       "triggerCount": 1,
       "shared": [
         {
@@ -35690,7 +39306,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -35717,7 +39333,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -36132,10 +39748,10 @@
       }
     },
     {
-      "updatedAt": "2026-02-09T21:33:21.585Z",
+      "updatedAt": "2026-02-10T19:36:08.460Z",
       "createdAt": "2026-02-09T17:02:49.887Z",
       "id": "9RXJ-hlStfYdNxlhDaV_1",
-      "name": "My workflow 23",
+      "name": "Atualizador Memória Projeto",
       "description": null,
       "active": true,
       "isArchived": false,
@@ -36212,6 +39828,7 @@
           ],
           "id": "d2a297ef-5370-4770-a0a4-bd4da67fbc2b",
           "name": "Get a row",
+          "alwaysOutputData": true,
           "credentials": {
             "supabaseApi": {
               "id": "mWLJRM5VD8eNo21x",
@@ -36440,9 +40057,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "c0b8b484-d806-45c5-bf84-22e9ee2368b0",
-      "activeVersionId": "c0b8b484-d806-45c5-bf84-22e9ee2368b0",
-      "versionCounter": 102,
+      "versionId": "e14f4df3-e8b0-438c-a696-5f5132d5c83e",
+      "activeVersionId": "e14f4df3-e8b0-438c-a696-5f5132d5c83e",
+      "versionCounter": 108,
       "triggerCount": 1,
       "shared": [
         {
@@ -36467,7 +40084,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-09T11:29:14.991Z",
+                  "updatedAt": "2026-02-10T17:34:47.243Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -36494,7 +40111,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-09",
+                  "lastActiveAt": "2026-02-10",
                   "isPending": false
                 }
               }
@@ -36504,9 +40121,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-09T21:33:25.864Z",
-        "createdAt": "2026-02-09T21:33:21.588Z",
-        "versionId": "c0b8b484-d806-45c5-bf84-22e9ee2368b0",
+        "updatedAt": "2026-02-10T18:42:50.230Z",
+        "createdAt": "2026-02-10T18:42:45.178Z",
+        "versionId": "e14f4df3-e8b0-438c-a696-5f5132d5c83e",
         "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
         "nodes": [
           {
@@ -36581,6 +40198,7 @@
             ],
             "id": "d2a297ef-5370-4770-a0a4-bd4da67fbc2b",
             "name": "Get a row",
+            "alwaysOutputData": true,
             "credentials": {
               "supabaseApi": {
                 "id": "mWLJRM5VD8eNo21x",
@@ -36801,15 +40419,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version c0b8b484",
+        "name": "Version e14f4df3",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-09T21:33:25.856Z",
-            "id": 315,
+            "createdAt": "2026-02-10T18:42:50.222Z",
+            "id": 325,
             "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
-            "versionId": "c0b8b484-d806-45c5-bf84-22e9ee2368b0",
+            "versionId": "e14f4df3-e8b0-438c-a696-5f5132d5c83e",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
