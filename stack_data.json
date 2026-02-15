@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-02-14T01:46:39.401824+00:00",
+    "generated_at": "2026-02-15T01:56:06.611680+00:00",
     "workflow_count": 23,
     "table_count": 29,
-    "function_count": 134,
-    "tables_used_by_n8n": 8,
-    "functions_used_by_n8n": 1
+    "function_count": 173,
+    "tables_used_by_n8n": 7,
+    "functions_used_by_n8n": 2
   },
   "workflows": [
     {
@@ -924,7 +924,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 2,
       "shared": [
         {
@@ -949,7 +949,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -976,7 +976,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -2764,7 +2764,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 2,
       "shared": [
         {
@@ -2789,7 +2789,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2816,7 +2816,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -3817,7 +3817,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 0,
       "shared": [
         {
@@ -3842,7 +3842,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3869,7 +3869,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -4216,7 +4216,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 1,
       "shared": [
         {
@@ -4241,7 +4241,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4268,7 +4268,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -4941,7 +4941,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 46,
+      "versionCounter": 47,
       "triggerCount": 3,
       "shared": [
         {
@@ -4966,7 +4966,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4993,7 +4993,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -6810,7 +6810,7 @@
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
-      "versionCounter": 46,
+      "versionCounter": 47,
       "triggerCount": 1,
       "shared": [
         {
@@ -6835,7 +6835,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6862,7 +6862,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -8564,7 +8564,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 1,
       "shared": [
         {
@@ -8589,7 +8589,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8616,7 +8616,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -9421,7 +9421,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 115,
+      "versionCounter": 116,
       "triggerCount": 2,
       "shared": [
         {
@@ -9446,7 +9446,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9473,7 +9473,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -11686,7 +11686,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 258,
+      "versionCounter": 259,
       "triggerCount": 1,
       "shared": [
         {
@@ -11711,7 +11711,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -11738,7 +11738,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -13843,7 +13843,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 1,
       "shared": [
         {
@@ -13868,7 +13868,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -13895,7 +13895,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -16093,7 +16093,7 @@
       "pinData": {},
       "versionId": "9334320a-0961-40d0-a621-a25f13d63348",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 103,
+      "versionCounter": 104,
       "triggerCount": 3,
       "shared": [
         {
@@ -16118,7 +16118,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -16145,7 +16145,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -18162,7 +18162,7 @@
       "pinData": {},
       "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
       "activeVersionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
-      "versionCounter": 47,
+      "versionCounter": 48,
       "triggerCount": 1,
       "shared": [
         {
@@ -18187,7 +18187,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -18214,7 +18214,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -18977,7 +18977,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 49,
+      "versionCounter": 50,
       "triggerCount": 2,
       "shared": [
         {
@@ -19002,7 +19002,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19029,7 +19029,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -20019,7 +20019,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 48,
+      "versionCounter": 49,
       "triggerCount": 1,
       "shared": [
         {
@@ -20044,7 +20044,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20071,7 +20071,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -20599,7 +20599,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-13T18:25:52.427Z",
+      "updatedAt": "2026-02-14T22:01:39.320Z",
       "createdAt": "2025-11-03T18:49:50.947Z",
       "id": "lgZV72cGrL5CzAdm",
       "name": "mcp chat pier",
@@ -20829,8 +20829,8 @@
           "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
           "typeVersion": 2.2,
           "position": [
-            -16,
-            912
+            -32,
+            880
           ],
           "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
           "name": "Busca de documentos"
@@ -20855,50 +20855,11 @@
           "type": "n8n-nodes-base.supabaseTool",
           "typeVersion": 1,
           "position": [
-            176,
-            928
+            80,
+            896
           ],
           "id": "3945e879-2d78-4997-8c89-d00a02b19667",
           "name": "Busca projeto",
-          "credentials": {
-            "supabaseApi": {
-              "id": "mWLJRM5VD8eNo21x",
-              "name": "Supabase marujo-pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "descriptionType": "manual",
-            "toolDescription": "Busca o último evento relacionado ao projeto. Ajuda a entender o que aconteceu por último",
-            "useCustomSchema": true,
-            "schema": "knowledge_base",
-            "operation": "getAll",
-            "tableId": "memorias_projetos_eventos",
-            "returnAll": true,
-            "filters": {
-              "conditions": [
-                {
-                  "keyName": "projeto_id",
-                  "condition": "eq",
-                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', ``, 'string') }}"
-                },
-                {
-                  "keyName": "id",
-                  "condition": "eq",
-                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Field_Value', `id do último evento vinculado à memória do projeto`, 'string') }}"
-                }
-              ]
-            }
-          },
-          "type": "n8n-nodes-base.supabaseTool",
-          "typeVersion": 1,
-          "position": [
-            320,
-            928
-          ],
-          "id": "a63a47cb-c255-4a2c-9523-d84f3d0e0a8f",
-          "name": "Busca evento",
           "credentials": {
             "supabaseApi": {
               "id": "mWLJRM5VD8eNo21x",
@@ -20928,8 +20889,8 @@
           "type": "n8n-nodes-base.supabaseTool",
           "typeVersion": 1,
           "position": [
-            480,
-            928
+            208,
+            1088
           ],
           "id": "ba80041f-4340-434d-a24b-e54344eedc25",
           "name": "Memoria do Projeto",
@@ -20985,8 +20946,8 @@
           "type": "n8n-nodes-base.supabaseTool",
           "typeVersion": 1,
           "position": [
-            656,
-            944
+            224,
+            960
           ],
           "id": "8cf2fb27-e888-46e5-9eda-962c61189ae0",
           "name": "Criar novo evento",
@@ -21019,11 +20980,168 @@
           "type": "n8n-nodes-base.supabaseTool",
           "typeVersion": 1,
           "position": [
-            240,
-            1104
+            80,
+            1056
           ],
           "id": "27a94bdf-7888-435d-8eca-f6fe5eb1cdb0",
           "name": "Busca detalhes do projeto",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+          "typeVersion": 1.4,
+          "position": [
+            912,
+            800
+          ],
+          "id": "3f854ba5-c00f-453d-99b3-089ecf1ad1c0",
+          "name": "When chat message received",
+          "webhookId": "007cd536-d6d4-4a13-afc3-9b63f94a3ad6"
+        },
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.agent",
+          "typeVersion": 3.1,
+          "position": [
+            1120,
+            800
+          ],
+          "id": "6d8fce72-2621-449a-9a07-94b1fbd09e82",
+          "name": "AI Agent"
+        },
+        {
+          "parameters": {
+            "model": {
+              "__rl": true,
+              "value": "gpt-5.2-chat-latest",
+              "mode": "list",
+              "cachedResultName": "gpt-5.2-chat-latest"
+            },
+            "builtInTools": {},
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+          "typeVersion": 1.3,
+          "position": [
+            992,
+            1008
+          ],
+          "id": "c7106380-1608-411c-a65d-1c9e222c6bd7",
+          "name": "OpenAI Chat Model",
+          "credentials": {
+            "openAiApi": {
+              "id": "g3Ikw9hUcV3sNHD2",
+              "name": "OpenAi ppt-interact"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/be29ec61-6a66-46cb-ba7a-fd5376bcf1a7",
+            "include": "selected",
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
+          "typeVersion": 1.2,
+          "position": [
+            1360,
+            976
+          ],
+          "id": "523101c4-984e-423d-816c-bb358dfa03c4",
+          "name": "MCP Client"
+        },
+        {
+          "parameters": {
+            "sessionIdType": "customKey",
+            "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
+            "contextWindowLength": 10
+          },
+          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+          "typeVersion": 1.3,
+          "position": [
+            1184,
+            1072
+          ],
+          "id": "f4647a2f-30b4-4ca8-8fb2-e66ea21168f1",
+          "name": "Simple Memory"
+        },
+        {
+          "parameters": {
+            "toolDescription": "Busca eventos e atualizações de um projeto semanticamente",
+            "method": "POST",
+            "url": "https://aeiyqqesteicozizkycn.supabase.co/functions/v1/search-eventos-projeto",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "supabaseApi",
+            "sendBody": true,
+            "bodyParameters": {
+              "parameters": [
+                {
+                  "name": "projeto_id",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `id do projeto`, 'string') }}"
+                },
+                {
+                  "name": "query",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters1_Value', `Busca semântica e por palavras-chave nos eventos do projeto. Descreva o que quer encontrar usando termos específicos (nomes de pessoas, empresas, valores) misturados com descrição do tema. Ex: 'decisões sobre prazo de entrega do valuation', 'reunião com Arthur sobre DW e BIs', 'mudanças no escopo de frete Xangri-Lá'`, 'string') }}"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequestTool",
+          "typeVersion": 4.4,
+          "position": [
+            432,
+            912
+          ],
+          "id": "8dac9913-6396-45ba-b4fa-f5a3856412a1",
+          "name": "Busca atualizações por tema",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "toolDescription": "Busca os últimos eventos/atualizações do projeto. Ajuda a entender o que aconteceu por último",
+            "method": "POST",
+            "url": "https://aeiyqqesteicozizkycn.supabase.co/rest/v1/rpc/get_ultimos_eventos",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "supabaseApi",
+            "sendBody": true,
+            "bodyParameters": {
+              "parameters": [
+                {
+                  "name": "p_projeto_id",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `id do projeto`, 'string') }}"
+                },
+                {
+                  "name": "p_limit",
+                  "value": "5"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequestTool",
+          "typeVersion": 4.4,
+          "position": [
+            352,
+            1056
+          ],
+          "id": "f318663b-c593-4f07-a1a9-5a482ceb353e",
+          "name": "Últimas 5 atualizações do projeto",
           "credentials": {
             "supabaseApi": {
               "id": "mWLJRM5VD8eNo21x",
@@ -21121,17 +21239,6 @@
             ]
           ]
         },
-        "Busca evento": {
-          "ai_tool": [
-            [
-              {
-                "node": "MCP Server Trigger1",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
         "Memoria do Projeto": {
           "ai_tool": [
             [
@@ -21164,6 +21271,72 @@
               }
             ]
           ]
+        },
+        "When chat message received": {
+          "main": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "OpenAI Chat Model": {
+          "ai_languageModel": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_languageModel",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "MCP Client": {
+          "ai_tool": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Simple Memory": {
+          "ai_memory": [
+            [
+              {
+                "node": "AI Agent",
+                "type": "ai_memory",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Busca atualizações por tema": {
+          "ai_tool": [
+            [
+              {
+                "node": "MCP Server Trigger1",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Últimas 5 atualizações do projeto": {
+          "ai_tool": [
+            [
+              {
+                "node": "MCP Server Trigger1",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
         }
       },
       "settings": {
@@ -21174,10 +21347,10 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "141cc2dc-42ff-44d5-aa5f-45e003a56efd",
-      "activeVersionId": "141cc2dc-42ff-44d5-aa5f-45e003a56efd",
-      "versionCounter": 176,
-      "triggerCount": 2,
+      "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
+      "activeVersionId": "88950458-6a21-420d-b184-3ac19915f1e9",
+      "versionCounter": 300,
+      "triggerCount": 3,
       "shared": [
         {
           "updatedAt": "2025-11-03T18:49:50.947Z",
@@ -21201,7 +21374,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21228,7 +21401,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -21238,9 +21411,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-13T18:26:05.168Z",
-        "createdAt": "2026-02-13T18:25:52.445Z",
-        "versionId": "141cc2dc-42ff-44d5-aa5f-45e003a56efd",
+        "updatedAt": "2026-02-14T22:01:45.293Z",
+        "createdAt": "2026-02-14T22:01:39.336Z",
+        "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
         "workflowId": "lgZV72cGrL5CzAdm",
         "nodes": [
           {
@@ -21465,8 +21638,8 @@
             "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
             "typeVersion": 2.2,
             "position": [
-              -16,
-              912
+              -32,
+              880
             ],
             "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
             "name": "Busca de documentos"
@@ -21491,50 +21664,11 @@
             "type": "n8n-nodes-base.supabaseTool",
             "typeVersion": 1,
             "position": [
-              176,
-              928
+              80,
+              896
             ],
             "id": "3945e879-2d78-4997-8c89-d00a02b19667",
             "name": "Busca projeto",
-            "credentials": {
-              "supabaseApi": {
-                "id": "mWLJRM5VD8eNo21x",
-                "name": "Supabase marujo-pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "descriptionType": "manual",
-              "toolDescription": "Busca o último evento relacionado ao projeto. Ajuda a entender o que aconteceu por último",
-              "useCustomSchema": true,
-              "schema": "knowledge_base",
-              "operation": "getAll",
-              "tableId": "memorias_projetos_eventos",
-              "returnAll": true,
-              "filters": {
-                "conditions": [
-                  {
-                    "keyName": "projeto_id",
-                    "condition": "eq",
-                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Field_Value', ``, 'string') }}"
-                  },
-                  {
-                    "keyName": "id",
-                    "condition": "eq",
-                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions1_Field_Value', `id do último evento vinculado à memória do projeto`, 'string') }}"
-                  }
-                ]
-              }
-            },
-            "type": "n8n-nodes-base.supabaseTool",
-            "typeVersion": 1,
-            "position": [
-              320,
-              928
-            ],
-            "id": "a63a47cb-c255-4a2c-9523-d84f3d0e0a8f",
-            "name": "Busca evento",
             "credentials": {
               "supabaseApi": {
                 "id": "mWLJRM5VD8eNo21x",
@@ -21564,8 +21698,8 @@
             "type": "n8n-nodes-base.supabaseTool",
             "typeVersion": 1,
             "position": [
-              480,
-              928
+              208,
+              1088
             ],
             "id": "ba80041f-4340-434d-a24b-e54344eedc25",
             "name": "Memoria do Projeto",
@@ -21621,8 +21755,8 @@
             "type": "n8n-nodes-base.supabaseTool",
             "typeVersion": 1,
             "position": [
-              656,
-              944
+              224,
+              960
             ],
             "id": "8cf2fb27-e888-46e5-9eda-962c61189ae0",
             "name": "Criar novo evento",
@@ -21655,11 +21789,168 @@
             "type": "n8n-nodes-base.supabaseTool",
             "typeVersion": 1,
             "position": [
-              240,
-              1104
+              80,
+              1056
             ],
             "id": "27a94bdf-7888-435d-8eca-f6fe5eb1cdb0",
             "name": "Busca detalhes do projeto",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+            "typeVersion": 1.4,
+            "position": [
+              912,
+              800
+            ],
+            "id": "3f854ba5-c00f-453d-99b3-089ecf1ad1c0",
+            "name": "When chat message received",
+            "webhookId": "007cd536-d6d4-4a13-afc3-9b63f94a3ad6"
+          },
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.agent",
+            "typeVersion": 3.1,
+            "position": [
+              1120,
+              800
+            ],
+            "id": "6d8fce72-2621-449a-9a07-94b1fbd09e82",
+            "name": "AI Agent"
+          },
+          {
+            "parameters": {
+              "model": {
+                "__rl": true,
+                "value": "gpt-5.2-chat-latest",
+                "mode": "list",
+                "cachedResultName": "gpt-5.2-chat-latest"
+              },
+              "builtInTools": {},
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+            "typeVersion": 1.3,
+            "position": [
+              992,
+              1008
+            ],
+            "id": "c7106380-1608-411c-a65d-1c9e222c6bd7",
+            "name": "OpenAI Chat Model",
+            "credentials": {
+              "openAiApi": {
+                "id": "g3Ikw9hUcV3sNHD2",
+                "name": "OpenAi ppt-interact"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/be29ec61-6a66-46cb-ba7a-fd5376bcf1a7",
+              "include": "selected",
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
+            "typeVersion": 1.2,
+            "position": [
+              1360,
+              976
+            ],
+            "id": "523101c4-984e-423d-816c-bb358dfa03c4",
+            "name": "MCP Client"
+          },
+          {
+            "parameters": {
+              "sessionIdType": "customKey",
+              "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
+              "contextWindowLength": 10
+            },
+            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+            "typeVersion": 1.3,
+            "position": [
+              1184,
+              1072
+            ],
+            "id": "f4647a2f-30b4-4ca8-8fb2-e66ea21168f1",
+            "name": "Simple Memory"
+          },
+          {
+            "parameters": {
+              "toolDescription": "Busca eventos e atualizações de um projeto semanticamente",
+              "method": "POST",
+              "url": "https://aeiyqqesteicozizkycn.supabase.co/functions/v1/search-eventos-projeto",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "supabaseApi",
+              "sendBody": true,
+              "bodyParameters": {
+                "parameters": [
+                  {
+                    "name": "projeto_id",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `id do projeto`, 'string') }}"
+                  },
+                  {
+                    "name": "query",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters1_Value', `Busca semântica e por palavras-chave nos eventos do projeto. Descreva o que quer encontrar usando termos específicos (nomes de pessoas, empresas, valores) misturados com descrição do tema. Ex: 'decisões sobre prazo de entrega do valuation', 'reunião com Arthur sobre DW e BIs', 'mudanças no escopo de frete Xangri-Lá'`, 'string') }}"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequestTool",
+            "typeVersion": 4.4,
+            "position": [
+              432,
+              912
+            ],
+            "id": "8dac9913-6396-45ba-b4fa-f5a3856412a1",
+            "name": "Busca atualizações por tema",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "toolDescription": "Busca os últimos eventos/atualizações do projeto. Ajuda a entender o que aconteceu por último",
+              "method": "POST",
+              "url": "https://aeiyqqesteicozizkycn.supabase.co/rest/v1/rpc/get_ultimos_eventos",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "supabaseApi",
+              "sendBody": true,
+              "bodyParameters": {
+                "parameters": [
+                  {
+                    "name": "p_projeto_id",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `id do projeto`, 'string') }}"
+                  },
+                  {
+                    "name": "p_limit",
+                    "value": "5"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequestTool",
+            "typeVersion": 4.4,
+            "position": [
+              352,
+              1056
+            ],
+            "id": "f318663b-c593-4f07-a1a9-5a482ceb353e",
+            "name": "Últimas 5 atualizações do projeto",
             "credentials": {
               "supabaseApi": {
                 "id": "mWLJRM5VD8eNo21x",
@@ -21757,17 +22048,6 @@
               ]
             ]
           },
-          "Busca evento": {
-            "ai_tool": [
-              [
-                {
-                  "node": "MCP Server Trigger1",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
           "Memoria do Projeto": {
             "ai_tool": [
               [
@@ -21800,18 +22080,84 @@
                 }
               ]
             ]
+          },
+          "When chat message received": {
+            "main": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "OpenAI Chat Model": {
+            "ai_languageModel": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_languageModel",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "MCP Client": {
+            "ai_tool": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Simple Memory": {
+            "ai_memory": [
+              [
+                {
+                  "node": "AI Agent",
+                  "type": "ai_memory",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Busca atualizações por tema": {
+            "ai_tool": [
+              [
+                {
+                  "node": "MCP Server Trigger1",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Últimas 5 atualizações do projeto": {
+            "ai_tool": [
+              [
+                {
+                  "node": "MCP Server Trigger1",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 141cc2dc",
+        "name": "Version 88950458",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-13T18:26:05.159Z",
-            "id": 357,
+            "createdAt": "2026-02-14T22:01:45.287Z",
+            "id": 367,
             "workflowId": "lgZV72cGrL5CzAdm",
-            "versionId": "141cc2dc-42ff-44d5-aa5f-45e003a56efd",
+            "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -24394,7 +24740,7 @@
       "pinData": {},
       "versionId": "ab3adb56-b4d0-4470-8b2b-42b6ec89cac2",
       "activeVersionId": "ab3adb56-b4d0-4470-8b2b-42b6ec89cac2",
-      "versionCounter": 1282,
+      "versionCounter": 1283,
       "triggerCount": 6,
       "shared": [
         {
@@ -24419,7 +24765,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -24446,7 +24792,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -27153,7 +27499,7 @@
       },
       "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
       "activeVersionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "versionCounter": 59,
+      "versionCounter": 60,
       "triggerCount": 0,
       "shared": [
         {
@@ -27178,7 +27524,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -27205,7 +27551,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -28663,7 +29009,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 131,
+      "versionCounter": 132,
       "triggerCount": 1,
       "shared": [
         {
@@ -28688,7 +29034,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28715,7 +29061,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -30759,7 +31105,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 751,
+      "versionCounter": 752,
       "triggerCount": 3,
       "shared": [
         {
@@ -30784,7 +31130,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30811,7 +31157,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -31985,7 +32331,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 62,
+      "versionCounter": 63,
       "triggerCount": 0,
       "shared": [
         {
@@ -32010,7 +32356,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32037,7 +32383,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -32264,7 +32610,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 42,
+      "versionCounter": 43,
       "triggerCount": 0,
       "shared": [
         {
@@ -32289,7 +32635,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32316,7 +32662,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -32869,7 +33215,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 131,
+      "versionCounter": 132,
       "triggerCount": 1,
       "shared": [
         {
@@ -32894,7 +33240,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32921,7 +33267,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -33336,7 +33682,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-13T21:03:28.585Z",
+      "updatedAt": "2026-02-14T17:45:28.202Z",
       "createdAt": "2026-02-09T17:02:49.887Z",
       "id": "9RXJ-hlStfYdNxlhDaV_1",
       "name": "Atualizador Memória Projeto",
@@ -33371,12 +33717,20 @@
             "responses": {
               "values": [
                 {
-                  "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook3').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook3').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook3').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook3').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\nRetorne **exatamente dois blocos**:\n\n### Bloco 1: Changelog\nUm resumo conciso das alterações feitas, no formato:\n\n<changelog>\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n</changelog>\n\n### Bloco 2: Memória Atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior:\n\n<memoria_atualizada>\n[Memória completa aqui]\n</memoria_atualizada>\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
+                  "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook3').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook3').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook3').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook3').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\n- Retorne um json com o changelod e a memoria_atualizada, cada um em uma chave\n- Os valores de cada chave devem estar em formato markdown\n\n### Chave 1: changelog\nUm resumo conciso das alterações feitas, no formato:\n\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n\n### Chave 2: memoria_atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior.\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
                 }
               ]
             },
             "builtInTools": {},
-            "options": {}
+            "options": {
+              "textFormat": {
+                "textOptions": {
+                  "type": "json_schema",
+                  "name": "memoria_e_changelog",
+                  "schema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"changelog\": {\n      \"type\": \"string\"\n    },\n    \"memoria_atualizada\": {\n      \"type\": \"string\"\n    }\n  },\n  \"additionalProperties\": false,\n  \"required\": [\"changelog\", \"memoria_atualizada\"]\n}"
+                }
+              }
+            }
           },
           "type": "@n8n/n8n-nodes-langchain.openAi",
           "typeVersion": 2.1,
@@ -33443,11 +33797,15 @@
               "fieldValues": [
                 {
                   "fieldId": "memoria",
-                  "fieldValue": "={{ $json.output[0].content[0].text }}"
+                  "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
                 },
                 {
                   "fieldId": "last_event",
                   "fieldValue": "={{ $('Webhook3').item.json.body.record.id }}"
+                },
+                {
+                  "fieldId": "changelog",
+                  "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
                 }
               ]
             }
@@ -33665,7 +34023,7 @@
               "fieldValues": [
                 {
                   "fieldId": "memoria",
-                  "fieldValue": "={{ $json.output[0].content[0].text }}"
+                  "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
                 },
                 {
                   "fieldId": "last_event",
@@ -33674,6 +34032,10 @@
                 {
                   "fieldId": "projeto_id",
                   "fieldValue": "={{ $('Webhook3').item.json.body.record.projeto_id }}"
+                },
+                {
+                  "fieldId": "changelog",
+                  "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
                 }
               ]
             }
@@ -33825,62 +34187,6 @@
               "name": "Supabase marujo-pier"
             }
           }
-        },
-        {
-          "parameters": {
-            "content": "## Atualiza a memória do projeto quando um novo evento acontece",
-            "height": 304,
-            "width": 960
-          },
-          "type": "n8n-nodes-base.stickyNote",
-          "typeVersion": 1,
-          "position": [
-            -368,
-            -480
-          ],
-          "id": "fca4da7e-5179-461b-9693-87b7162efcca",
-          "name": "Sticky Note1"
-        },
-        {
-          "parameters": {
-            "httpMethod": "POST",
-            "path": "embedding_evento",
-            "options": {}
-          },
-          "type": "n8n-nodes-base.webhook",
-          "typeVersion": 2.1,
-          "position": [
-            -352,
-            -368
-          ],
-          "id": "5405d0d3-924b-4fa9-9859-32a7ffa69374",
-          "name": "Webhook",
-          "webhookId": "926e7ce4-c35b-4188-915b-b14e47b5fc89"
-        },
-        {
-          "parameters": {
-            "mode": "update",
-            "tableName": {
-              "__rl": true,
-              "value": "431227",
-              "mode": "id"
-            },
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
-          "typeVersion": 1.3,
-          "position": [
-            -144,
-            -368
-          ],
-          "id": "e13f7ed9-750b-4097-9caa-5453b51c69b6",
-          "name": "Supabase Vector Store",
-          "credentials": {
-            "supabaseApi": {
-              "id": "mWLJRM5VD8eNo21x",
-              "name": "Supabase marujo-pier"
-            }
-          }
         }
       ],
       "connections": {
@@ -34023,17 +34329,6 @@
               }
             ]
           ]
-        },
-        "Webhook": {
-          "main": [
-            [
-              {
-                "node": "Supabase Vector Store",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
         }
       },
       "settings": {
@@ -34161,11 +34456,55 @@
               "item": 0
             }
           }
+        ],
+        "Webhook3": [
+          {
+            "json": {
+              "headers": {
+                "host": "primary-production-0ad4f.up.railway.app",
+                "user-agent": "pg_net/0.14.0",
+                "content-length": "332",
+                "accept": "*/*",
+                "content-type": "application/json",
+                "x-forwarded-for": "34.200.200.129",
+                "x-forwarded-host": "primary-production-0ad4f.up.railway.app",
+                "x-forwarded-proto": "https",
+                "x-railway-edge": "railway/us-east4-eqdc4a",
+                "x-railway-request-id": "qsmAvKWjQXiVdY6JozsQ6Q",
+                "x-real-ip": "34.200.200.129",
+                "x-request-start": "1771090789058",
+                "accept-encoding": "gzip"
+              },
+              "params": {},
+              "query": {},
+              "body": {
+                "type": "INSERT",
+                "table": "memorias_projetos_eventos",
+                "record": {
+                  "id": 55,
+                  "texto": "teste (ignorar)",
+                  "origem": null,
+                  "criador": null,
+                  "embedding": null,
+                  "created_at": "2026-02-14T17:39:47.910194+00:00",
+                  "projeto_id": "25502cfe-4c0e-8019-85e7-f2b3a98f2964",
+                  "id_na_origem": null
+                },
+                "schema": "knowledge_base",
+                "old_record": null
+              },
+              "webhookUrl": "https://primary-production-0ad4f.up.railway.app/webhook-test/novo_evento_memoria",
+              "executionMode": "test"
+            },
+            "pairedItem": {
+              "item": 0
+            }
+          }
         ]
       },
-      "versionId": "63d11002-974c-4a86-8c3f-c25dc731c62c",
-      "activeVersionId": "75ac63eb-c541-4574-b9fa-a56471a8bbba",
-      "versionCounter": 441,
+      "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
+      "activeVersionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
+      "versionCounter": 489,
       "triggerCount": 3,
       "shared": [
         {
@@ -34190,7 +34529,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-13T10:11:53.946Z",
+                  "updatedAt": "2026-02-14T13:32:29.018Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -34217,7 +34556,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-13",
+                  "lastActiveAt": "2026-02-14",
                   "isPending": false
                 }
               }
@@ -34227,9 +34566,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-13T18:31:04.696Z",
-        "createdAt": "2026-02-13T18:31:01.817Z",
-        "versionId": "75ac63eb-c541-4574-b9fa-a56471a8bbba",
+        "updatedAt": "2026-02-14T17:45:34.105Z",
+        "createdAt": "2026-02-14T17:45:28.222Z",
+        "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
         "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
         "nodes": [
           {
@@ -34259,12 +34598,20 @@
               "responses": {
                 "values": [
                   {
-                    "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook3').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook3').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook3').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook3').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\nRetorne **exatamente dois blocos**:\n\n### Bloco 1: Changelog\nUm resumo conciso das alterações feitas, no formato:\n\n<changelog>\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n</changelog>\n\n### Bloco 2: Memória Atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior:\n\n<memoria_atualizada>\n[Memória completa aqui]\n</memoria_atualizada>\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
+                    "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook3').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook3').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook3').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook3').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\n- Retorne um json com o changelod e a memoria_atualizada, cada um em uma chave\n- Os valores de cada chave devem estar em formato markdown\n\n### Chave 1: changelog\nUm resumo conciso das alterações feitas, no formato:\n\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n\n### Chave 2: memoria_atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior.\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
                   }
                 ]
               },
               "builtInTools": {},
-              "options": {}
+              "options": {
+                "textFormat": {
+                  "textOptions": {
+                    "type": "json_schema",
+                    "name": "memoria_e_changelog",
+                    "schema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"changelog\": {\n      \"type\": \"string\"\n    },\n    \"memoria_atualizada\": {\n      \"type\": \"string\"\n    }\n  },\n  \"additionalProperties\": false,\n  \"required\": [\"changelog\", \"memoria_atualizada\"]\n}"
+                  }
+                }
+              }
             },
             "type": "@n8n/n8n-nodes-langchain.openAi",
             "typeVersion": 2.1,
@@ -34331,11 +34678,15 @@
                 "fieldValues": [
                   {
                     "fieldId": "memoria",
-                    "fieldValue": "={{ $json.output[0].content[0].text }}"
+                    "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
                   },
                   {
                     "fieldId": "last_event",
                     "fieldValue": "={{ $('Webhook3').item.json.body.record.id }}"
+                  },
+                  {
+                    "fieldId": "changelog",
+                    "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
                   }
                 ]
               }
@@ -34553,7 +34904,7 @@
                 "fieldValues": [
                   {
                     "fieldId": "memoria",
-                    "fieldValue": "={{ $json.output[0].content[0].text }}"
+                    "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
                   },
                   {
                     "fieldId": "last_event",
@@ -34562,6 +34913,10 @@
                   {
                     "fieldId": "projeto_id",
                     "fieldValue": "={{ $('Webhook3').item.json.body.record.projeto_id }}"
+                  },
+                  {
+                    "fieldId": "changelog",
+                    "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
                   }
                 ]
               }
@@ -34858,15 +35213,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 75ac63eb",
+        "name": "Version 4d1b9ba8",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-13T18:31:04.682Z",
-            "id": 358,
+            "createdAt": "2026-02-14T17:45:34.091Z",
+            "id": 360,
             "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
-            "versionId": "75ac63eb-c541-4574-b9fa-a56471a8bbba",
+            "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -35162,7 +35517,103 @@
         "used_by_n8n": false
       },
       {
+        "name": "get_ultimos_eventos_projeto",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
         "name": "get_user_by_phone",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gin_extract_query_trgm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gin_extract_value_trgm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gin_trgm_consistent",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gin_trgm_triconsistent",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_compress",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_consistent",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_decompress",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_distance",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_options",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_out",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_penalty",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_picksplit",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_same",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "gtrgm_union",
         "schema": "public",
         "tables_used": [],
         "used_by_n8n": false
@@ -35354,6 +35805,12 @@
         "used_by_n8n": false
       },
       {
+        "name": "hybrid_search_eventos",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
         "name": "inner_product",
         "schema": "public",
         "tables_used": [],
@@ -35504,6 +35961,12 @@
         "used_by_n8n": false
       },
       {
+        "name": "match_memorias_projetos_eventos",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
         "name": "match_slides",
         "schema": "public",
         "tables_used": [],
@@ -35511,6 +35974,48 @@
       },
       {
         "name": "run_query",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "search_eventos_projeto",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "set_limit",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "show_limit",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "show_trgm",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "similarity",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "similarity_dist",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "similarity_op",
         "schema": "public",
         "tables_used": [],
         "used_by_n8n": false
@@ -35618,6 +36123,36 @@
         "used_by_n8n": false
       },
       {
+        "name": "strict_word_similarity",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "strict_word_similarity_commutator_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "strict_word_similarity_dist_commutator_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "strict_word_similarity_dist_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "strict_word_similarity_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
         "name": "subvector",
         "schema": "public",
         "tables_used": [],
@@ -35637,6 +36172,30 @@
       },
       {
         "name": "sum",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "unaccent",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "unaccent",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "unaccent_init",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "unaccent_lexize",
         "schema": "public",
         "tables_used": [],
         "used_by_n8n": false
@@ -35823,6 +36382,36 @@
       },
       {
         "name": "vector_typmod_in",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "word_similarity",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "word_similarity_commutator_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "word_similarity_dist_commutator_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "word_similarity_dist_op",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
+      },
+      {
+        "name": "word_similarity_op",
         "schema": "public",
         "tables_used": [],
         "used_by_n8n": false

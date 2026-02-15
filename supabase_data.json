@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-02-14T01:46:39.333766+00:00",
+    "generated_at": "2026-02-15T01:56:06.541312+00:00",
     "table_count": 29,
-    "function_count": 134
+    "function_count": 173
   },
   "tables": [
     {
@@ -240,7 +240,87 @@
     },
     {
       "schema": "public",
+      "name": "get_ultimos_eventos_projeto",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
       "name": "get_user_by_phone",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gin_extract_query_trgm",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gin_extract_value_trgm",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gin_trgm_consistent",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gin_trgm_triconsistent",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_compress",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_consistent",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_decompress",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_distance",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_in",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_options",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_out",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_penalty",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_picksplit",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_same",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "gtrgm_union",
       "tables_used": []
     },
     {
@@ -400,6 +480,11 @@
     },
     {
       "schema": "public",
+      "name": "hybrid_search_eventos",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
       "name": "inner_product",
       "tables_used": []
     },
@@ -525,12 +610,52 @@
     },
     {
       "schema": "public",
+      "name": "match_memorias_projetos_eventos",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
       "name": "match_slides",
       "tables_used": []
     },
     {
       "schema": "public",
       "name": "run_query",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "search_eventos_projeto",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "set_limit",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "show_limit",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "show_trgm",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "similarity",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "similarity_dist",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "similarity_op",
       "tables_used": []
     },
     {
@@ -620,6 +745,31 @@
     },
     {
       "schema": "public",
+      "name": "strict_word_similarity",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "strict_word_similarity_commutator_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "strict_word_similarity_dist_commutator_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "strict_word_similarity_dist_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "strict_word_similarity_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
       "name": "subvector",
       "tables_used": []
     },
@@ -636,6 +786,26 @@
     {
       "schema": "public",
       "name": "sum",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "unaccent",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "unaccent",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "unaccent_init",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "unaccent_lexize",
       "tables_used": []
     },
     {
@@ -791,6 +961,31 @@
     {
       "schema": "public",
       "name": "vector_typmod_in",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "word_similarity",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "word_similarity_commutator_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "word_similarity_dist_commutator_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "word_similarity_dist_op",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "word_similarity_op",
       "tables_used": []
     }
   ]
