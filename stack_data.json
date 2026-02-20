@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-02-19T01:52:37.486577+00:00",
-    "workflow_count": 23,
+    "generated_at": "2026-02-20T01:48:21.486133+00:00",
+    "workflow_count": 24,
     "table_count": 29,
     "function_count": 173,
     "tables_used_by_n8n": 7,
@@ -924,7 +924,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 2,
       "shared": [
         {
@@ -949,7 +949,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -976,7 +976,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -2764,7 +2764,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 2,
       "shared": [
         {
@@ -2789,7 +2789,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2816,7 +2816,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -3817,7 +3817,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 0,
       "shared": [
         {
@@ -3842,7 +3842,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3869,7 +3869,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -4216,7 +4216,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 1,
       "shared": [
         {
@@ -4241,7 +4241,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4268,7 +4268,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -4941,7 +4941,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 51,
+      "versionCounter": 60,
       "triggerCount": 3,
       "shared": [
         {
@@ -4966,7 +4966,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4993,7 +4993,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -6810,7 +6810,7 @@
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
-      "versionCounter": 51,
+      "versionCounter": 60,
       "triggerCount": 1,
       "shared": [
         {
@@ -6835,7 +6835,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6862,7 +6862,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -8564,7 +8564,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 1,
       "shared": [
         {
@@ -8589,7 +8589,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8616,7 +8616,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -9421,7 +9421,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 120,
+      "versionCounter": 129,
       "triggerCount": 2,
       "shared": [
         {
@@ -9446,7 +9446,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9473,7 +9473,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -11686,7 +11686,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 263,
+      "versionCounter": 272,
       "triggerCount": 1,
       "shared": [
         {
@@ -11711,7 +11711,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -11738,7 +11738,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -13843,7 +13843,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 1,
       "shared": [
         {
@@ -13868,7 +13868,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -13895,7 +13895,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -16093,7 +16093,7 @@
       "pinData": {},
       "versionId": "9334320a-0961-40d0-a621-a25f13d63348",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 108,
+      "versionCounter": 117,
       "triggerCount": 3,
       "shared": [
         {
@@ -16118,7 +16118,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -16145,7 +16145,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -18162,7 +18162,7 @@
       "pinData": {},
       "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
       "activeVersionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
-      "versionCounter": 52,
+      "versionCounter": 61,
       "triggerCount": 1,
       "shared": [
         {
@@ -18187,7 +18187,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -18214,7 +18214,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -18977,7 +18977,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 54,
+      "versionCounter": 63,
       "triggerCount": 2,
       "shared": [
         {
@@ -19002,7 +19002,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19029,7 +19029,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -20019,7 +20019,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 53,
+      "versionCounter": 62,
       "triggerCount": 1,
       "shared": [
         {
@@ -20044,7 +20044,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20071,7 +20071,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -21349,7 +21349,7 @@
       "pinData": {},
       "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
       "activeVersionId": "88950458-6a21-420d-b184-3ac19915f1e9",
-      "versionCounter": 304,
+      "versionCounter": 313,
       "triggerCount": 3,
       "shared": [
         {
@@ -21374,7 +21374,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21401,7 +21401,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -22165,7 +22165,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-18T19:05:23.644Z",
+      "updatedAt": "2026-02-19T20:09:37.664Z",
       "createdAt": "2025-12-28T16:41:54.247Z",
       "id": "gKNGnV5aOelesPEn",
       "name": "PPT Chat Agent Workflow",
@@ -22180,321 +22180,12 @@
           "type": "@n8n/n8n-nodes-langchain.chatTrigger",
           "typeVersion": 1.4,
           "position": [
-            816,
-            2576
+            464,
+            3184
           ],
           "id": "0092ce53-b257-43a8-bfc6-e31997605fbe",
           "name": "When chat message received",
           "webhookId": "5ba440e1-5711-4fca-9ac5-08601c504ec0"
-        },
-        {
-          "parameters": {
-            "resource": "databasePage",
-            "operation": "getAll",
-            "databaseId": {
-              "__rl": true,
-              "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
-              "mode": "id"
-            },
-            "limit": 5,
-            "options": {}
-          },
-          "type": "n8n-nodes-base.notion",
-          "typeVersion": 2.2,
-          "position": [
-            576,
-            416
-          ],
-          "id": "67cc9d98-e942-49c1-8afd-fd24f91d0d17",
-          "name": "Get many database pages",
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "block",
-            "operation": "getAll",
-            "blockId": {
-              "__rl": true,
-              "value": "={{ $json.url }}",
-              "mode": "url"
-            },
-            "returnAll": true
-          },
-          "type": "n8n-nodes-base.notion",
-          "typeVersion": 2.2,
-          "position": [
-            1056,
-            144
-          ],
-          "id": "70ec9b98-0699-4520-a8cd-573dfe25da19",
-          "name": "Get many child blocks",
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "jsCode": "let output = [];\n\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nreturn [\n  {\n    json: {\n      content: output.join('\\n\\n')\n    }\n  }\n];"
-          },
-          "type": "n8n-nodes-base.code",
-          "typeVersion": 2,
-          "position": [
-            1296,
-            144
-          ],
-          "id": "94ea182e-6a8f-401d-93ee-fd7955e844ff",
-          "name": "Code in JavaScript",
-          "executeOnce": false
-        },
-        {
-          "parameters": {
-            "mode": "insert",
-            "qdrantCollection": {
-              "__rl": true,
-              "value": "pier_knowledge",
-              "mode": "list",
-              "cachedResultName": "pier_knowledge"
-            },
-            "options": {
-              "contentPayloadKey": "content"
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.vectorStoreQdrant",
-          "typeVersion": 1.3,
-          "position": [
-            1872,
-            320
-          ],
-          "id": "63a9c5ca-4fa3-40ef-9c67-8bd8faf93be2",
-          "name": "Qdrant Vector Store1",
-          "credentials": {
-            "qdrantApi": {
-              "id": "BZ0gPnzsubvT5Zw1",
-              "name": "QdrantApi account 2"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "options": {}
-          },
-          "type": "n8n-nodes-base.splitInBatches",
-          "typeVersion": 3,
-          "position": [
-            800,
-            320
-          ],
-          "id": "e8eb1c59-963c-4a47-bd73-e9f80d257f8e",
-          "name": "Loop Over Items"
-        },
-        {
-          "parameters": {
-            "model": "text-embedding-3-large",
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
-          "typeVersion": 1.2,
-          "position": [
-            1792,
-            560
-          ],
-          "id": "a40f18cb-4960-48f6-a326-b76c26d000fe",
-          "name": "Embeddings OpenAI",
-          "credentials": {
-            "openAiApi": {
-              "id": "qOLCslk7RAXP7UBp",
-              "name": "OpenAi account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "textSplittingMode": "custom",
-            "options": {
-              "metadata": {
-                "metadataValues": [
-                  {
-                    "name": "document_id",
-                    "value": "={{ $json.id }}"
-                  },
-                  {
-                    "name": "name",
-                    "value": "={{ $json.name }}"
-                  },
-                  {
-                    "name": "url",
-                    "value": "={{ $json.url }}"
-                  },
-                  {
-                    "name": "subject",
-                    "value": "={{ $json.property_tema_natureza }}"
-                  }
-                ]
-              }
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.documentDefaultDataLoader",
-          "typeVersion": 1.1,
-          "position": [
-            2160,
-            480
-          ],
-          "id": "0705d8f9-1f33-4f11-8d02-9221b1e537d6",
-          "name": "Default Data Loader"
-        },
-        {
-          "parameters": {
-            "chunkSize": 1000000
-          },
-          "type": "@n8n/n8n-nodes-langchain.textSplitterTokenSplitter",
-          "typeVersion": 1,
-          "position": [
-            2272,
-            576
-          ],
-          "id": "78c03e7b-dd3d-4d3c-a535-d158603b27df",
-          "name": "Token Splitter"
-        },
-        {
-          "parameters": {
-            "resource": "point",
-            "operation": "deletePoints",
-            "collectionName": {
-              "__rl": true,
-              "value": "pier",
-              "mode": "list",
-              "cachedResultName": "pier"
-            },
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            1792,
-            2240
-          ],
-          "id": "770cb2a5-cdb8-40ef-9abd-b15121fbe2a1",
-          "name": "Delete Points",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "point",
-            "operation": "scrollPoints",
-            "collectionName": {
-              "__rl": true,
-              "value": "pier",
-              "mode": "list",
-              "cachedResultName": "pier"
-            },
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            1152,
-            2224
-          ],
-          "id": "99de0890-f678-4503-ae7b-be58a6b05a9c",
-          "name": "Scroll Points",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "options": {}
-          },
-          "type": "n8n-nodes-base.splitInBatches",
-          "typeVersion": 3,
-          "position": [
-            1552,
-            2176
-          ],
-          "id": "7bc57dc3-1132-447f-a2cb-973579a205c0",
-          "name": "Loop Over Items1"
-        },
-        {
-          "parameters": {
-            "fieldToSplitOut": "result.points",
-            "options": {}
-          },
-          "type": "n8n-nodes-base.splitOut",
-          "typeVersion": 1,
-          "position": [
-            1360,
-            2224
-          ],
-          "id": "54579fa7-0f1c-4a4c-856c-9b2dc6891bd7",
-          "name": "Split Out"
-        },
-        {
-          "parameters": {
-            "assignments": {
-              "assignments": [
-                {
-                  "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
-                  "name": "id",
-                  "value": "={{ $json.id }}",
-                  "type": "string"
-                },
-                {
-                  "id": "5693a142-1555-4384-8df2-12994814d418",
-                  "name": "name",
-                  "value": "={{ $json.name }}",
-                  "type": "string"
-                },
-                {
-                  "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
-                  "name": "url",
-                  "value": "={{ $json.url }}",
-                  "type": "string"
-                },
-                {
-                  "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
-                  "name": "property_tema_natureza",
-                  "value": "={{ $json.property_tema_natureza }}",
-                  "type": "string"
-                }
-              ]
-            },
-            "options": {}
-          },
-          "type": "n8n-nodes-base.set",
-          "typeVersion": 3.4,
-          "position": [
-            1056,
-            304
-          ],
-          "id": "51363c7c-0851-4a51-8ef0-ad6a1654f876",
-          "name": "Edit Fields"
-        },
-        {
-          "parameters": {},
-          "type": "n8n-nodes-base.merge",
-          "typeVersion": 3.2,
-          "position": [
-            1584,
-            320
-          ],
-          "id": "a87f35bd-020d-4582-8173-03dfa44ce431",
-          "name": "Merge"
         },
         {
           "parameters": {
@@ -22505,8 +22196,8 @@
           "type": "@n8n/n8n-nodes-langchain.agent",
           "typeVersion": 3.1,
           "position": [
-            1024,
-            2576
+            672,
+            3184
           ],
           "id": "107324d8-a24b-418d-a506-d3f62a727197",
           "name": "AI Agent"
@@ -22525,8 +22216,8 @@
           "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
           "typeVersion": 1.3,
           "position": [
-            896,
-            2784
+            544,
+            3392
           ],
           "id": "0e90b97a-b0c6-4dca-a533-e31bd602ab94",
           "name": "OpenAI Chat Model",
@@ -22542,8 +22233,8 @@
           "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
           "typeVersion": 1.3,
           "position": [
-            1040,
-            2784
+            688,
+            3392
           ],
           "id": "0b677de5-5813-4fff-b54b-1045e7b07c86",
           "name": "Simple Memory"
@@ -22585,26 +22276,11 @@
           "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
           "typeVersion": 2.2,
           "position": [
-            1184,
-            2784
+            832,
+            3392
           ],
           "id": "89ccb881-f39a-429a-b651-7312f5032442",
           "name": "Call 'subflow qdrant'"
-        },
-        {
-          "parameters": {
-            "content": "## Deletar documentos da base",
-            "height": 304,
-            "width": 1024
-          },
-          "type": "n8n-nodes-base.stickyNote",
-          "typeVersion": 1,
-          "position": [
-            1024,
-            2144
-          ],
-          "id": "6f2011f2-12d3-478e-a5d4-e9974417079e",
-          "name": "Sticky Note1"
         },
         {
           "parameters": {
@@ -22849,388 +22525,6 @@
           }
         },
         {
-          "parameters": {},
-          "type": "n8n-nodes-base.manualTrigger",
-          "typeVersion": 1,
-          "position": [
-            -176,
-            1424
-          ],
-          "id": "3b3be0fc-17db-44e5-90b3-7f0ba4e2e2e8",
-          "name": "When clicking ‘Execute workflow’"
-        },
-        {
-          "parameters": {
-            "resource": "point",
-            "operation": "upsertPoints",
-            "collectionName": {
-              "__rl": true,
-              "value": "pier",
-              "mode": "list",
-              "cachedResultName": "pier"
-            },
-            "points": "=[\n  {\n    \"id\": \"{{ $json.id }}\",\n    \"payload\": {\n      \"content\": {{ JSON.stringify($json.content) }},\n      \"name\": {{ JSON.stringify($json.name) }},\n      \"url\": {{ JSON.stringify($json.url) }},\n      \"subject\": {{ JSON.stringify($json.property_tema_natureza) }},\n      \"document_id\": \"{{ $json.id }}\"\n    },\n    \"vector\": {\n      \"open_ai_large\": {{ JSON.stringify($json.data[0].embedding) }}\n    }\n  }\n]",
-            "requestOptions": {}
-          },
-          "id": "9ca80b2f-d349-40ca-8128-a483bf7a85c2",
-          "name": "Upsert Points2",
-          "type": "n8n-nodes-qdrant.qdrant",
-          "position": [
-            2512,
-            1184
-          ],
-          "typeVersion": 1,
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "mode": "combine",
-            "combineBy": "combineByPosition",
-            "options": {}
-          },
-          "id": "8700aa36-9908-4046-953f-05a0d8723877",
-          "name": "Merge3",
-          "type": "n8n-nodes-base.merge",
-          "position": [
-            2192,
-            1168
-          ],
-          "typeVersion": 3.2
-        },
-        {
-          "parameters": {
-            "method": "POST",
-            "url": "https://api.openai.com/v1/embeddings",
-            "authentication": "predefinedCredentialType",
-            "nodeCredentialType": "openAiApi",
-            "sendBody": true,
-            "bodyParameters": {
-              "parameters": [
-                {
-                  "name": "input",
-                  "value": "={{ $json.content }}"
-                },
-                {
-                  "name": "model",
-                  "value": "text-embedding-3-large"
-                }
-              ]
-            },
-            "options": {}
-          },
-          "id": "1b5d7c68-d97a-40ec-bc12-7072e5deec68",
-          "name": "Get OpenAI embeddings1",
-          "type": "n8n-nodes-base.httpRequest",
-          "position": [
-            2032,
-            992
-          ],
-          "typeVersion": 4.2,
-          "credentials": {
-            "openAiApi": {
-              "id": "qOLCslk7RAXP7UBp",
-              "name": "OpenAi account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "databasePage",
-            "operation": "getAll",
-            "databaseId": {
-              "__rl": true,
-              "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
-              "mode": "id"
-            },
-            "returnAll": true,
-            "filterType": "manual",
-            "options": {}
-          },
-          "type": "n8n-nodes-base.notion",
-          "typeVersion": 2.2,
-          "position": [
-            656,
-            1168
-          ],
-          "id": "70002802-e79d-48bc-a803-467ca4ed954c",
-          "name": "Get many database pages1",
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "block",
-            "operation": "getAll",
-            "blockId": {
-              "__rl": true,
-              "value": "={{ $json.url }}",
-              "mode": "url"
-            },
-            "returnAll": true
-          },
-          "type": "n8n-nodes-base.notion",
-          "typeVersion": 2.2,
-          "position": [
-            1376,
-            992
-          ],
-          "id": "72be92a0-c979-4626-8a8d-508bdabc600f",
-          "name": "Get many child blocks1",
-          "alwaysOutputData": true,
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "jsCode": "let output = [];\n\n// --- PART 1: Process the blocks (Your existing logic) ---\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nconst finalContent = output.join('\\n\\n');\n\n// --- PART 2: Retrieve Metadata safely ---\n// We pull the ID, Name, and URL from the 'Edit Fields2' node \n// that ran immediately before this execution.\nconst metadata = $('Edit Fields2').first().json;\n\n// --- PART 3: Return Combined Data ---\n// We return ONE object containing both the Metadata and the Content.\nreturn [\n  {\n    json: {\n      ...metadata,          // Inherits: id, name, url, property_tema_natureza\n      content: finalContent // Adds: The generated text\n    }\n  }\n];"
-          },
-          "type": "n8n-nodes-base.code",
-          "typeVersion": 2,
-          "position": [
-            1552,
-            1008
-          ],
-          "id": "057d3047-80d2-4453-9726-aef60e67cbae",
-          "name": "Code in JavaScript1",
-          "executeOnce": false
-        },
-        {
-          "parameters": {
-            "options": {}
-          },
-          "type": "n8n-nodes-base.splitInBatches",
-          "typeVersion": 3,
-          "position": [
-            848,
-            1040
-          ],
-          "id": "06b15324-9f1f-4049-8882-9f7b4970f7cc",
-          "name": "Loop Over Items2"
-        },
-        {
-          "parameters": {
-            "assignments": {
-              "assignments": [
-                {
-                  "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
-                  "name": "id",
-                  "value": "={{ $('Loop Over Items2').item.json.id }}",
-                  "type": "string"
-                },
-                {
-                  "id": "5693a142-1555-4384-8df2-12994814d418",
-                  "name": "name",
-                  "value": "={{ $('Loop Over Items2').item.json.name }}",
-                  "type": "string"
-                },
-                {
-                  "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
-                  "name": "url",
-                  "value": "={{ $('Loop Over Items2').item.json.url }}",
-                  "type": "string"
-                },
-                {
-                  "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
-                  "name": "property_tema_natureza",
-                  "value": "={{ $('Loop Over Items2').item.json.property_tema_natureza }}",
-                  "type": "string"
-                }
-              ]
-            },
-            "options": {}
-          },
-          "type": "n8n-nodes-base.set",
-          "typeVersion": 3.4,
-          "position": [
-            1168,
-            1056
-          ],
-          "id": "137b47df-b6da-47e4-96ca-ba42e51d1500",
-          "name": "Edit Fields2"
-        },
-        {
-          "parameters": {
-            "conditions": {
-              "options": {
-                "caseSensitive": true,
-                "leftValue": "",
-                "typeValidation": "strict",
-                "version": 3
-              },
-              "conditions": [
-                {
-                  "id": "0a00b2a3-f7c9-4015-986a-48a2df958f39",
-                  "leftValue": "={{ $json.content }}",
-                  "rightValue": "",
-                  "operator": {
-                    "type": "string",
-                    "operation": "equals",
-                    "name": "filter.operator.equals"
-                  }
-                }
-              ],
-              "combinator": "and"
-            },
-            "options": {}
-          },
-          "type": "n8n-nodes-base.if",
-          "typeVersion": 2.3,
-          "position": [
-            1776,
-            1056
-          ],
-          "id": "b2388a09-427e-4cf8-9df7-95170b235ab8",
-          "name": "If2"
-        },
-        {
-          "parameters": {
-            "rule": {
-              "interval": [
-                {}
-              ]
-            }
-          },
-          "type": "n8n-nodes-base.scheduleTrigger",
-          "typeVersion": 1.3,
-          "position": [
-            432,
-            1168
-          ],
-          "id": "c0049093-fd62-434b-a02f-c7423b5fd4ce",
-          "name": "Schedule Trigger"
-        },
-        {
-          "parameters": {
-            "content": "## Fluxo principal de atualização",
-            "height": 528,
-            "width": 2528
-          },
-          "type": "n8n-nodes-base.stickyNote",
-          "typeVersion": 1,
-          "position": [
-            256,
-            912
-          ],
-          "id": "e6c4f3da-535c-445f-8daa-8f6c7f335292",
-          "name": "Sticky Note"
-        },
-        {
-          "parameters": {
-            "operation": "createCollection",
-            "collectionName": "fdsfdf",
-            "shardNumber": {},
-            "replicationFactor": {},
-            "writeConsistencyFactor": {},
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            2608,
-            2432
-          ],
-          "id": "e5db12af-3b8f-4948-967a-41bf3e6c4ea3",
-          "name": "Create Collection",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "operation": "deleteCollection",
-            "collectionName": {
-              "__rl": true,
-              "value": "atas",
-              "mode": "list",
-              "cachedResultName": "atas"
-            },
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            2288,
-            2304
-          ],
-          "id": "6aa96a82-d7de-4e2a-b236-42d0f6b36af1",
-          "name": "Delete Collection",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "operation": "getCollection",
-            "collectionName": {
-              "__rl": true,
-              "value": "atas",
-              "mode": "list",
-              "cachedResultName": "atas"
-            },
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            2304,
-            2560
-          ],
-          "id": "8eb1d3c8-381d-4b5d-aaed-80b638b625b7",
-          "name": "Get Collection",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "point",
-            "operation": "scrollPoints",
-            "collectionName": {
-              "__rl": true,
-              "value": "atas",
-              "mode": "list",
-              "cachedResultName": "atas"
-            },
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            2896,
-            2208
-          ],
-          "id": "af52eea9-6ab3-48c7-9304-e453257dab70",
-          "name": "Scroll Points1",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
           "parameters": {
             "options": {
               "systemMessage": "# Contexto\nVocê recebe o conteúdo de um slide de power point ou um range de células do Excel e, opcionalmente, uma mensagem da pessoa que o contruiu e conteúdo dos demais slides/abas. Se houver uma mensagem do usuário, faça o que ele pedir, do contrário você deve realizar uma análise crítica:\n\n## Power Point:\n#### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (busque documentos de referência)\n-Fonte homogênea em todas as caixas com texto\n-Erros de português\n-Tamanho da fonte coerente entre os slides\n-Alinhamento de titulo (mesma posição em todos os slides)\n-Uso adequado de slide mestre\n-Slides contém numeração\n-Unidades nos números (coerência interna no slide)\n-Padrão de frases começarem com letra maiúscula OU cada palavra em letra maiúscula\n-Caso o conteúdo dos demais slides seja passado também os utilize para ver se o slide em questão está bem construído e posicionado na apresentação.\n## Opcional:\n-O usuário também pode pedir sugestões de slides. Nesse caso busque slides na tool de banco de slides e retorne o link da imagem do slide e o link do sharepoint\n\n## Excel:\n### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (indentifique o conteúdo (técnico e teórico) e busque documentos de referência)\n-Fonte homogênea em todas as células\n-Erros de português\n-Tamanho da fonte coerente\n-Aderência sólida com conceitos contábeis e financeiros\n\n# Diretrizes Gerais\n- Suas respostas devem seguir as diretrizes da Píer Partners, e para isso consulte a base de conhecimento disponível, onde diversos documentos sobre os temas com os quais trabalhamos estão disponíveis.\n- Se o usuário pedir a revisão nos dados (números de mercado, índices, etc) utilize as ferramenta de busca na web (Google para buscas simples e Perpexity para buscas avançadas).\n- As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks.\n- Seja direto, indo direto para a análise, com profundidade mas sendo breve.\n- Sempre retorne sua resposta em formato Markdown."
@@ -23297,54 +22591,6 @@
             "notionApi": {
               "id": "QJqIInVEAt8nkp5t",
               "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "operation": "__CUSTOM_API_CALL__",
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            2624,
-            2256
-          ],
-          "id": "6d206cb1-4882-4d44-87bd-8422762a754a",
-          "name": "__CUSTOM_API_CALL__ collection",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "url": "https://021f8bc6-6e1c-467e-a41c-6f7c0d6c461d.us-east4-0.gcp.cloud.qdrant.io/collections/atas",
-            "authentication": "predefinedCredentialType",
-            "nodeCredentialType": "qdrantRestApi",
-            "sendQuery": true,
-            "queryParameters": {
-              "parameters": [
-                {}
-              ]
-            },
-            "options": {}
-          },
-          "type": "n8n-nodes-base.httpRequest",
-          "typeVersion": 4.3,
-          "position": [
-            2784,
-            2784
-          ],
-          "id": "7c38f8ee-c7e1-4e33-a5b7-3ab70e2de494",
-          "name": "HTTP Request",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
             }
           }
         },
@@ -23744,167 +22990,6 @@
             ]
           ]
         },
-        "Get many database pages": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Get many child blocks": {
-          "main": [
-            [
-              {
-                "node": "Code in JavaScript",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Code in JavaScript": {
-          "main": [
-            [
-              {
-                "node": "Merge",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Loop Over Items": {
-          "main": [
-            [],
-            [
-              {
-                "node": "Edit Fields",
-                "type": "main",
-                "index": 0
-              },
-              {
-                "node": "Get many child blocks",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Qdrant Vector Store1": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Embeddings OpenAI": {
-          "ai_embedding": [
-            [
-              {
-                "node": "Qdrant Vector Store1",
-                "type": "ai_embedding",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Default Data Loader": {
-          "ai_document": [
-            [
-              {
-                "node": "Qdrant Vector Store1",
-                "type": "ai_document",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Token Splitter": {
-          "ai_textSplitter": [
-            [
-              {
-                "node": "Default Data Loader",
-                "type": "ai_textSplitter",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Delete Points": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items1",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Scroll Points": {
-          "main": [
-            [
-              {
-                "node": "Split Out",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Loop Over Items1": {
-          "main": [
-            [],
-            [
-              {
-                "node": "Delete Points",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Split Out": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items1",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Edit Fields": {
-          "main": [
-            [
-              {
-                "node": "Merge",
-                "type": "main",
-                "index": 1
-              }
-            ]
-          ]
-        },
-        "Merge": {
-          "main": [
-            [
-              {
-                "node": "Qdrant Vector Store1",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
         "OpenAI Chat Model": {
           "ai_languageModel": [
             [
@@ -24030,134 +23115,6 @@
               {
                 "node": "Agent Config",
                 "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "When clicking ‘Execute workflow’": {
-          "main": [
-            []
-          ]
-        },
-        "Upsert Points2": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Merge3": {
-          "main": [
-            [
-              {
-                "node": "Upsert Points2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Get OpenAI embeddings1": {
-          "main": [
-            [
-              {
-                "node": "Merge3",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Get many database pages1": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Get many child blocks1": {
-          "main": [
-            [
-              {
-                "node": "Code in JavaScript1",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Code in JavaScript1": {
-          "main": [
-            [
-              {
-                "node": "If2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Loop Over Items2": {
-          "main": [
-            [],
-            [
-              {
-                "node": "Edit Fields2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Edit Fields2": {
-          "main": [
-            [
-              {
-                "node": "Get many child blocks1",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "If2": {
-          "main": [
-            [
-              {
-                "node": "Loop Over Items2",
-                "type": "main",
-                "index": 0
-              }
-            ],
-            [
-              {
-                "node": "Get OpenAI embeddings1",
-                "type": "main",
-                "index": 0
-              },
-              {
-                "node": "Merge3",
-                "type": "main",
-                "index": 1
-              }
-            ]
-          ]
-        },
-        "Schedule Trigger": {
-          "main": [
-            [
-              {
-                "node": "Get many database pages1",
-                "type": "main",
                 "index": 0
               }
             ]
@@ -24408,10 +23365,10 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "f7ad7681-135f-43e0-85a9-27e169c260c1",
-      "activeVersionId": "f7ad7681-135f-43e0-85a9-27e169c260c1",
-      "versionCounter": 1297,
-      "triggerCount": 5,
+      "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
+      "activeVersionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
+      "versionCounter": 1314,
+      "triggerCount": 4,
       "shared": [
         {
           "updatedAt": "2025-12-28T16:41:54.247Z",
@@ -24435,7 +23392,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -24462,7 +23419,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -24472,9 +23429,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-18T19:05:26.799Z",
-        "createdAt": "2026-02-18T19:05:23.658Z",
-        "versionId": "f7ad7681-135f-43e0-85a9-27e169c260c1",
+        "updatedAt": "2026-02-19T20:09:42.878Z",
+        "createdAt": "2026-02-19T20:09:37.686Z",
+        "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
         "workflowId": "gKNGnV5aOelesPEn",
         "nodes": [
           {
@@ -24484,321 +23441,12 @@
             "type": "@n8n/n8n-nodes-langchain.chatTrigger",
             "typeVersion": 1.4,
             "position": [
-              816,
-              2576
+              464,
+              3184
             ],
             "id": "0092ce53-b257-43a8-bfc6-e31997605fbe",
             "name": "When chat message received",
             "webhookId": "5ba440e1-5711-4fca-9ac5-08601c504ec0"
-          },
-          {
-            "parameters": {
-              "resource": "databasePage",
-              "operation": "getAll",
-              "databaseId": {
-                "__rl": true,
-                "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
-                "mode": "id"
-              },
-              "limit": 5,
-              "options": {}
-            },
-            "type": "n8n-nodes-base.notion",
-            "typeVersion": 2.2,
-            "position": [
-              576,
-              416
-            ],
-            "id": "67cc9d98-e942-49c1-8afd-fd24f91d0d17",
-            "name": "Get many database pages",
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "block",
-              "operation": "getAll",
-              "blockId": {
-                "__rl": true,
-                "value": "={{ $json.url }}",
-                "mode": "url"
-              },
-              "returnAll": true
-            },
-            "type": "n8n-nodes-base.notion",
-            "typeVersion": 2.2,
-            "position": [
-              1056,
-              144
-            ],
-            "id": "70ec9b98-0699-4520-a8cd-573dfe25da19",
-            "name": "Get many child blocks",
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "jsCode": "let output = [];\n\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nreturn [\n  {\n    json: {\n      content: output.join('\\n\\n')\n    }\n  }\n];"
-            },
-            "type": "n8n-nodes-base.code",
-            "typeVersion": 2,
-            "position": [
-              1296,
-              144
-            ],
-            "id": "94ea182e-6a8f-401d-93ee-fd7955e844ff",
-            "name": "Code in JavaScript",
-            "executeOnce": false
-          },
-          {
-            "parameters": {
-              "mode": "insert",
-              "qdrantCollection": {
-                "__rl": true,
-                "value": "pier_knowledge",
-                "mode": "list",
-                "cachedResultName": "pier_knowledge"
-              },
-              "options": {
-                "contentPayloadKey": "content"
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.vectorStoreQdrant",
-            "typeVersion": 1.3,
-            "position": [
-              1872,
-              320
-            ],
-            "id": "63a9c5ca-4fa3-40ef-9c67-8bd8faf93be2",
-            "name": "Qdrant Vector Store1",
-            "credentials": {
-              "qdrantApi": {
-                "id": "BZ0gPnzsubvT5Zw1",
-                "name": "QdrantApi account 2"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "options": {}
-            },
-            "type": "n8n-nodes-base.splitInBatches",
-            "typeVersion": 3,
-            "position": [
-              800,
-              320
-            ],
-            "id": "e8eb1c59-963c-4a47-bd73-e9f80d257f8e",
-            "name": "Loop Over Items"
-          },
-          {
-            "parameters": {
-              "model": "text-embedding-3-large",
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
-            "typeVersion": 1.2,
-            "position": [
-              1792,
-              560
-            ],
-            "id": "a40f18cb-4960-48f6-a326-b76c26d000fe",
-            "name": "Embeddings OpenAI",
-            "credentials": {
-              "openAiApi": {
-                "id": "qOLCslk7RAXP7UBp",
-                "name": "OpenAi account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "textSplittingMode": "custom",
-              "options": {
-                "metadata": {
-                  "metadataValues": [
-                    {
-                      "name": "document_id",
-                      "value": "={{ $json.id }}"
-                    },
-                    {
-                      "name": "name",
-                      "value": "={{ $json.name }}"
-                    },
-                    {
-                      "name": "url",
-                      "value": "={{ $json.url }}"
-                    },
-                    {
-                      "name": "subject",
-                      "value": "={{ $json.property_tema_natureza }}"
-                    }
-                  ]
-                }
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.documentDefaultDataLoader",
-            "typeVersion": 1.1,
-            "position": [
-              2160,
-              480
-            ],
-            "id": "0705d8f9-1f33-4f11-8d02-9221b1e537d6",
-            "name": "Default Data Loader"
-          },
-          {
-            "parameters": {
-              "chunkSize": 1000000
-            },
-            "type": "@n8n/n8n-nodes-langchain.textSplitterTokenSplitter",
-            "typeVersion": 1,
-            "position": [
-              2272,
-              576
-            ],
-            "id": "78c03e7b-dd3d-4d3c-a535-d158603b27df",
-            "name": "Token Splitter"
-          },
-          {
-            "parameters": {
-              "resource": "point",
-              "operation": "deletePoints",
-              "collectionName": {
-                "__rl": true,
-                "value": "pier",
-                "mode": "list",
-                "cachedResultName": "pier"
-              },
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              1792,
-              2240
-            ],
-            "id": "770cb2a5-cdb8-40ef-9abd-b15121fbe2a1",
-            "name": "Delete Points",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "point",
-              "operation": "scrollPoints",
-              "collectionName": {
-                "__rl": true,
-                "value": "pier",
-                "mode": "list",
-                "cachedResultName": "pier"
-              },
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              1152,
-              2224
-            ],
-            "id": "99de0890-f678-4503-ae7b-be58a6b05a9c",
-            "name": "Scroll Points",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "options": {}
-            },
-            "type": "n8n-nodes-base.splitInBatches",
-            "typeVersion": 3,
-            "position": [
-              1552,
-              2176
-            ],
-            "id": "7bc57dc3-1132-447f-a2cb-973579a205c0",
-            "name": "Loop Over Items1"
-          },
-          {
-            "parameters": {
-              "fieldToSplitOut": "result.points",
-              "options": {}
-            },
-            "type": "n8n-nodes-base.splitOut",
-            "typeVersion": 1,
-            "position": [
-              1360,
-              2224
-            ],
-            "id": "54579fa7-0f1c-4a4c-856c-9b2dc6891bd7",
-            "name": "Split Out"
-          },
-          {
-            "parameters": {
-              "assignments": {
-                "assignments": [
-                  {
-                    "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
-                    "name": "id",
-                    "value": "={{ $json.id }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "5693a142-1555-4384-8df2-12994814d418",
-                    "name": "name",
-                    "value": "={{ $json.name }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
-                    "name": "url",
-                    "value": "={{ $json.url }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
-                    "name": "property_tema_natureza",
-                    "value": "={{ $json.property_tema_natureza }}",
-                    "type": "string"
-                  }
-                ]
-              },
-              "options": {}
-            },
-            "type": "n8n-nodes-base.set",
-            "typeVersion": 3.4,
-            "position": [
-              1056,
-              304
-            ],
-            "id": "51363c7c-0851-4a51-8ef0-ad6a1654f876",
-            "name": "Edit Fields"
-          },
-          {
-            "parameters": {},
-            "type": "n8n-nodes-base.merge",
-            "typeVersion": 3.2,
-            "position": [
-              1584,
-              320
-            ],
-            "id": "a87f35bd-020d-4582-8173-03dfa44ce431",
-            "name": "Merge"
           },
           {
             "parameters": {
@@ -24809,8 +23457,8 @@
             "type": "@n8n/n8n-nodes-langchain.agent",
             "typeVersion": 3.1,
             "position": [
-              1024,
-              2576
+              672,
+              3184
             ],
             "id": "107324d8-a24b-418d-a506-d3f62a727197",
             "name": "AI Agent"
@@ -24829,8 +23477,8 @@
             "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
             "typeVersion": 1.3,
             "position": [
-              896,
-              2784
+              544,
+              3392
             ],
             "id": "0e90b97a-b0c6-4dca-a533-e31bd602ab94",
             "name": "OpenAI Chat Model",
@@ -24846,8 +23494,8 @@
             "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
             "typeVersion": 1.3,
             "position": [
-              1040,
-              2784
+              688,
+              3392
             ],
             "id": "0b677de5-5813-4fff-b54b-1045e7b07c86",
             "name": "Simple Memory"
@@ -24889,26 +23537,11 @@
             "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
             "typeVersion": 2.2,
             "position": [
-              1184,
-              2784
+              832,
+              3392
             ],
             "id": "89ccb881-f39a-429a-b651-7312f5032442",
             "name": "Call 'subflow qdrant'"
-          },
-          {
-            "parameters": {
-              "content": "## Deletar documentos da base",
-              "height": 304,
-              "width": 1024
-            },
-            "type": "n8n-nodes-base.stickyNote",
-            "typeVersion": 1,
-            "position": [
-              1024,
-              2144
-            ],
-            "id": "6f2011f2-12d3-478e-a5d4-e9974417079e",
-            "name": "Sticky Note1"
           },
           {
             "parameters": {
@@ -25153,388 +23786,6 @@
             }
           },
           {
-            "parameters": {},
-            "type": "n8n-nodes-base.manualTrigger",
-            "typeVersion": 1,
-            "position": [
-              -176,
-              1424
-            ],
-            "id": "3b3be0fc-17db-44e5-90b3-7f0ba4e2e2e8",
-            "name": "When clicking ‘Execute workflow’"
-          },
-          {
-            "parameters": {
-              "resource": "point",
-              "operation": "upsertPoints",
-              "collectionName": {
-                "__rl": true,
-                "value": "pier",
-                "mode": "list",
-                "cachedResultName": "pier"
-              },
-              "points": "=[\n  {\n    \"id\": \"{{ $json.id }}\",\n    \"payload\": {\n      \"content\": {{ JSON.stringify($json.content) }},\n      \"name\": {{ JSON.stringify($json.name) }},\n      \"url\": {{ JSON.stringify($json.url) }},\n      \"subject\": {{ JSON.stringify($json.property_tema_natureza) }},\n      \"document_id\": \"{{ $json.id }}\"\n    },\n    \"vector\": {\n      \"open_ai_large\": {{ JSON.stringify($json.data[0].embedding) }}\n    }\n  }\n]",
-              "requestOptions": {}
-            },
-            "id": "9ca80b2f-d349-40ca-8128-a483bf7a85c2",
-            "name": "Upsert Points2",
-            "type": "n8n-nodes-qdrant.qdrant",
-            "position": [
-              2512,
-              1184
-            ],
-            "typeVersion": 1,
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "mode": "combine",
-              "combineBy": "combineByPosition",
-              "options": {}
-            },
-            "id": "8700aa36-9908-4046-953f-05a0d8723877",
-            "name": "Merge3",
-            "type": "n8n-nodes-base.merge",
-            "position": [
-              2192,
-              1168
-            ],
-            "typeVersion": 3.2
-          },
-          {
-            "parameters": {
-              "method": "POST",
-              "url": "https://api.openai.com/v1/embeddings",
-              "authentication": "predefinedCredentialType",
-              "nodeCredentialType": "openAiApi",
-              "sendBody": true,
-              "bodyParameters": {
-                "parameters": [
-                  {
-                    "name": "input",
-                    "value": "={{ $json.content }}"
-                  },
-                  {
-                    "name": "model",
-                    "value": "text-embedding-3-large"
-                  }
-                ]
-              },
-              "options": {}
-            },
-            "id": "1b5d7c68-d97a-40ec-bc12-7072e5deec68",
-            "name": "Get OpenAI embeddings1",
-            "type": "n8n-nodes-base.httpRequest",
-            "position": [
-              2032,
-              992
-            ],
-            "typeVersion": 4.2,
-            "credentials": {
-              "openAiApi": {
-                "id": "qOLCslk7RAXP7UBp",
-                "name": "OpenAi account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "databasePage",
-              "operation": "getAll",
-              "databaseId": {
-                "__rl": true,
-                "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
-                "mode": "id"
-              },
-              "returnAll": true,
-              "filterType": "manual",
-              "options": {}
-            },
-            "type": "n8n-nodes-base.notion",
-            "typeVersion": 2.2,
-            "position": [
-              656,
-              1168
-            ],
-            "id": "70002802-e79d-48bc-a803-467ca4ed954c",
-            "name": "Get many database pages1",
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "block",
-              "operation": "getAll",
-              "blockId": {
-                "__rl": true,
-                "value": "={{ $json.url }}",
-                "mode": "url"
-              },
-              "returnAll": true
-            },
-            "type": "n8n-nodes-base.notion",
-            "typeVersion": 2.2,
-            "position": [
-              1376,
-              992
-            ],
-            "id": "72be92a0-c979-4626-8a8d-508bdabc600f",
-            "name": "Get many child blocks1",
-            "alwaysOutputData": true,
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "jsCode": "let output = [];\n\n// --- PART 1: Process the blocks (Your existing logic) ---\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nconst finalContent = output.join('\\n\\n');\n\n// --- PART 2: Retrieve Metadata safely ---\n// We pull the ID, Name, and URL from the 'Edit Fields2' node \n// that ran immediately before this execution.\nconst metadata = $('Edit Fields2').first().json;\n\n// --- PART 3: Return Combined Data ---\n// We return ONE object containing both the Metadata and the Content.\nreturn [\n  {\n    json: {\n      ...metadata,          // Inherits: id, name, url, property_tema_natureza\n      content: finalContent // Adds: The generated text\n    }\n  }\n];"
-            },
-            "type": "n8n-nodes-base.code",
-            "typeVersion": 2,
-            "position": [
-              1552,
-              1008
-            ],
-            "id": "057d3047-80d2-4453-9726-aef60e67cbae",
-            "name": "Code in JavaScript1",
-            "executeOnce": false
-          },
-          {
-            "parameters": {
-              "options": {}
-            },
-            "type": "n8n-nodes-base.splitInBatches",
-            "typeVersion": 3,
-            "position": [
-              848,
-              1040
-            ],
-            "id": "06b15324-9f1f-4049-8882-9f7b4970f7cc",
-            "name": "Loop Over Items2"
-          },
-          {
-            "parameters": {
-              "assignments": {
-                "assignments": [
-                  {
-                    "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
-                    "name": "id",
-                    "value": "={{ $('Loop Over Items2').item.json.id }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "5693a142-1555-4384-8df2-12994814d418",
-                    "name": "name",
-                    "value": "={{ $('Loop Over Items2').item.json.name }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
-                    "name": "url",
-                    "value": "={{ $('Loop Over Items2').item.json.url }}",
-                    "type": "string"
-                  },
-                  {
-                    "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
-                    "name": "property_tema_natureza",
-                    "value": "={{ $('Loop Over Items2').item.json.property_tema_natureza }}",
-                    "type": "string"
-                  }
-                ]
-              },
-              "options": {}
-            },
-            "type": "n8n-nodes-base.set",
-            "typeVersion": 3.4,
-            "position": [
-              1168,
-              1056
-            ],
-            "id": "137b47df-b6da-47e4-96ca-ba42e51d1500",
-            "name": "Edit Fields2"
-          },
-          {
-            "parameters": {
-              "conditions": {
-                "options": {
-                  "caseSensitive": true,
-                  "leftValue": "",
-                  "typeValidation": "strict",
-                  "version": 3
-                },
-                "conditions": [
-                  {
-                    "id": "0a00b2a3-f7c9-4015-986a-48a2df958f39",
-                    "leftValue": "={{ $json.content }}",
-                    "rightValue": "",
-                    "operator": {
-                      "type": "string",
-                      "operation": "equals",
-                      "name": "filter.operator.equals"
-                    }
-                  }
-                ],
-                "combinator": "and"
-              },
-              "options": {}
-            },
-            "type": "n8n-nodes-base.if",
-            "typeVersion": 2.3,
-            "position": [
-              1776,
-              1056
-            ],
-            "id": "b2388a09-427e-4cf8-9df7-95170b235ab8",
-            "name": "If2"
-          },
-          {
-            "parameters": {
-              "rule": {
-                "interval": [
-                  {}
-                ]
-              }
-            },
-            "type": "n8n-nodes-base.scheduleTrigger",
-            "typeVersion": 1.3,
-            "position": [
-              432,
-              1168
-            ],
-            "id": "c0049093-fd62-434b-a02f-c7423b5fd4ce",
-            "name": "Schedule Trigger"
-          },
-          {
-            "parameters": {
-              "content": "## Fluxo principal de atualização",
-              "height": 528,
-              "width": 2528
-            },
-            "type": "n8n-nodes-base.stickyNote",
-            "typeVersion": 1,
-            "position": [
-              256,
-              912
-            ],
-            "id": "e6c4f3da-535c-445f-8daa-8f6c7f335292",
-            "name": "Sticky Note"
-          },
-          {
-            "parameters": {
-              "operation": "createCollection",
-              "collectionName": "fdsfdf",
-              "shardNumber": {},
-              "replicationFactor": {},
-              "writeConsistencyFactor": {},
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              2608,
-              2432
-            ],
-            "id": "e5db12af-3b8f-4948-967a-41bf3e6c4ea3",
-            "name": "Create Collection",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "operation": "deleteCollection",
-              "collectionName": {
-                "__rl": true,
-                "value": "atas",
-                "mode": "list",
-                "cachedResultName": "atas"
-              },
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              2288,
-              2304
-            ],
-            "id": "6aa96a82-d7de-4e2a-b236-42d0f6b36af1",
-            "name": "Delete Collection",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "operation": "getCollection",
-              "collectionName": {
-                "__rl": true,
-                "value": "atas",
-                "mode": "list",
-                "cachedResultName": "atas"
-              },
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              2304,
-              2560
-            ],
-            "id": "8eb1d3c8-381d-4b5d-aaed-80b638b625b7",
-            "name": "Get Collection",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "point",
-              "operation": "scrollPoints",
-              "collectionName": {
-                "__rl": true,
-                "value": "atas",
-                "mode": "list",
-                "cachedResultName": "atas"
-              },
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              2896,
-              2208
-            ],
-            "id": "af52eea9-6ab3-48c7-9304-e453257dab70",
-            "name": "Scroll Points1",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
             "parameters": {
               "options": {
                 "systemMessage": "# Contexto\nVocê recebe o conteúdo de um slide de power point ou um range de células do Excel e, opcionalmente, uma mensagem da pessoa que o contruiu e conteúdo dos demais slides/abas. Se houver uma mensagem do usuário, faça o que ele pedir, do contrário você deve realizar uma análise crítica:\n\n## Power Point:\n#### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (busque documentos de referência)\n-Fonte homogênea em todas as caixas com texto\n-Erros de português\n-Tamanho da fonte coerente entre os slides\n-Alinhamento de titulo (mesma posição em todos os slides)\n-Uso adequado de slide mestre\n-Slides contém numeração\n-Unidades nos números (coerência interna no slide)\n-Padrão de frases começarem com letra maiúscula OU cada palavra em letra maiúscula\n-Caso o conteúdo dos demais slides seja passado também os utilize para ver se o slide em questão está bem construído e posicionado na apresentação.\n## Opcional:\n-O usuário também pode pedir sugestões de slides. Nesse caso busque slides na tool de banco de slides e retorne o link da imagem do slide e o link do sharepoint\n\n## Excel:\n### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (indentifique o conteúdo (técnico e teórico) e busque documentos de referência)\n-Fonte homogênea em todas as células\n-Erros de português\n-Tamanho da fonte coerente\n-Aderência sólida com conceitos contábeis e financeiros\n\n# Diretrizes Gerais\n- Suas respostas devem seguir as diretrizes da Píer Partners, e para isso consulte a base de conhecimento disponível, onde diversos documentos sobre os temas com os quais trabalhamos estão disponíveis.\n- Se o usuário pedir a revisão nos dados (números de mercado, índices, etc) utilize as ferramenta de busca na web (Google para buscas simples e Perpexity para buscas avançadas).\n- As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks.\n- Seja direto, indo direto para a análise, com profundidade mas sendo breve.\n- Sempre retorne sua resposta em formato Markdown."
@@ -25601,54 +23852,6 @@
               "notionApi": {
                 "id": "QJqIInVEAt8nkp5t",
                 "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "operation": "__CUSTOM_API_CALL__",
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              2624,
-              2256
-            ],
-            "id": "6d206cb1-4882-4d44-87bd-8422762a754a",
-            "name": "__CUSTOM_API_CALL__ collection",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "url": "https://021f8bc6-6e1c-467e-a41c-6f7c0d6c461d.us-east4-0.gcp.cloud.qdrant.io/collections/atas",
-              "authentication": "predefinedCredentialType",
-              "nodeCredentialType": "qdrantRestApi",
-              "sendQuery": true,
-              "queryParameters": {
-                "parameters": [
-                  {}
-                ]
-              },
-              "options": {}
-            },
-            "type": "n8n-nodes-base.httpRequest",
-            "typeVersion": 4.3,
-            "position": [
-              2784,
-              2784
-            ],
-            "id": "7c38f8ee-c7e1-4e33-a5b7-3ab70e2de494",
-            "name": "HTTP Request",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
               }
             }
           },
@@ -26048,167 +24251,6 @@
               ]
             ]
           },
-          "Get many database pages": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Get many child blocks": {
-            "main": [
-              [
-                {
-                  "node": "Code in JavaScript",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Code in JavaScript": {
-            "main": [
-              [
-                {
-                  "node": "Merge",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Loop Over Items": {
-            "main": [
-              [],
-              [
-                {
-                  "node": "Edit Fields",
-                  "type": "main",
-                  "index": 0
-                },
-                {
-                  "node": "Get many child blocks",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Qdrant Vector Store1": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Embeddings OpenAI": {
-            "ai_embedding": [
-              [
-                {
-                  "node": "Qdrant Vector Store1",
-                  "type": "ai_embedding",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Default Data Loader": {
-            "ai_document": [
-              [
-                {
-                  "node": "Qdrant Vector Store1",
-                  "type": "ai_document",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Token Splitter": {
-            "ai_textSplitter": [
-              [
-                {
-                  "node": "Default Data Loader",
-                  "type": "ai_textSplitter",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Delete Points": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items1",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Scroll Points": {
-            "main": [
-              [
-                {
-                  "node": "Split Out",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Loop Over Items1": {
-            "main": [
-              [],
-              [
-                {
-                  "node": "Delete Points",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Split Out": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items1",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Edit Fields": {
-            "main": [
-              [
-                {
-                  "node": "Merge",
-                  "type": "main",
-                  "index": 1
-                }
-              ]
-            ]
-          },
-          "Merge": {
-            "main": [
-              [
-                {
-                  "node": "Qdrant Vector Store1",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
           "OpenAI Chat Model": {
             "ai_languageModel": [
               [
@@ -26334,134 +24376,6 @@
                 {
                   "node": "Agent Config",
                   "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "When clicking ‘Execute workflow’": {
-            "main": [
-              []
-            ]
-          },
-          "Upsert Points2": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Merge3": {
-            "main": [
-              [
-                {
-                  "node": "Upsert Points2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Get OpenAI embeddings1": {
-            "main": [
-              [
-                {
-                  "node": "Merge3",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Get many database pages1": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Get many child blocks1": {
-            "main": [
-              [
-                {
-                  "node": "Code in JavaScript1",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Code in JavaScript1": {
-            "main": [
-              [
-                {
-                  "node": "If2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Loop Over Items2": {
-            "main": [
-              [],
-              [
-                {
-                  "node": "Edit Fields2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Edit Fields2": {
-            "main": [
-              [
-                {
-                  "node": "Get many child blocks1",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "If2": {
-            "main": [
-              [
-                {
-                  "node": "Loop Over Items2",
-                  "type": "main",
-                  "index": 0
-                }
-              ],
-              [
-                {
-                  "node": "Get OpenAI embeddings1",
-                  "type": "main",
-                  "index": 0
-                },
-                {
-                  "node": "Merge3",
-                  "type": "main",
-                  "index": 1
-                }
-              ]
-            ]
-          },
-          "Schedule Trigger": {
-            "main": [
-              [
-                {
-                  "node": "Get many database pages1",
-                  "type": "main",
                   "index": 0
                 }
               ]
@@ -26688,15 +24602,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version f7ad7681",
+        "name": "Version 6657422f",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-18T19:05:26.782Z",
-            "id": 370,
+            "createdAt": "2026-02-19T20:09:42.865Z",
+            "id": 374,
             "workflowId": "gKNGnV5aOelesPEn",
-            "versionId": "f7ad7681-135f-43e0-85a9-27e169c260c1",
+            "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -26839,7 +24753,7 @@
       },
       "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
       "activeVersionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "versionCounter": 64,
+      "versionCounter": 73,
       "triggerCount": 0,
       "shared": [
         {
@@ -26864,7 +24778,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -26891,7 +24805,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -28349,7 +26263,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 136,
+      "versionCounter": 145,
       "triggerCount": 1,
       "shared": [
         {
@@ -28374,7 +26288,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28401,7 +26315,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -30445,7 +28359,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 756,
+      "versionCounter": 765,
       "triggerCount": 3,
       "shared": [
         {
@@ -30470,7 +28384,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30497,7 +28411,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -31671,7 +29585,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 67,
+      "versionCounter": 76,
       "triggerCount": 0,
       "shared": [
         {
@@ -31696,7 +29610,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -31723,7 +29637,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -31950,7 +29864,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 47,
+      "versionCounter": 56,
       "triggerCount": 0,
       "shared": [
         {
@@ -31975,7 +29889,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32002,7 +29916,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -32555,7 +30469,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 136,
+      "versionCounter": 145,
       "triggerCount": 1,
       "shared": [
         {
@@ -32580,7 +30494,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32607,7 +30521,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -33022,7 +30936,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-18T18:43:11.004Z",
+      "updatedAt": "2026-02-20T01:06:52.879Z",
       "createdAt": "2026-02-09T17:02:49.887Z",
       "id": "9RXJ-hlStfYdNxlhDaV_1",
       "name": "Atualizador Memória Projeto",
@@ -33527,6 +31441,258 @@
               "name": "Supabase marujo-pier"
             }
           }
+        },
+        {
+          "parameters": {
+            "httpMethod": "POST",
+            "path": "novo_evento_memoria_erpier",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.webhook",
+          "typeVersion": 2.1,
+          "position": [
+            -624,
+            -672
+          ],
+          "id": "cb066919-bec5-48e5-b984-060ee54f6578",
+          "name": "Webhook",
+          "webhookId": "926e7ce4-c35b-4188-915b-b14e47b5fc89"
+        },
+        {
+          "parameters": {
+            "modelId": {
+              "__rl": true,
+              "value": "gpt-5.2",
+              "mode": "list",
+              "cachedResultName": "GPT-5.2"
+            },
+            "responses": {
+              "values": [
+                {
+                  "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page1').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page1').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page1').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page1').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page1').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page1').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page1').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\n- Retorne um json com o changelod e a memoria_atualizada, cada um em uma chave\n- Os valores de cada chave devem estar em formato markdown\n\n### Chave 1: changelog\nUm resumo conciso das alterações feitas, no formato:\n\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n\n### Chave 2: memoria_atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior.\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
+                }
+              ]
+            },
+            "builtInTools": {},
+            "options": {
+              "textFormat": {
+                "textOptions": {
+                  "type": "json_schema",
+                  "name": "memoria_e_changelog",
+                  "schema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"changelog\": {\n      \"type\": \"string\"\n    },\n    \"memoria_atualizada\": {\n      \"type\": \"string\"\n    }\n  },\n  \"additionalProperties\": false,\n  \"required\": [\"changelog\", \"memoria_atualizada\"]\n}"
+                }
+              }
+            }
+          },
+          "type": "@n8n/n8n-nodes-langchain.openAi",
+          "typeVersion": 2.1,
+          "position": [
+            64,
+            -672
+          ],
+          "id": "53d4d33c-5849-4972-8a49-31c0815afc97",
+          "name": "Message a model1",
+          "credentials": {
+            "openAiApi": {
+              "id": "g3Ikw9hUcV3sNHD2",
+              "name": "OpenAi ppt-interact"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "useCustomSchema": true,
+            "schema": "erpier",
+            "operation": "update",
+            "tableId": "projeto_memoria",
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "id",
+                  "condition": "eq",
+                  "keyValue": "={{ $('Get a row1').item.json.id }}"
+                }
+              ]
+            },
+            "fieldsUi": {
+              "fieldValues": [
+                {
+                  "fieldId": "memoria",
+                  "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
+                },
+                {
+                  "fieldId": "updated_at",
+                  "fieldValue": "={{ $('Webhook').item.json.body.record.id }}"
+                },
+                {
+                  "fieldId": "changelog",
+                  "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            624,
+            -688
+          ],
+          "id": "4ca72c0b-f122-4c59-92dd-dc0f799e94cc",
+          "name": "Update a row1",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "content": "## Atualiza a memória do projeto quando um novo evento acontece",
+            "height": 544,
+            "width": 1552
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "typeVersion": 1,
+          "position": [
+            -656,
+            -752
+          ],
+          "id": "8ad0deff-ca94-4f8c-a236-68c29aac9c2f",
+          "name": "Sticky Note1"
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "get",
+            "pageId": {
+              "__rl": true,
+              "mode": "id",
+              "value": "={{ $json.body.record.projeto_id }}",
+              "__regex": "^([0-9a-f]{8}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{12})"
+            }
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            -384,
+            -672
+          ],
+          "id": "109348bf-db05-4ddf-a61f-2c3333c33462",
+          "name": "Get a database page1",
+          "alwaysOutputData": true,
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 3
+              },
+              "conditions": [
+                {
+                  "id": "ce31056b-e656-4a48-8763-cfcd35e79a23",
+                  "leftValue": "={{ $('Get a row1').item.json.memoria }}",
+                  "rightValue": "",
+                  "operator": {
+                    "type": "string",
+                    "operation": "exists",
+                    "singleValue": true
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.if",
+          "typeVersion": 2.3,
+          "position": [
+            400,
+            -672
+          ],
+          "id": "6b944f6b-e959-41f6-871f-e04bd9b521fd",
+          "name": "If1"
+        },
+        {
+          "parameters": {
+            "useCustomSchema": true,
+            "schema": "erpier",
+            "tableId": "projeto_memoria",
+            "fieldsUi": {
+              "fieldValues": [
+                {
+                  "fieldId": "memoria",
+                  "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
+                },
+                {
+                  "fieldId": "updated_at",
+                  "fieldValue": "={{ $('Webhook').item.json.body.record.id }}"
+                },
+                {
+                  "fieldId": "projeto_id",
+                  "fieldValue": "={{ $('Webhook').item.json.body.record.projeto_id }}"
+                },
+                {
+                  "fieldId": "changelog",
+                  "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            624,
+            -480
+          ],
+          "id": "0b4df21c-a531-4dde-b515-357cd05883f2",
+          "name": "Create a row1",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "useCustomSchema": true,
+            "schema": "erpier",
+            "operation": "get",
+            "tableId": "projeto_eventos",
+            "filters": {
+              "conditions": [
+                {
+                  "keyName": "projeto_id",
+                  "keyValue": "={{ $json.body.record.projeto_id }}"
+                }
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.supabase",
+          "typeVersion": 1,
+          "position": [
+            -160,
+            -672
+          ],
+          "id": "f454f7c7-f300-4633-8076-cb561ddcd212",
+          "name": "Get a row1",
+          "alwaysOutputData": true,
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
         }
       ],
       "connections": {
@@ -33664,6 +31830,68 @@
             [
               {
                 "node": "Loop Over Items",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Webhook": {
+          "main": [
+            [
+              {
+                "node": "Get a database page1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Message a model1": {
+          "main": [
+            [
+              {
+                "node": "If1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get a database page1": {
+          "main": [
+            [
+              {
+                "node": "Get a row1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "If1": {
+          "main": [
+            [
+              {
+                "node": "Update a row1",
+                "type": "main",
+                "index": 0
+              }
+            ],
+            [
+              {
+                "node": "Create a row1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get a row1": {
+          "main": [
+            [
+              {
+                "node": "Message a model1",
                 "type": "main",
                 "index": 0
               }
@@ -33840,12 +32068,53 @@
               "item": 0
             }
           }
+        ],
+        "Webhook": [
+          {
+            "json": {
+              "headers": {
+                "host": "primary-production-0ad4f.up.railway.app",
+                "user-agent": "pg_net/0.14.0",
+                "content-length": "332",
+                "accept": "*/*",
+                "content-type": "application/json",
+                "x-forwarded-for": "34.200.200.129",
+                "x-forwarded-host": "primary-production-0ad4f.up.railway.app",
+                "x-forwarded-proto": "https",
+                "x-railway-edge": "railway/us-east4-eqdc4a",
+                "x-railway-request-id": "qsmAvKWjQXiVdY6JozsQ6Q",
+                "x-real-ip": "34.200.200.129",
+                "x-request-start": "1771090789058",
+                "accept-encoding": "gzip"
+              },
+              "params": {},
+              "query": {},
+              "body": {
+                "type": "INSERT",
+                "table": "memorias_projetos_eventos",
+                "record": {
+                  "id": 55,
+                  "texto": "teste (ignorar)",
+                  "origem": null,
+                  "criador": null,
+                  "embedding": null,
+                  "created_at": "2026-02-14T17:39:47.910194+00:00",
+                  "projeto_id": "25502cfe-4c0e-8019-85e7-f2b3a98f2964",
+                  "id_na_origem": null
+                },
+                "schema": "knowledge_base",
+                "old_record": null
+              },
+              "webhookUrl": "https://primary-production-0ad4f.up.railway.app/webhook-test/novo_evento_memoria",
+              "executionMode": "test"
+            }
+          }
         ]
       },
-      "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
-      "activeVersionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
-      "versionCounter": 496,
-      "triggerCount": 3,
+      "versionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
+      "activeVersionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
+      "versionCounter": 536,
+      "triggerCount": 4,
       "shared": [
         {
           "updatedAt": "2026-02-09T17:02:49.887Z",
@@ -33869,7 +32138,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-18T17:35:35.567Z",
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -33896,7 +32165,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-18",
+                  "lastActiveAt": "2026-02-19",
                   "isPending": false
                 }
               }
@@ -33906,9 +32175,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-14T17:45:34.105Z",
-        "createdAt": "2026-02-14T17:45:28.222Z",
-        "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
+        "updatedAt": "2026-02-20T01:06:54.603Z",
+        "createdAt": "2026-02-20T01:06:52.892Z",
+        "versionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
         "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
         "nodes": [
           {
@@ -34408,6 +32677,258 @@
                 "name": "Supabase marujo-pier"
               }
             }
+          },
+          {
+            "parameters": {
+              "httpMethod": "POST",
+              "path": "novo_evento_memoria_erpier",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.webhook",
+            "typeVersion": 2.1,
+            "position": [
+              -624,
+              -672
+            ],
+            "id": "cb066919-bec5-48e5-b984-060ee54f6578",
+            "name": "Webhook",
+            "webhookId": "926e7ce4-c35b-4188-915b-b14e47b5fc89"
+          },
+          {
+            "parameters": {
+              "modelId": {
+                "__rl": true,
+                "value": "gpt-5.2",
+                "mode": "list",
+                "cachedResultName": "GPT-5.2"
+              },
+              "responses": {
+                "values": [
+                  {
+                    "content": "=# Agente de Atualização de Memória de Projetos — Píer Partners\n\n## Papel\nVocê é um agente especializado em manter a memória institucional de projetos da Píer Partners atualizada. Sua função é receber um documento (ata de reunião, atualização geral, nota técnica, etc.), extrair as informações relevantes e produzir uma versão atualizada da memória do projeto, preservando o histórico e incorporando as novidades.\n\n## Entradas\n\nVocê receberá cinco blocos de informação:\n\n### 1. Memória Atual do Projeto\n<memoria_atual>\n{{ $json.memoria || \"Ainda não há memória para esse projeto\"}}\n</memoria_atual>\n\n### 2. Novo Documento\n<novo_documento>\n{{ $('Webhook').item.json.body.record.texto }}\n</novo_documento>\n\n### 3. Tipo de Documento\n<tipo_documento>\n{{ $('Webhook').item.json.body.record.origem }}\n</tipo_documento>\n\n### 4. Data do Documento\n<data_documento>\n{{ $('Webhook').item.json.body.record.created_at }}\n</data_documento>\n\n### 5. Criador do Documento\n<criador_documento>\n{{ $('Webhook').item.json.body.record.criador || \"Sem criador específico\" }}\n</criador_documento>\n\nTipos possíveis:\n- **atas_notion**: Ata de reunião (contém decisões, participantes, próximos passos, pendências)\n- **atualizacao_geral**: Atualização informal ou resumo de status do projeto\n- **nota_tecnica**: Informação técnica, análise, parecer ou dado específico\n- **email**: Trecho relevante de comunicação por e-mail\n- **decisao**: Registro de decisão isolada tomada fora de reunião\n\n### 4. Contexto do Projeto\n<contexto_projeto>\n- **Nome do Projeto:** {{ $('Get a database page1').item.json.name }}\n- **Cliente/Contraparte:** {{ $('Get a database page1').item.json.property_empresa }}\n- **Equipe Píer Responsável:** {{ $('Get a database page1').item.json.property_status }}\n- **Equipe Píer Responsável:** {{ $('Get a database page1').item.json.property_pessoas_alocadas.replaceAll(\" \", \", \") }}\n- **Última atualização do gestor:** {{ $('Get a database page1').item.json.property_atualiza_es }}\n- **Última atualização do gestor (tarefas da semana):** {{ $('Get a database page1').item.json.property_tarefas_semana }}\n- **Data da última atualização do gestor:** {{ $('Get a database page1').item.json.property_ltima_edi_o }}\n</contexto_projeto>\n\n## Instruções de Processamento\n\n### Extração\n1. Leia o novo documento e identifique todas as informações que alteram, complementam ou contradizem a memória atual.\n2. Classifique cada informação extraída em uma das categorias:\n   - **Fato novo**: informação que não existia na memória\n   - **Atualização**: informação que modifica algo já registrado\n   - **Confirmação**: informação que reforça algo já existente (não requer alteração)\n   - **Contradição**: informação que conflita com o registro atual (requer atenção especial)\n\n### Regras de Atualização\n- **Nunca apague informações históricas.** Se algo mudou, registre a mudança e mantenha o contexto anterior quando relevante (ex: \"Prazo revisado de Jun/25 para Ago/25 conforme reunião de 09/02\").\n- **Preserve a estrutura da memória atual.** Se a memória já tem seções definidas, mantenha-as. Adicione novas seções apenas se necessário.\n- **Marque contradições explicitamente** quando o novo documento contradiz a memória sem resolução clara. Use o formato: `⚠️ CONTRADIÇÃO: [descrição]`.\n- **Registre a fonte e data** de cada alteração significativa entre parênteses. Ex: \"(Ata 09/02/2026)\".\n- **Próximos passos e pendências**: atualize a lista removendo itens concluídos (mova para histórico se relevante) e adicionando novos.\n- **Entregáveis**: atualize o status dos entregáveis quando o documento mencionar progresso, conclusão ou mudança de prazo. Mantenha o histórico de alterações de prazo.\n- **Participantes e stakeholders**: adicione novos nomes/papéis mencionados sem remover os existentes.\n- **Datas e prazos**: atualize sempre com referência à fonte da mudança.\n- **Se a memória atual estiver vazia**, crie a estrutura inicial a partir do contexto do projeto, entregáveis e documento recebido.\n\n### Estrutura Padrão da Memória (usar quando criando do zero)\n```\n# [Nome do Projeto]\n\n## Resumo Executivo\nBreve descrição do projeto, objetivo e status atual.\n\n## Informações Gerais\n- **Cliente/Contraparte:**\n- **Tipo de Operação:**\n- **Setor/Indústria:**\n- **Equipe Píer:**\n- **Confidencialidade:**\n- **Status:**\n- **Início:**\n- **Prazo estimado:**\n\n## Contexto e Escopo\nDescrição do escopo, motivação e contexto do projeto.\n\n## Entregáveis\n| Entregável | Responsável | Prazo | Status |\n|---|---|---|---|\n| ... | ... | ... | ... |\n\n## Status Atual\nO que está acontecendo agora — workstreams ativos, fase atual, blockers.\n\n## Decisões-Chave\nLista cronológica das decisões mais importantes tomadas.\n\n## Pendências e Próximos Passos\n- [ ] Pendência 1 — Responsável — Prazo\n- [ ] Pendência 2 — Responsável — Prazo\n\n## Riscos e Pontos de Atenção\nItens que podem impactar prazo, escopo ou resultado do projeto.\n\n## Stakeholders e Participantes\nMapa de pessoas envolvidas e seus papéis.\n\n## Histórico de Atualizações\nRegistro cronológico reverso (mais recente primeiro) das principais mudanças.\n```\n\n## Formato de Saída\n\n- Retorne um json com o changelod e a memoria_atualizada, cada um em uma chave\n- Os valores de cada chave devem estar em formato markdown\n\n### Chave 1: changelog\nUm resumo conciso das alterações feitas, no formato:\n\n**Data do documento fonte:** [data]\n**Tipo:** [tipo_documento]\n\n**Alterações realizadas:**\n- [NOVO] Descrição do que foi adicionado\n- [ATUALIZADO] Descrição do que foi modificado (de → para)\n- [CONTRADIÇÃO] Descrição do conflito identificado\n- [CONCLUÍDO] Item removido de pendências / entregável finalizado\n- [RISCO] Novo risco ou ponto de atenção identificado\n\n### Chave 2: memoria_atualizada\nA memória completa e atualizada do projeto, pronta para substituir a versão anterior.\n\n## Diretrizes Gerais\n- Seja objetivo e conciso. Não adicione interpretações ou suposições.\n- Use linguagem profissional compatível com o contexto de M&A e finanças corporativas.\n- Mantenha consistência de formato e terminologia ao longo da memória.\n- Na dúvida entre manter ou descartar uma informação do novo documento, **mantenha**.\n- Se o documento contiver informações claramente irrelevantes para o projeto (small talk, assuntos pessoais), ignore-as.\n- Ao atualizar entregáveis, trate mudanças de prazo como informação crítica — sempre registre o prazo anterior."
+                  }
+                ]
+              },
+              "builtInTools": {},
+              "options": {
+                "textFormat": {
+                  "textOptions": {
+                    "type": "json_schema",
+                    "name": "memoria_e_changelog",
+                    "schema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"changelog\": {\n      \"type\": \"string\"\n    },\n    \"memoria_atualizada\": {\n      \"type\": \"string\"\n    }\n  },\n  \"additionalProperties\": false,\n  \"required\": [\"changelog\", \"memoria_atualizada\"]\n}"
+                  }
+                }
+              }
+            },
+            "type": "@n8n/n8n-nodes-langchain.openAi",
+            "typeVersion": 2.1,
+            "position": [
+              64,
+              -672
+            ],
+            "id": "53d4d33c-5849-4972-8a49-31c0815afc97",
+            "name": "Message a model1",
+            "credentials": {
+              "openAiApi": {
+                "id": "g3Ikw9hUcV3sNHD2",
+                "name": "OpenAi ppt-interact"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "useCustomSchema": true,
+              "schema": "erpier",
+              "operation": "update",
+              "tableId": "projeto_memoria",
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "id",
+                    "condition": "eq",
+                    "keyValue": "={{ $('Get a row1').item.json.id }}"
+                  }
+                ]
+              },
+              "fieldsUi": {
+                "fieldValues": [
+                  {
+                    "fieldId": "memoria",
+                    "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
+                  },
+                  {
+                    "fieldId": "updated_at",
+                    "fieldValue": "={{ $('Webhook').item.json.body.record.id }}"
+                  },
+                  {
+                    "fieldId": "changelog",
+                    "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              624,
+              -688
+            ],
+            "id": "4ca72c0b-f122-4c59-92dd-dc0f799e94cc",
+            "name": "Update a row1",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "content": "## Atualiza a memória do projeto quando um novo evento acontece",
+              "height": 544,
+              "width": 1552
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "typeVersion": 1,
+            "position": [
+              -656,
+              -752
+            ],
+            "id": "8ad0deff-ca94-4f8c-a236-68c29aac9c2f",
+            "name": "Sticky Note1"
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "get",
+              "pageId": {
+                "__rl": true,
+                "mode": "id",
+                "value": "={{ $json.body.record.projeto_id }}",
+                "__regex": "^([0-9a-f]{8}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{12})"
+              }
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              -384,
+              -672
+            ],
+            "id": "109348bf-db05-4ddf-a61f-2c3333c33462",
+            "name": "Get a database page1",
+            "alwaysOutputData": true,
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "ce31056b-e656-4a48-8763-cfcd35e79a23",
+                    "leftValue": "={{ $('Get a row1').item.json.memoria }}",
+                    "rightValue": "",
+                    "operator": {
+                      "type": "string",
+                      "operation": "exists",
+                      "singleValue": true
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.if",
+            "typeVersion": 2.3,
+            "position": [
+              400,
+              -672
+            ],
+            "id": "6b944f6b-e959-41f6-871f-e04bd9b521fd",
+            "name": "If1"
+          },
+          {
+            "parameters": {
+              "useCustomSchema": true,
+              "schema": "erpier",
+              "tableId": "projeto_memoria",
+              "fieldsUi": {
+                "fieldValues": [
+                  {
+                    "fieldId": "memoria",
+                    "fieldValue": "={{ $json.output[0].content[0].text.memoria_atualizada }}"
+                  },
+                  {
+                    "fieldId": "updated_at",
+                    "fieldValue": "={{ $('Webhook').item.json.body.record.id }}"
+                  },
+                  {
+                    "fieldId": "projeto_id",
+                    "fieldValue": "={{ $('Webhook').item.json.body.record.projeto_id }}"
+                  },
+                  {
+                    "fieldId": "changelog",
+                    "fieldValue": "={{ $json.output[0].content[0].text.changelog }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              624,
+              -480
+            ],
+            "id": "0b4df21c-a531-4dde-b515-357cd05883f2",
+            "name": "Create a row1",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "useCustomSchema": true,
+              "schema": "erpier",
+              "operation": "get",
+              "tableId": "projeto_eventos",
+              "filters": {
+                "conditions": [
+                  {
+                    "keyName": "projeto_id",
+                    "keyValue": "={{ $json.body.record.projeto_id }}"
+                  }
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.supabase",
+            "typeVersion": 1,
+            "position": [
+              -160,
+              -672
+            ],
+            "id": "f454f7c7-f300-4633-8076-cb561ddcd212",
+            "name": "Get a row1",
+            "alwaysOutputData": true,
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
           }
         ],
         "connections": {
@@ -34550,26 +33071,974 @@
                 }
               ]
             ]
+          },
+          "Webhook": {
+            "main": [
+              [
+                {
+                  "node": "Get a database page1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Message a model1": {
+            "main": [
+              [
+                {
+                  "node": "If1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get a database page1": {
+            "main": [
+              [
+                {
+                  "node": "Get a row1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "If1": {
+            "main": [
+              [
+                {
+                  "node": "Update a row1",
+                  "type": "main",
+                  "index": 0
+                }
+              ],
+              [
+                {
+                  "node": "Create a row1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get a row1": {
+            "main": [
+              [
+                {
+                  "node": "Message a model1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 4d1b9ba8",
+        "name": "Version eecdf8b6",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-18T18:43:11.151Z",
-            "id": 369,
+            "createdAt": "2026-02-20T01:06:54.591Z",
+            "id": 376,
             "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
-            "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
+            "versionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
+          }
+        ]
+      }
+    },
+    {
+      "updatedAt": "2026-02-19T20:08:58.487Z",
+      "createdAt": "2026-02-19T14:01:54.293Z",
+      "id": "Wv0QxOvsSa6EHF2R",
+      "name": "Atualizador kb",
+      "description": null,
+      "active": true,
+      "isArchived": false,
+      "nodes": [
+        {
+          "parameters": {
+            "resource": "point",
+            "operation": "upsertPoints",
+            "collectionName": {
+              "__rl": true,
+              "value": "pier",
+              "mode": "list",
+              "cachedResultName": "pier"
+            },
+            "points": "=[\n  {\n    \"id\": \"{{ $json.id }}\",\n    \"payload\": {\n      \"content\": {{ JSON.stringify($json.content) }},\n      \"name\": {{ JSON.stringify($json.name) }},\n      \"url\": {{ JSON.stringify($json.url) }},\n      \"subject\": {{ JSON.stringify($json.property_tema_natureza) }},\n      \"document_id\": \"{{ $json.id }}\"\n    },\n    \"vector\": {\n      \"open_ai_large\": {{ JSON.stringify($json.data[0].embedding) }}\n    }\n  }\n]",
+            "requestOptions": {}
+          },
+          "id": "a4c0ea1c-2415-43e5-b54d-175e91ec7a38",
+          "name": "Upsert Points2",
+          "type": "n8n-nodes-qdrant.qdrant",
+          "position": [
+            1456,
+            1040
+          ],
+          "typeVersion": 1,
+          "credentials": {
+            "qdrantRestApi": {
+              "id": "DyeI41wEFTwZpaf7",
+              "name": "Qdrant account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "mode": "combine",
+            "combineBy": "combineByPosition",
+            "options": {}
+          },
+          "id": "34ba2513-d180-4e51-8935-2e3da616d26f",
+          "name": "Merge3",
+          "type": "n8n-nodes-base.merge",
+          "position": [
+            1136,
+            1024
+          ],
+          "typeVersion": 3.2
+        },
+        {
+          "parameters": {
+            "method": "POST",
+            "url": "https://api.openai.com/v1/embeddings",
+            "authentication": "predefinedCredentialType",
+            "nodeCredentialType": "openAiApi",
+            "sendBody": true,
+            "bodyParameters": {
+              "parameters": [
+                {
+                  "name": "input",
+                  "value": "={{ $json.content }}"
+                },
+                {
+                  "name": "model",
+                  "value": "text-embedding-3-large"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "id": "09b61117-9e86-4b23-bf7e-497382599860",
+          "name": "Get OpenAI embeddings1",
+          "type": "n8n-nodes-base.httpRequest",
+          "position": [
+            976,
+            848
+          ],
+          "typeVersion": 4.2,
+          "credentials": {
+            "openAiApi": {
+              "id": "qOLCslk7RAXP7UBp",
+              "name": "OpenAi account"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "resource": "databasePage",
+            "operation": "getAll",
+            "databaseId": {
+              "__rl": true,
+              "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
+              "mode": "id"
+            },
+            "returnAll": true,
+            "filterType": "manual",
+            "options": {}
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            -400,
+            1024
+          ],
+          "id": "ee0b5b77-740c-4208-bab1-d92dc8db983c",
+          "name": "Get many database pages1",
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "resource": "block",
+            "operation": "getAll",
+            "blockId": {
+              "__rl": true,
+              "value": "={{ $json.url }}",
+              "mode": "url"
+            },
+            "returnAll": true
+          },
+          "type": "n8n-nodes-base.notion",
+          "typeVersion": 2.2,
+          "position": [
+            320,
+            848
+          ],
+          "id": "fbe223cd-acc2-4f50-b391-1a7083dce8eb",
+          "name": "Get many child blocks1",
+          "alwaysOutputData": true,
+          "credentials": {
+            "notionApi": {
+              "id": "QJqIInVEAt8nkp5t",
+              "name": "Notion Pier"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "jsCode": "let output = [];\n\n// --- PART 1: Process the blocks (Your existing logic) ---\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nconst finalContent = output.join('\\n\\n');\n\n// --- PART 2: Retrieve Metadata safely ---\n// We pull the ID, Name, and URL from the 'Edit Fields2' node \n// that ran immediately before this execution.\nconst metadata = $('Edit Fields2').first().json;\n\n// --- PART 3: Return Combined Data ---\n// We return ONE object containing both the Metadata and the Content.\nreturn [\n  {\n    json: {\n      ...metadata,          // Inherits: id, name, url, property_tema_natureza\n      content: finalContent // Adds: The generated text\n    }\n  }\n];"
+          },
+          "type": "n8n-nodes-base.code",
+          "typeVersion": 2,
+          "position": [
+            496,
+            864
+          ],
+          "id": "b1f7e678-824b-46f6-ae41-ffc9b2751e2b",
+          "name": "Code in JavaScript1",
+          "executeOnce": false
+        },
+        {
+          "parameters": {
+            "options": {}
+          },
+          "type": "n8n-nodes-base.splitInBatches",
+          "typeVersion": 3,
+          "position": [
+            -208,
+            896
+          ],
+          "id": "f291d556-1ed9-4055-a478-bd59fda74889",
+          "name": "Loop Over Items2"
+        },
+        {
+          "parameters": {
+            "assignments": {
+              "assignments": [
+                {
+                  "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
+                  "name": "id",
+                  "value": "={{ $('Loop Over Items2').item.json.id }}",
+                  "type": "string"
+                },
+                {
+                  "id": "5693a142-1555-4384-8df2-12994814d418",
+                  "name": "name",
+                  "value": "={{ $('Loop Over Items2').item.json.name }}",
+                  "type": "string"
+                },
+                {
+                  "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
+                  "name": "url",
+                  "value": "={{ $('Loop Over Items2').item.json.url }}",
+                  "type": "string"
+                },
+                {
+                  "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
+                  "name": "property_tema_natureza",
+                  "value": "={{ $('Loop Over Items2').item.json.property_tema_natureza }}",
+                  "type": "string"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.set",
+          "typeVersion": 3.4,
+          "position": [
+            112,
+            912
+          ],
+          "id": "460a4c32-f3a4-45b8-bb4f-1398f6baa6a2",
+          "name": "Edit Fields2"
+        },
+        {
+          "parameters": {
+            "conditions": {
+              "options": {
+                "caseSensitive": true,
+                "leftValue": "",
+                "typeValidation": "strict",
+                "version": 3
+              },
+              "conditions": [
+                {
+                  "id": "0a00b2a3-f7c9-4015-986a-48a2df958f39",
+                  "leftValue": "={{ $json.content }}",
+                  "rightValue": "",
+                  "operator": {
+                    "type": "string",
+                    "operation": "equals",
+                    "name": "filter.operator.equals"
+                  }
+                }
+              ],
+              "combinator": "and"
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.if",
+          "typeVersion": 2.3,
+          "position": [
+            720,
+            912
+          ],
+          "id": "bb5907c8-acae-40bf-8f83-68e0e9cf5401",
+          "name": "If2"
+        },
+        {
+          "parameters": {
+            "rule": {
+              "interval": [
+                {}
+              ]
+            }
+          },
+          "type": "n8n-nodes-base.scheduleTrigger",
+          "typeVersion": 1.3,
+          "position": [
+            -624,
+            1024
+          ],
+          "id": "100d34d1-9902-45f2-9b4b-c16b5d7ed385",
+          "name": "Schedule Trigger"
+        },
+        {
+          "parameters": {
+            "content": "## Fluxo principal de atualização",
+            "height": 528,
+            "width": 2528
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "typeVersion": 1,
+          "position": [
+            -800,
+            768
+          ],
+          "id": "831ad01c-6ee9-4f42-adfb-2ae5ce79f4e4",
+          "name": "Sticky Note"
+        }
+      ],
+      "connections": {
+        "Upsert Points2": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Merge3": {
+          "main": [
+            [
+              {
+                "node": "Upsert Points2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get OpenAI embeddings1": {
+          "main": [
+            [
+              {
+                "node": "Merge3",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many database pages1": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Get many child blocks1": {
+          "main": [
+            [
+              {
+                "node": "Code in JavaScript1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Code in JavaScript1": {
+          "main": [
+            [
+              {
+                "node": "If2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Loop Over Items2": {
+          "main": [
+            [],
+            [
+              {
+                "node": "Edit Fields2",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Edit Fields2": {
+          "main": [
+            [
+              {
+                "node": "Get many child blocks1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "If2": {
+          "main": [
+            [
+              {
+                "node": "Loop Over Items2",
+                "type": "main",
+                "index": 0
+              }
+            ],
+            [
+              {
+                "node": "Get OpenAI embeddings1",
+                "type": "main",
+                "index": 0
+              },
+              {
+                "node": "Merge3",
+                "type": "main",
+                "index": 1
+              }
+            ]
+          ]
+        },
+        "Schedule Trigger": {
+          "main": [
+            [
+              {
+                "node": "Get many database pages1",
+                "type": "main",
+                "index": 0
+              }
+            ]
+          ]
+        }
+      },
+      "settings": {
+        "executionOrder": "v1",
+        "binaryMode": "separate",
+        "availableInMCP": false
+      },
+      "staticData": {
+        "node:Schedule Trigger": {
+          "recurrenceRules": []
+        }
+      },
+      "meta": null,
+      "pinData": {},
+      "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
+      "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
+      "versionCounter": 20,
+      "triggerCount": 1,
+      "shared": [
+        {
+          "updatedAt": "2026-02-19T14:01:54.293Z",
+          "createdAt": "2026-02-19T14:01:54.293Z",
+          "role": "workflow:owner",
+          "workflowId": "Wv0QxOvsSa6EHF2R",
+          "projectId": "RM08XJW2UnVIRsZg",
+          "project": {
+            "updatedAt": "2025-03-17T20:45:29.222Z",
+            "createdAt": "2025-03-17T20:44:07.833Z",
+            "id": "RM08XJW2UnVIRsZg",
+            "name": "sistemas pier <sistemas@pierpartners.com.br>",
+            "type": "personal",
+            "icon": null,
+            "description": null,
+            "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+            "projectRelations": [
+              {
+                "updatedAt": "2025-03-17T20:44:07.833Z",
+                "createdAt": "2025-03-17T20:44:07.833Z",
+                "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                "projectId": "RM08XJW2UnVIRsZg",
+                "user": {
+                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "createdAt": "2025-03-17T20:44:04.376Z",
+                  "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
+                  "email": "sistemas@pierpartners.com.br",
+                  "firstName": "sistemas",
+                  "lastName": "pier",
+                  "personalizationAnswers": {
+                    "version": "v4",
+                    "personalization_survey_submitted_at": "2025-03-17T20:45:43.316Z",
+                    "personalization_survey_n8n_version": "1.83.2",
+                    "companySize": "20-99",
+                    "companyType": "ecommerce",
+                    "role": "customer-support",
+                    "reportedSource": "podcast"
+                  },
+                  "settings": {
+                    "userActivated": true,
+                    "easyAIWorkflowOnboarded": true,
+                    "firstSuccessfulWorkflowId": "926UQuN4WyOXikAX",
+                    "userActivatedAt": 1742292005575,
+                    "npsSurvey": {
+                      "responded": true,
+                      "lastShownAt": 1762117383584
+                    }
+                  },
+                  "disabled": false,
+                  "mfaEnabled": false,
+                  "lastActiveAt": "2026-02-19",
+                  "isPending": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "tags": [],
+      "activeVersion": {
+        "updatedAt": "2026-02-19T20:09:00.063Z",
+        "createdAt": "2026-02-19T20:08:58.509Z",
+        "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
+        "workflowId": "Wv0QxOvsSa6EHF2R",
+        "nodes": [
+          {
+            "parameters": {
+              "resource": "point",
+              "operation": "upsertPoints",
+              "collectionName": {
+                "__rl": true,
+                "value": "pier",
+                "mode": "list",
+                "cachedResultName": "pier"
+              },
+              "points": "=[\n  {\n    \"id\": \"{{ $json.id }}\",\n    \"payload\": {\n      \"content\": {{ JSON.stringify($json.content) }},\n      \"name\": {{ JSON.stringify($json.name) }},\n      \"url\": {{ JSON.stringify($json.url) }},\n      \"subject\": {{ JSON.stringify($json.property_tema_natureza) }},\n      \"document_id\": \"{{ $json.id }}\"\n    },\n    \"vector\": {\n      \"open_ai_large\": {{ JSON.stringify($json.data[0].embedding) }}\n    }\n  }\n]",
+              "requestOptions": {}
+            },
+            "id": "a4c0ea1c-2415-43e5-b54d-175e91ec7a38",
+            "name": "Upsert Points2",
+            "type": "n8n-nodes-qdrant.qdrant",
+            "position": [
+              1456,
+              1040
+            ],
+            "typeVersion": 1,
+            "credentials": {
+              "qdrantRestApi": {
+                "id": "DyeI41wEFTwZpaf7",
+                "name": "Qdrant account"
+              }
+            }
           },
           {
-            "createdAt": "2026-02-14T17:45:34.091Z",
-            "id": 360,
-            "workflowId": "9RXJ-hlStfYdNxlhDaV_1",
-            "versionId": "4d1b9ba8-cdc1-4a35-9228-6df3d2658473",
+            "parameters": {
+              "mode": "combine",
+              "combineBy": "combineByPosition",
+              "options": {}
+            },
+            "id": "34ba2513-d180-4e51-8935-2e3da616d26f",
+            "name": "Merge3",
+            "type": "n8n-nodes-base.merge",
+            "position": [
+              1136,
+              1024
+            ],
+            "typeVersion": 3.2
+          },
+          {
+            "parameters": {
+              "method": "POST",
+              "url": "https://api.openai.com/v1/embeddings",
+              "authentication": "predefinedCredentialType",
+              "nodeCredentialType": "openAiApi",
+              "sendBody": true,
+              "bodyParameters": {
+                "parameters": [
+                  {
+                    "name": "input",
+                    "value": "={{ $json.content }}"
+                  },
+                  {
+                    "name": "model",
+                    "value": "text-embedding-3-large"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "id": "09b61117-9e86-4b23-bf7e-497382599860",
+            "name": "Get OpenAI embeddings1",
+            "type": "n8n-nodes-base.httpRequest",
+            "position": [
+              976,
+              848
+            ],
+            "typeVersion": 4.2,
+            "credentials": {
+              "openAiApi": {
+                "id": "qOLCslk7RAXP7UBp",
+                "name": "OpenAi account"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "resource": "databasePage",
+              "operation": "getAll",
+              "databaseId": {
+                "__rl": true,
+                "value": "2c902cfe4c0e8047b2c6daa6791da9e2",
+                "mode": "id"
+              },
+              "returnAll": true,
+              "filterType": "manual",
+              "options": {}
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              -400,
+              1024
+            ],
+            "id": "ee0b5b77-740c-4208-bab1-d92dc8db983c",
+            "name": "Get many database pages1",
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "resource": "block",
+              "operation": "getAll",
+              "blockId": {
+                "__rl": true,
+                "value": "={{ $json.url }}",
+                "mode": "url"
+              },
+              "returnAll": true
+            },
+            "type": "n8n-nodes-base.notion",
+            "typeVersion": 2.2,
+            "position": [
+              320,
+              848
+            ],
+            "id": "fbe223cd-acc2-4f50-b391-1a7083dce8eb",
+            "name": "Get many child blocks1",
+            "alwaysOutputData": true,
+            "credentials": {
+              "notionApi": {
+                "id": "QJqIInVEAt8nkp5t",
+                "name": "Notion Pier"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "jsCode": "let output = [];\n\n// --- PART 1: Process the blocks (Your existing logic) ---\nfor (const item of items) {\n  const block = item.json;\n\n  if (!block.content || !block.content.trim()) continue;\n\n  switch (block.type) {\n    case 'heading_1':\n      output.push(`# ${block.content}`);\n      break;\n    case 'heading_2':\n      output.push(`## ${block.content}`);\n      break;\n    case 'heading_3':\n      output.push(`### ${block.content}`);\n      break;\n    case 'paragraph':\n      output.push(block.content);\n      break;\n    case 'bulleted_list_item':\n      output.push(`- ${block.content}`);\n      break;\n    case 'numbered_list_item':\n      output.push(`1. ${block.content}`);\n      break;\n    case 'quote':\n      output.push(`> ${block.content}`);\n      break;\n    case 'divider':\n      output.push('---');\n      break;\n  }\n}\n\nconst finalContent = output.join('\\n\\n');\n\n// --- PART 2: Retrieve Metadata safely ---\n// We pull the ID, Name, and URL from the 'Edit Fields2' node \n// that ran immediately before this execution.\nconst metadata = $('Edit Fields2').first().json;\n\n// --- PART 3: Return Combined Data ---\n// We return ONE object containing both the Metadata and the Content.\nreturn [\n  {\n    json: {\n      ...metadata,          // Inherits: id, name, url, property_tema_natureza\n      content: finalContent // Adds: The generated text\n    }\n  }\n];"
+            },
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+              496,
+              864
+            ],
+            "id": "b1f7e678-824b-46f6-ae41-ffc9b2751e2b",
+            "name": "Code in JavaScript1",
+            "executeOnce": false
+          },
+          {
+            "parameters": {
+              "options": {}
+            },
+            "type": "n8n-nodes-base.splitInBatches",
+            "typeVersion": 3,
+            "position": [
+              -208,
+              896
+            ],
+            "id": "f291d556-1ed9-4055-a478-bd59fda74889",
+            "name": "Loop Over Items2"
+          },
+          {
+            "parameters": {
+              "assignments": {
+                "assignments": [
+                  {
+                    "id": "ec80d8f5-8a5b-4f7a-be3c-93ed3771f99e",
+                    "name": "id",
+                    "value": "={{ $('Loop Over Items2').item.json.id }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "5693a142-1555-4384-8df2-12994814d418",
+                    "name": "name",
+                    "value": "={{ $('Loop Over Items2').item.json.name }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "24d2b57c-48a9-4fc9-ade2-182617591c93",
+                    "name": "url",
+                    "value": "={{ $('Loop Over Items2').item.json.url }}",
+                    "type": "string"
+                  },
+                  {
+                    "id": "6e4da1f8-2690-4166-935a-7d7feb5bc522",
+                    "name": "property_tema_natureza",
+                    "value": "={{ $('Loop Over Items2').item.json.property_tema_natureza }}",
+                    "type": "string"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.set",
+            "typeVersion": 3.4,
+            "position": [
+              112,
+              912
+            ],
+            "id": "460a4c32-f3a4-45b8-bb4f-1398f6baa6a2",
+            "name": "Edit Fields2"
+          },
+          {
+            "parameters": {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "0a00b2a3-f7c9-4015-986a-48a2df958f39",
+                    "leftValue": "={{ $json.content }}",
+                    "rightValue": "",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.if",
+            "typeVersion": 2.3,
+            "position": [
+              720,
+              912
+            ],
+            "id": "bb5907c8-acae-40bf-8f83-68e0e9cf5401",
+            "name": "If2"
+          },
+          {
+            "parameters": {
+              "rule": {
+                "interval": [
+                  {}
+                ]
+              }
+            },
+            "type": "n8n-nodes-base.scheduleTrigger",
+            "typeVersion": 1.3,
+            "position": [
+              -624,
+              1024
+            ],
+            "id": "100d34d1-9902-45f2-9b4b-c16b5d7ed385",
+            "name": "Schedule Trigger"
+          },
+          {
+            "parameters": {
+              "content": "## Fluxo principal de atualização",
+              "height": 528,
+              "width": 2528
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "typeVersion": 1,
+            "position": [
+              -800,
+              768
+            ],
+            "id": "831ad01c-6ee9-4f42-adfb-2ae5ce79f4e4",
+            "name": "Sticky Note"
+          }
+        ],
+        "connections": {
+          "Upsert Points2": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Merge3": {
+            "main": [
+              [
+                {
+                  "node": "Upsert Points2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get OpenAI embeddings1": {
+            "main": [
+              [
+                {
+                  "node": "Merge3",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many database pages1": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Get many child blocks1": {
+            "main": [
+              [
+                {
+                  "node": "Code in JavaScript1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Code in JavaScript1": {
+            "main": [
+              [
+                {
+                  "node": "If2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Loop Over Items2": {
+            "main": [
+              [],
+              [
+                {
+                  "node": "Edit Fields2",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Edit Fields2": {
+            "main": [
+              [
+                {
+                  "node": "Get many child blocks1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "If2": {
+            "main": [
+              [
+                {
+                  "node": "Loop Over Items2",
+                  "type": "main",
+                  "index": 0
+                }
+              ],
+              [
+                {
+                  "node": "Get OpenAI embeddings1",
+                  "type": "main",
+                  "index": 0
+                },
+                {
+                  "node": "Merge3",
+                  "type": "main",
+                  "index": 1
+                }
+              ]
+            ]
+          },
+          "Schedule Trigger": {
+            "main": [
+              [
+                {
+                  "node": "Get many database pages1",
+                  "type": "main",
+                  "index": 0
+                }
+              ]
+            ]
+          }
+        },
+        "authors": "sistemas pier",
+        "name": "Version 3afde06e",
+        "description": "",
+        "autosaved": false,
+        "workflowPublishHistory": [
+          {
+            "createdAt": "2026-02-19T20:09:00.056Z",
+            "id": 373,
+            "workflowId": "Wv0QxOvsSa6EHF2R",
+            "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
