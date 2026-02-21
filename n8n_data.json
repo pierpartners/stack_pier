@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-20T01:48:10.867640+00:00",
+    "generated_at": "2026-02-21T01:43:59.624551+00:00",
     "workflow_count": 24
   },
   "workflows": [
@@ -920,7 +920,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 2,
       "shared": [
         {
@@ -945,7 +945,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -972,7 +972,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -2760,7 +2760,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 2,
       "shared": [
         {
@@ -2785,7 +2785,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2812,7 +2812,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -3813,7 +3813,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 0,
       "shared": [
         {
@@ -3838,7 +3838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3865,7 +3865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -4212,7 +4212,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 1,
       "shared": [
         {
@@ -4237,7 +4237,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4264,7 +4264,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -4937,7 +4937,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 60,
+      "versionCounter": 63,
       "triggerCount": 3,
       "shared": [
         {
@@ -4962,7 +4962,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4989,7 +4989,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -6806,7 +6806,7 @@
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
-      "versionCounter": 60,
+      "versionCounter": 63,
       "triggerCount": 1,
       "shared": [
         {
@@ -6831,7 +6831,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6858,7 +6858,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -8560,7 +8560,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 1,
       "shared": [
         {
@@ -8585,7 +8585,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8612,7 +8612,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -9417,7 +9417,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 129,
+      "versionCounter": 132,
       "triggerCount": 2,
       "shared": [
         {
@@ -9442,7 +9442,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9469,7 +9469,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -11682,7 +11682,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 272,
+      "versionCounter": 275,
       "triggerCount": 1,
       "shared": [
         {
@@ -11707,7 +11707,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -11734,7 +11734,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -13839,7 +13839,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 61,
+      "versionCounter": 64,
       "triggerCount": 1,
       "shared": [
         {
@@ -13864,7 +13864,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -13891,7 +13891,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -16089,7 +16089,7 @@
       "pinData": {},
       "versionId": "9334320a-0961-40d0-a621-a25f13d63348",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 117,
+      "versionCounter": 120,
       "triggerCount": 3,
       "shared": [
         {
@@ -16114,7 +16114,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -16141,7 +16141,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -17874,7 +17874,7 @@
       }
     },
     {
-      "updatedAt": "2026-01-14T13:38:06.377Z",
+      "updatedAt": "2026-02-20T18:58:34.725Z",
       "createdAt": "2025-08-29T19:19:26.579Z",
       "id": "bQ3zvMKLZlxeBW31",
       "name": "Criar Ata Notion",
@@ -17922,7 +17922,7 @@
                   ]
                 },
                 {
-                  "key": "👥 Pessoas|relation",
+                  "key": "👥 Participantes|relation",
                   "relationValue": [
                     "={{ $('Webhook').item.json.body.participantes[0] }}"
                   ]
@@ -18045,7 +18045,7 @@
         },
         {
           "parameters": {
-            "jsCode": "const body = $('Webhook').item.json.body || {};\nconst relation = (Array.isArray(body.participantes) ? body.participantes : [])\n  .filter(id => typeof id === 'string' && id.trim())\n  .map(id => ({ id }));\n\nreturn [{\n  json: {pessoas: {\n    properties: {\n      \"👥 Pessoas\": { relation }\n    }\n  }}\n}];\n\n"
+            "jsCode": "const body = $('Webhook').item.json.body || {};\nconst relation = (Array.isArray(body.participantes) ? body.participantes : [])\n  .filter(id => typeof id === 'string' && id.trim())\n  .map(id => ({ id }));\n\nreturn [{\n  json: {pessoas: {\n    properties: {\n      \"👥 Participantes\": { relation }\n    }\n  }}\n}];\n\n"
           },
           "type": "n8n-nodes-base.code",
           "typeVersion": 2,
@@ -18156,9 +18156,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
-      "activeVersionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
-      "versionCounter": 61,
+      "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
+      "activeVersionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
+      "versionCounter": 70,
       "triggerCount": 1,
       "shared": [
         {
@@ -18183,7 +18183,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -18210,7 +18210,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -18233,9 +18233,9 @@
         }
       ],
       "activeVersion": {
-        "updatedAt": "2025-12-12T17:26:55.816Z",
-        "createdAt": "2025-12-12T17:26:55.816Z",
-        "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
+        "updatedAt": "2026-02-20T18:58:36.963Z",
+        "createdAt": "2026-02-20T18:58:34.743Z",
+        "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
         "workflowId": "bQ3zvMKLZlxeBW31",
         "nodes": [
           {
@@ -18278,7 +18278,7 @@
                     ]
                   },
                   {
-                    "key": "👥 Pessoas|relation",
+                    "key": "👥 Participantes|relation",
                     "relationValue": [
                       "={{ $('Webhook').item.json.body.participantes[0] }}"
                     ]
@@ -18401,7 +18401,7 @@
           },
           {
             "parameters": {
-              "jsCode": "const body = $('Webhook').item.json.body || {};\nconst relation = (Array.isArray(body.participantes) ? body.participantes : [])\n  .filter(id => typeof id === 'string' && id.trim())\n  .map(id => ({ id }));\n\nreturn [{\n  json: {pessoas: {\n    properties: {\n      \"👥 Pessoas\": { relation }\n    }\n  }}\n}];\n\n"
+              "jsCode": "const body = $('Webhook').item.json.body || {};\nconst relation = (Array.isArray(body.participantes) ? body.participantes : [])\n  .filter(id => typeof id === 'string' && id.trim())\n  .map(id => ({ id }));\n\nreturn [{\n  json: {pessoas: {\n    properties: {\n      \"👥 Participantes\": { relation }\n    }\n  }}\n}];\n\n"
             },
             "type": "n8n-nodes-base.code",
             "typeVersion": 2,
@@ -18504,18 +18504,18 @@
             ]
           }
         },
-        "authors": "system migration",
-        "name": null,
-        "description": null,
-        "autosaved": false,
+        "authors": "sistemas pier",
+        "name": "Version 1c090313",
+        "description": "",
+        "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2025-09-01T12:35:21.111Z",
-            "id": 16,
+            "createdAt": "2026-02-20T18:58:36.948Z",
+            "id": 378,
             "workflowId": "bQ3zvMKLZlxeBW31",
-            "versionId": "e82c0182-1c1c-4471-b216-79bea73db02a",
+            "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
             "event": "activated",
-            "userId": null
+            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         ]
       }
@@ -18973,7 +18973,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 63,
+      "versionCounter": 66,
       "triggerCount": 2,
       "shared": [
         {
@@ -18998,7 +18998,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19025,7 +19025,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -20015,7 +20015,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 62,
+      "versionCounter": 65,
       "triggerCount": 1,
       "shared": [
         {
@@ -20040,7 +20040,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20067,7 +20067,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -21345,7 +21345,7 @@
       "pinData": {},
       "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
       "activeVersionId": "88950458-6a21-420d-b184-3ac19915f1e9",
-      "versionCounter": 313,
+      "versionCounter": 316,
       "triggerCount": 3,
       "shared": [
         {
@@ -21370,7 +21370,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21397,7 +21397,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -23363,7 +23363,7 @@
       "pinData": {},
       "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
       "activeVersionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
-      "versionCounter": 1314,
+      "versionCounter": 1317,
       "triggerCount": 4,
       "shared": [
         {
@@ -23388,7 +23388,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -23415,7 +23415,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -24749,7 +24749,7 @@
       },
       "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
       "activeVersionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "versionCounter": 73,
+      "versionCounter": 76,
       "triggerCount": 0,
       "shared": [
         {
@@ -24774,7 +24774,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -24801,7 +24801,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -26259,7 +26259,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 145,
+      "versionCounter": 148,
       "triggerCount": 1,
       "shared": [
         {
@@ -26284,7 +26284,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -26311,7 +26311,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -28355,7 +28355,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 765,
+      "versionCounter": 768,
       "triggerCount": 3,
       "shared": [
         {
@@ -28380,7 +28380,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28407,7 +28407,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -29581,7 +29581,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 76,
+      "versionCounter": 79,
       "triggerCount": 0,
       "shared": [
         {
@@ -29606,7 +29606,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29633,7 +29633,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -29860,7 +29860,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 56,
+      "versionCounter": 59,
       "triggerCount": 0,
       "shared": [
         {
@@ -29885,7 +29885,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29912,7 +29912,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -30465,7 +30465,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 145,
+      "versionCounter": 148,
       "triggerCount": 1,
       "shared": [
         {
@@ -30490,7 +30490,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30517,7 +30517,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -30932,7 +30932,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-20T01:06:52.879Z",
+      "updatedAt": "2026-02-20T14:13:51.740Z",
       "createdAt": "2026-02-09T17:02:49.887Z",
       "id": "9RXJ-hlStfYdNxlhDaV_1",
       "name": "Atualizador Memória Projeto",
@@ -30950,7 +30950,7 @@
           "typeVersion": 2.1,
           "position": [
             -608,
-            16
+            -32
           ],
           "id": "47af37fa-3e98-4368-87db-d262ebc7868b",
           "name": "Webhook3",
@@ -30986,7 +30986,7 @@
           "typeVersion": 2.1,
           "position": [
             80,
-            16
+            -32
           ],
           "id": "c6687527-6bc4-4734-b5cb-60c355af8cb3",
           "name": "Message a model",
@@ -31016,7 +31016,7 @@
           "typeVersion": 1,
           "position": [
             -144,
-            16
+            -32
           ],
           "id": "d2a297ef-5370-4770-a0a4-bd4da67fbc2b",
           "name": "Get a row",
@@ -31064,7 +31064,7 @@
           "typeVersion": 1,
           "position": [
             640,
-            0
+            -48
           ],
           "id": "d9c782fa-9400-4d9d-8b12-efa3eeb6c348",
           "name": "Update a row",
@@ -31085,7 +31085,7 @@
           "typeVersion": 1,
           "position": [
             -640,
-            -64
+            -112
           ],
           "id": "8628785b-4857-4f6e-83f4-81939080a961",
           "name": "Sticky Note"
@@ -31218,7 +31218,7 @@
           "typeVersion": 2.2,
           "position": [
             -368,
-            16
+            -32
           ],
           "id": "8239a9ad-0ce7-4fd7-a7e4-1cb0d1772e2c",
           "name": "Get a database page",
@@ -31259,7 +31259,7 @@
           "typeVersion": 2.3,
           "position": [
             416,
-            16
+            -32
           ],
           "id": "9ba83bd5-7eb8-427c-ac0e-6679c82e2aa6",
           "name": "If"
@@ -31294,7 +31294,7 @@
           "typeVersion": 1,
           "position": [
             640,
-            208
+            160
           ],
           "id": "6374325a-a4e7-4c06-9557-028231ce12fd",
           "name": "Create a row",
@@ -31544,7 +31544,7 @@
         },
         {
           "parameters": {
-            "content": "## Atualiza a memória do projeto quando um novo evento acontece",
+            "content": "## Atualiza a memória do projeto quando um novo evento acontece (erpier)",
             "height": 544,
             "width": 1552
           },
@@ -32107,9 +32107,9 @@
           }
         ]
       },
-      "versionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
+      "versionId": "8af776c8-d25b-48fa-9c3e-fd43c07379ef",
       "activeVersionId": "eecdf8b6-bf2c-4e20-a448-4a7548fce0a3",
-      "versionCounter": 536,
+      "versionCounter": 541,
       "triggerCount": 4,
       "shared": [
         {
@@ -32134,7 +32134,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32161,7 +32161,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
@@ -33564,7 +33564,7 @@
       "pinData": {},
       "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
-      "versionCounter": 20,
+      "versionCounter": 23,
       "triggerCount": 1,
       "shared": [
         {
@@ -33589,7 +33589,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-19T20:14:27.967Z",
+                  "updatedAt": "2026-02-20T20:04:36.774Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -33616,7 +33616,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-19",
+                  "lastActiveAt": "2026-02-20",
                   "isPending": false
                 }
               }
