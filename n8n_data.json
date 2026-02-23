@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-22T01:51:01.286533+00:00",
+    "generated_at": "2026-02-23T01:52:26.660436+00:00",
     "workflow_count": 24
   },
   "workflows": [
@@ -945,7 +945,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -972,7 +972,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -2785,7 +2785,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -2812,7 +2812,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -3838,7 +3838,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -3865,7 +3865,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -4237,7 +4237,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4264,7 +4264,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -4962,7 +4962,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -4989,7 +4989,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -6831,7 +6831,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -6858,7 +6858,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -8585,7 +8585,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -8612,7 +8612,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -9442,7 +9442,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -9469,7 +9469,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -11707,7 +11707,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -11734,7 +11734,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -13864,7 +13864,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -13891,7 +13891,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -16114,7 +16114,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -16141,7 +16141,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -18183,7 +18183,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -18210,7 +18210,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -18998,7 +18998,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -19025,7 +19025,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -20040,7 +20040,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -20067,7 +20067,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -20595,28 +20595,14 @@
       }
     },
     {
-      "updatedAt": "2026-02-14T22:01:39.320Z",
+      "updatedAt": "2026-02-22T18:09:13.775Z",
       "createdAt": "2025-11-03T18:49:50.947Z",
       "id": "lgZV72cGrL5CzAdm",
-      "name": "mcp chat pier",
+      "name": "MCPs (notion)",
       "description": null,
       "active": true,
       "isArchived": false,
       "nodes": [
-        {
-          "parameters": {
-            "path": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
-          },
-          "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
-          "typeVersion": 2,
-          "position": [
-            0,
-            0
-          ],
-          "id": "4ea4956a-f8da-4146-9c3e-aa955a192803",
-          "name": "MCP Server Trigger",
-          "webhookId": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
-        },
         {
           "parameters": {
             "toolDescription": "Retorna dados de slides a partir de um termo de busca. # Quando questionado sobre sugestões de slides, retorne para o usuário somenete os links das imagens presentes no campo metadata.",
@@ -20637,8 +20623,8 @@
           "type": "n8n-nodes-base.httpRequestTool",
           "typeVersion": 4.2,
           "position": [
-            -96,
-            224
+            704,
+            928
           ],
           "id": "a0020d8a-e2e7-4866-b272-57c5fba5be1f",
           "name": "Slides"
@@ -20662,8 +20648,8 @@
           "type": "n8n-nodes-base.httpRequestTool",
           "typeVersion": 4.2,
           "position": [
-            64,
-            224
+            864,
+            928
           ],
           "id": "7a9c709f-5b66-4dfa-8c47-90016188c801",
           "name": "Agente DataLake"
@@ -20675,8 +20661,8 @@
           "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
           "typeVersion": 1.2,
           "position": [
-            416,
-            336
+            1120,
+            1072
           ],
           "id": "1a4bcdd3-c841-49d4-a007-fe7d527af6c1",
           "name": "Embeddings OpenAI1",
@@ -20684,107 +20670,6 @@
             "openAiApi": {
               "id": "qOLCslk7RAXP7UBp",
               "name": "OpenAi account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "mode": "retrieve-as-tool",
-            "toolName": "knowledge_database",
-            "toolDescription": "Base de conhecimento da empresa. Deve ser consultada sempre que o usuário perguntar como se faz alguma coisa ou requisitar algum tipo de conhecimento",
-            "tableName": {
-              "__rl": true,
-              "value": "rpc/match_documents_wiki",
-              "mode": "list",
-              "cachedResultName": "rpc/match_documents_wiki"
-            },
-            "options": {
-              "queryName": "match_documents_wiki"
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
-          "typeVersion": 1,
-          "position": [
-            320,
-            192
-          ],
-          "id": "d51c9764-ea28-4d94-a12d-a0425e00d831",
-          "name": "Base de conhecimento",
-          "credentials": {
-            "supabaseApi": {
-              "id": "mWLJRM5VD8eNo21x",
-              "name": "Supabase marujo-pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "descriptionType": "manual",
-            "toolDescription": "Lista projetos ativos do Notion. Retorna informações básicas como o id do projeto e o nome",
-            "resource": "databasePage",
-            "operation": "getAll",
-            "databaseId": {
-              "__rl": true,
-              "value": "c2af396cc2a347eca452b2b2bf6b9031",
-              "mode": "id"
-            },
-            "returnAll": true,
-            "filterType": "manual",
-            "filters": {
-              "conditions": [
-                {
-                  "key": "Status|select",
-                  "condition": "equals",
-                  "selectValue": "Ativo"
-                }
-              ]
-            },
-            "options": {}
-          },
-          "type": "n8n-nodes-base.notionTool",
-          "typeVersion": 2.2,
-          "position": [
-            192,
-            304
-          ],
-          "id": "1d411b5d-b77e-4f49-90f1-1b1cb083961a",
-          "name": "Listar projetos",
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "descriptionType": "manual",
-            "toolDescription": "Retorna a memória de um projeto com base no seu id do Notion. Usar para pegar o status mais recente do projeto ou listar o que sabemos sobre ele",
-            "useCustomSchema": true,
-            "schema": "knowledge_base",
-            "operation": "get",
-            "tableId": "memorias_projetos",
-            "filters": {
-              "conditions": [
-                {
-                  "keyName": "projeto_id",
-                  "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Value', `id do projeto no notion`, 'string') }}"
-                }
-              ]
-            }
-          },
-          "type": "n8n-nodes-base.supabaseTool",
-          "typeVersion": 1,
-          "position": [
-            -272,
-            240
-          ],
-          "id": "19f86a89-04a3-4bc0-a4a7-84fc8235d1d6",
-          "name": "Memória do projeto",
-          "credentials": {
-            "supabaseApi": {
-              "id": "mWLJRM5VD8eNo21x",
-              "name": "Supabase marujo-pier"
             }
           }
         },
@@ -20825,8 +20710,8 @@
           "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
           "typeVersion": 2.2,
           "position": [
-            -32,
-            880
+            -224,
+            912
           ],
           "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
           "name": "Busca de documentos"
@@ -20896,20 +20781,6 @@
               "name": "Supabase marujo-pier"
             }
           }
-        },
-        {
-          "parameters": {
-            "path": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
-          },
-          "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
-          "typeVersion": 2,
-          "position": [
-            112,
-            704
-          ],
-          "id": "5824b42e-da10-4350-bfec-2f68e92c0419",
-          "name": "MCP Server Trigger1",
-          "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
         },
         {
           "parameters": {
@@ -20990,89 +20861,6 @@
         },
         {
           "parameters": {
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-          "typeVersion": 1.4,
-          "position": [
-            912,
-            800
-          ],
-          "id": "3f854ba5-c00f-453d-99b3-089ecf1ad1c0",
-          "name": "When chat message received",
-          "webhookId": "007cd536-d6d4-4a13-afc3-9b63f94a3ad6"
-        },
-        {
-          "parameters": {
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.agent",
-          "typeVersion": 3.1,
-          "position": [
-            1120,
-            800
-          ],
-          "id": "6d8fce72-2621-449a-9a07-94b1fbd09e82",
-          "name": "AI Agent"
-        },
-        {
-          "parameters": {
-            "model": {
-              "__rl": true,
-              "value": "gpt-5.2-chat-latest",
-              "mode": "list",
-              "cachedResultName": "gpt-5.2-chat-latest"
-            },
-            "builtInTools": {},
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-          "typeVersion": 1.3,
-          "position": [
-            992,
-            1008
-          ],
-          "id": "c7106380-1608-411c-a65d-1c9e222c6bd7",
-          "name": "OpenAI Chat Model",
-          "credentials": {
-            "openAiApi": {
-              "id": "g3Ikw9hUcV3sNHD2",
-              "name": "OpenAi ppt-interact"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/be29ec61-6a66-46cb-ba7a-fd5376bcf1a7",
-            "include": "selected",
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
-          "typeVersion": 1.2,
-          "position": [
-            1360,
-            976
-          ],
-          "id": "523101c4-984e-423d-816c-bb358dfa03c4",
-          "name": "MCP Client"
-        },
-        {
-          "parameters": {
-            "sessionIdType": "customKey",
-            "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
-            "contextWindowLength": 10
-          },
-          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-          "typeVersion": 1.3,
-          "position": [
-            1184,
-            1072
-          ],
-          "id": "f4647a2f-30b4-4ca8-8fb2-e66ea21168f1",
-          "name": "Simple Memory"
-        },
-        {
-          "parameters": {
             "toolDescription": "Busca eventos e atualizações de um projeto semanticamente",
             "method": "POST",
             "url": "https://aeiyqqesteicozizkycn.supabase.co/functions/v1/search-eventos-projeto",
@@ -21144,6 +20932,78 @@
               "name": "Supabase marujo-pier"
             }
           }
+        },
+        {
+          "parameters": {
+            "path": "kb_pier_notion"
+          },
+          "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+          "typeVersion": 2,
+          "position": [
+            -368,
+            704
+          ],
+          "id": "c1d8ff20-c57e-4d14-beab-0fa8fc4cb41b",
+          "name": "MCP Knowledge Base",
+          "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
+        },
+        {
+          "parameters": {
+            "path": "memoria_projetos_notion"
+          },
+          "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+          "typeVersion": 2,
+          "position": [
+            112,
+            704
+          ],
+          "id": "5824b42e-da10-4350-bfec-2f68e92c0419",
+          "name": "MCP Memoria Projetos",
+          "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
+        },
+        {
+          "parameters": {
+            "path": "tools_marujo_notion_wiki"
+          },
+          "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+          "typeVersion": 2,
+          "position": [
+            800,
+            704
+          ],
+          "id": "4ea4956a-f8da-4146-9c3e-aa955a192803",
+          "name": "MCP Tools Marujo",
+          "webhookId": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
+        },
+        {
+          "parameters": {
+            "mode": "retrieve-as-tool",
+            "toolName": "knowledge_database",
+            "toolDescription": "Base de \"how-tos\" da empresa, o que chamamos de wiki. Deve ser consultada sempre que o usuário perguntar como se faz alguma coisa ou requisitar algum tipo de conhecimento",
+            "tableName": {
+              "__rl": true,
+              "value": "rpc/match_documents_wiki",
+              "mode": "list",
+              "cachedResultName": "rpc/match_documents_wiki"
+            },
+            "options": {
+              "queryName": "match_documents_wiki"
+            }
+          },
+          "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
+          "typeVersion": 1,
+          "position": [
+            1040,
+            928
+          ],
+          "id": "d51c9764-ea28-4d94-a12d-a0425e00d831",
+          "name": "Wiki",
+          "credentials": {
+            "supabaseApi": {
+              "id": "mWLJRM5VD8eNo21x",
+              "name": "Supabase marujo-pier"
+            }
+          }
         }
       ],
       "connections": {
@@ -21151,7 +21011,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger",
+                "node": "MCP Tools Marujo",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21162,7 +21022,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger",
+                "node": "MCP Tools Marujo",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21173,41 +21033,8 @@
           "ai_embedding": [
             [
               {
-                "node": "Base de conhecimento",
+                "node": "Wiki",
                 "type": "ai_embedding",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Base de conhecimento": {
-          "ai_tool": [
-            [
-              {
-                "node": "MCP Server Trigger",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Listar projetos": {
-          "ai_tool": [
-            [
-              {
-                "node": "MCP Server Trigger",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Memória do projeto": {
-          "ai_tool": [
-            [
-              {
-                "node": "MCP Server Trigger",
-                "type": "ai_tool",
                 "index": 0
               }
             ]
@@ -21217,7 +21044,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Knowledge Base",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21228,7 +21055,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21239,7 +21066,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21250,7 +21077,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21261,52 +21088,8 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
                 "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "When chat message received": {
-          "main": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "OpenAI Chat Model": {
-          "ai_languageModel": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_languageModel",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "MCP Client": {
-          "ai_tool": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Simple Memory": {
-          "ai_memory": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_memory",
                 "index": 0
               }
             ]
@@ -21316,7 +21099,7 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21327,7 +21110,18 @@
           "ai_tool": [
             [
               {
-                "node": "MCP Server Trigger1",
+                "node": "MCP Memoria Projetos",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
+        },
+        "Wiki": {
+          "ai_tool": [
+            [
+              {
+                "node": "MCP Tools Marujo",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -21343,9 +21137,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
-      "activeVersionId": "88950458-6a21-420d-b184-3ac19915f1e9",
-      "versionCounter": 318,
+      "versionId": "e58da931-87eb-4968-b5c1-bd3cc5f93c3f",
+      "activeVersionId": "e58da931-87eb-4968-b5c1-bd3cc5f93c3f",
+      "versionCounter": 355,
       "triggerCount": 3,
       "shared": [
         {
@@ -21370,7 +21164,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -21397,7 +21191,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -21407,25 +21201,11 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-14T22:01:45.293Z",
-        "createdAt": "2026-02-14T22:01:39.336Z",
-        "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
+        "updatedAt": "2026-02-22T18:09:05.007Z",
+        "createdAt": "2026-02-22T18:09:03.483Z",
+        "versionId": "e58da931-87eb-4968-b5c1-bd3cc5f93c3f",
         "workflowId": "lgZV72cGrL5CzAdm",
         "nodes": [
-          {
-            "parameters": {
-              "path": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
-            },
-            "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
-            "typeVersion": 2,
-            "position": [
-              0,
-              0
-            ],
-            "id": "4ea4956a-f8da-4146-9c3e-aa955a192803",
-            "name": "MCP Server Trigger",
-            "webhookId": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
-          },
           {
             "parameters": {
               "toolDescription": "Retorna dados de slides a partir de um termo de busca. # Quando questionado sobre sugestões de slides, retorne para o usuário somenete os links das imagens presentes no campo metadata.",
@@ -21446,8 +21226,8 @@
             "type": "n8n-nodes-base.httpRequestTool",
             "typeVersion": 4.2,
             "position": [
-              -96,
-              224
+              704,
+              928
             ],
             "id": "a0020d8a-e2e7-4866-b272-57c5fba5be1f",
             "name": "Slides"
@@ -21471,8 +21251,8 @@
             "type": "n8n-nodes-base.httpRequestTool",
             "typeVersion": 4.2,
             "position": [
-              64,
-              224
+              864,
+              928
             ],
             "id": "7a9c709f-5b66-4dfa-8c47-90016188c801",
             "name": "Agente DataLake"
@@ -21484,8 +21264,8 @@
             "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
             "typeVersion": 1.2,
             "position": [
-              416,
-              336
+              1120,
+              1072
             ],
             "id": "1a4bcdd3-c841-49d4-a007-fe7d527af6c1",
             "name": "Embeddings OpenAI1",
@@ -21493,107 +21273,6 @@
               "openAiApi": {
                 "id": "qOLCslk7RAXP7UBp",
                 "name": "OpenAi account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "mode": "retrieve-as-tool",
-              "toolName": "knowledge_database",
-              "toolDescription": "Base de conhecimento da empresa. Deve ser consultada sempre que o usuário perguntar como se faz alguma coisa ou requisitar algum tipo de conhecimento",
-              "tableName": {
-                "__rl": true,
-                "value": "rpc/match_documents_wiki",
-                "mode": "list",
-                "cachedResultName": "rpc/match_documents_wiki"
-              },
-              "options": {
-                "queryName": "match_documents_wiki"
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
-            "typeVersion": 1,
-            "position": [
-              320,
-              192
-            ],
-            "id": "d51c9764-ea28-4d94-a12d-a0425e00d831",
-            "name": "Base de conhecimento",
-            "credentials": {
-              "supabaseApi": {
-                "id": "mWLJRM5VD8eNo21x",
-                "name": "Supabase marujo-pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "descriptionType": "manual",
-              "toolDescription": "Lista projetos ativos do Notion. Retorna informações básicas como o id do projeto e o nome",
-              "resource": "databasePage",
-              "operation": "getAll",
-              "databaseId": {
-                "__rl": true,
-                "value": "c2af396cc2a347eca452b2b2bf6b9031",
-                "mode": "id"
-              },
-              "returnAll": true,
-              "filterType": "manual",
-              "filters": {
-                "conditions": [
-                  {
-                    "key": "Status|select",
-                    "condition": "equals",
-                    "selectValue": "Ativo"
-                  }
-                ]
-              },
-              "options": {}
-            },
-            "type": "n8n-nodes-base.notionTool",
-            "typeVersion": 2.2,
-            "position": [
-              192,
-              304
-            ],
-            "id": "1d411b5d-b77e-4f49-90f1-1b1cb083961a",
-            "name": "Listar projetos",
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "descriptionType": "manual",
-              "toolDescription": "Retorna a memória de um projeto com base no seu id do Notion. Usar para pegar o status mais recente do projeto ou listar o que sabemos sobre ele",
-              "useCustomSchema": true,
-              "schema": "knowledge_base",
-              "operation": "get",
-              "tableId": "memorias_projetos",
-              "filters": {
-                "conditions": [
-                  {
-                    "keyName": "projeto_id",
-                    "keyValue": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('conditions0_Value', `id do projeto no notion`, 'string') }}"
-                  }
-                ]
-              }
-            },
-            "type": "n8n-nodes-base.supabaseTool",
-            "typeVersion": 1,
-            "position": [
-              -272,
-              240
-            ],
-            "id": "19f86a89-04a3-4bc0-a4a7-84fc8235d1d6",
-            "name": "Memória do projeto",
-            "credentials": {
-              "supabaseApi": {
-                "id": "mWLJRM5VD8eNo21x",
-                "name": "Supabase marujo-pier"
               }
             }
           },
@@ -21634,8 +21313,8 @@
             "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
             "typeVersion": 2.2,
             "position": [
-              -32,
-              880
+              -224,
+              912
             ],
             "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
             "name": "Busca de documentos"
@@ -21705,20 +21384,6 @@
                 "name": "Supabase marujo-pier"
               }
             }
-          },
-          {
-            "parameters": {
-              "path": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
-            },
-            "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
-            "typeVersion": 2,
-            "position": [
-              112,
-              704
-            ],
-            "id": "5824b42e-da10-4350-bfec-2f68e92c0419",
-            "name": "MCP Server Trigger1",
-            "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
           },
           {
             "parameters": {
@@ -21799,89 +21464,6 @@
           },
           {
             "parameters": {
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-            "typeVersion": 1.4,
-            "position": [
-              912,
-              800
-            ],
-            "id": "3f854ba5-c00f-453d-99b3-089ecf1ad1c0",
-            "name": "When chat message received",
-            "webhookId": "007cd536-d6d4-4a13-afc3-9b63f94a3ad6"
-          },
-          {
-            "parameters": {
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.agent",
-            "typeVersion": 3.1,
-            "position": [
-              1120,
-              800
-            ],
-            "id": "6d8fce72-2621-449a-9a07-94b1fbd09e82",
-            "name": "AI Agent"
-          },
-          {
-            "parameters": {
-              "model": {
-                "__rl": true,
-                "value": "gpt-5.2-chat-latest",
-                "mode": "list",
-                "cachedResultName": "gpt-5.2-chat-latest"
-              },
-              "builtInTools": {},
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-            "typeVersion": 1.3,
-            "position": [
-              992,
-              1008
-            ],
-            "id": "c7106380-1608-411c-a65d-1c9e222c6bd7",
-            "name": "OpenAI Chat Model",
-            "credentials": {
-              "openAiApi": {
-                "id": "g3Ikw9hUcV3sNHD2",
-                "name": "OpenAi ppt-interact"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/be29ec61-6a66-46cb-ba7a-fd5376bcf1a7",
-              "include": "selected",
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
-            "typeVersion": 1.2,
-            "position": [
-              1360,
-              976
-            ],
-            "id": "523101c4-984e-423d-816c-bb358dfa03c4",
-            "name": "MCP Client"
-          },
-          {
-            "parameters": {
-              "sessionIdType": "customKey",
-              "sessionKey": "={{ $('When chat message received').first().json.sessionId }}\n",
-              "contextWindowLength": 10
-            },
-            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-            "typeVersion": 1.3,
-            "position": [
-              1184,
-              1072
-            ],
-            "id": "f4647a2f-30b4-4ca8-8fb2-e66ea21168f1",
-            "name": "Simple Memory"
-          },
-          {
-            "parameters": {
               "toolDescription": "Busca eventos e atualizações de um projeto semanticamente",
               "method": "POST",
               "url": "https://aeiyqqesteicozizkycn.supabase.co/functions/v1/search-eventos-projeto",
@@ -21953,6 +21535,78 @@
                 "name": "Supabase marujo-pier"
               }
             }
+          },
+          {
+            "parameters": {
+              "path": "kb_pier_notion"
+            },
+            "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+            "typeVersion": 2,
+            "position": [
+              -368,
+              704
+            ],
+            "id": "c1d8ff20-c57e-4d14-beab-0fa8fc4cb41b",
+            "name": "MCP Knowledge Base",
+            "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
+          },
+          {
+            "parameters": {
+              "path": "memoria_projetos_notion"
+            },
+            "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+            "typeVersion": 2,
+            "position": [
+              112,
+              704
+            ],
+            "id": "5824b42e-da10-4350-bfec-2f68e92c0419",
+            "name": "MCP Memoria Projetos",
+            "webhookId": "be29ec61-6a66-46cb-ba7a-fd5376bcf1a7"
+          },
+          {
+            "parameters": {
+              "path": "tools_marujo_notion_wiki"
+            },
+            "type": "@n8n/n8n-nodes-langchain.mcpTrigger",
+            "typeVersion": 2,
+            "position": [
+              800,
+              704
+            ],
+            "id": "4ea4956a-f8da-4146-9c3e-aa955a192803",
+            "name": "MCP Tools Marujo",
+            "webhookId": "9ce7cc41-d07d-45a5-a948-33b914de8ee2"
+          },
+          {
+            "parameters": {
+              "mode": "retrieve-as-tool",
+              "toolName": "knowledge_database",
+              "toolDescription": "Base de \"how-tos\" da empresa, o que chamamos de wiki. Deve ser consultada sempre que o usuário perguntar como se faz alguma coisa ou requisitar algum tipo de conhecimento",
+              "tableName": {
+                "__rl": true,
+                "value": "rpc/match_documents_wiki",
+                "mode": "list",
+                "cachedResultName": "rpc/match_documents_wiki"
+              },
+              "options": {
+                "queryName": "match_documents_wiki"
+              }
+            },
+            "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
+            "typeVersion": 1,
+            "position": [
+              1040,
+              928
+            ],
+            "id": "d51c9764-ea28-4d94-a12d-a0425e00d831",
+            "name": "Wiki",
+            "credentials": {
+              "supabaseApi": {
+                "id": "mWLJRM5VD8eNo21x",
+                "name": "Supabase marujo-pier"
+              }
+            }
           }
         ],
         "connections": {
@@ -21960,7 +21614,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger",
+                  "node": "MCP Tools Marujo",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -21971,7 +21625,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger",
+                  "node": "MCP Tools Marujo",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -21982,41 +21636,8 @@
             "ai_embedding": [
               [
                 {
-                  "node": "Base de conhecimento",
+                  "node": "Wiki",
                   "type": "ai_embedding",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Base de conhecimento": {
-            "ai_tool": [
-              [
-                {
-                  "node": "MCP Server Trigger",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Listar projetos": {
-            "ai_tool": [
-              [
-                {
-                  "node": "MCP Server Trigger",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Memória do projeto": {
-            "ai_tool": [
-              [
-                {
-                  "node": "MCP Server Trigger",
-                  "type": "ai_tool",
                   "index": 0
                 }
               ]
@@ -22026,7 +21647,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Knowledge Base",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22037,7 +21658,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22048,7 +21669,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22059,7 +21680,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22070,52 +21691,8 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
                   "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "When chat message received": {
-            "main": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "OpenAI Chat Model": {
-            "ai_languageModel": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_languageModel",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "MCP Client": {
-            "ai_tool": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Simple Memory": {
-            "ai_memory": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_memory",
                   "index": 0
                 }
               ]
@@ -22125,7 +21702,7 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22136,7 +21713,18 @@
             "ai_tool": [
               [
                 {
-                  "node": "MCP Server Trigger1",
+                  "node": "MCP Memoria Projetos",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
+          },
+          "Wiki": {
+            "ai_tool": [
+              [
+                {
+                  "node": "MCP Tools Marujo",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -22145,15 +21733,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 88950458",
+        "name": "Version e58da931",
         "description": "",
-        "autosaved": true,
+        "autosaved": false,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-14T22:01:45.287Z",
-            "id": 367,
+            "createdAt": "2026-02-22T18:09:04.976Z",
+            "id": 387,
             "workflowId": "lgZV72cGrL5CzAdm",
-            "versionId": "88950458-6a21-420d-b184-3ac19915f1e9",
+            "versionId": "e58da931-87eb-4968-b5c1-bd3cc5f93c3f",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -22161,123 +21749,14 @@
       }
     },
     {
-      "updatedAt": "2026-02-19T20:09:37.664Z",
+      "updatedAt": "2026-02-22T18:44:25.855Z",
       "createdAt": "2025-12-28T16:41:54.247Z",
       "id": "gKNGnV5aOelesPEn",
-      "name": "PPT Chat Agent Workflow",
+      "name": "Backend Addins PPT e Excel",
       "description": null,
       "active": true,
       "isArchived": false,
       "nodes": [
-        {
-          "parameters": {
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-          "typeVersion": 1.4,
-          "position": [
-            464,
-            3184
-          ],
-          "id": "0092ce53-b257-43a8-bfc6-e31997605fbe",
-          "name": "When chat message received",
-          "webhookId": "5ba440e1-5711-4fca-9ac5-08601c504ec0"
-        },
-        {
-          "parameters": {
-            "options": {
-              "systemMessage": "Responda apenas com conteudos buscados atraves das ferramentas. As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks"
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.agent",
-          "typeVersion": 3.1,
-          "position": [
-            672,
-            3184
-          ],
-          "id": "107324d8-a24b-418d-a506-d3f62a727197",
-          "name": "AI Agent"
-        },
-        {
-          "parameters": {
-            "model": {
-              "__rl": true,
-              "value": "gpt-5.2-chat-latest",
-              "mode": "list",
-              "cachedResultName": "gpt-5.2-chat-latest"
-            },
-            "builtInTools": {},
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-          "typeVersion": 1.3,
-          "position": [
-            544,
-            3392
-          ],
-          "id": "0e90b97a-b0c6-4dca-a533-e31bd602ab94",
-          "name": "OpenAI Chat Model",
-          "credentials": {
-            "openAiApi": {
-              "id": "qOLCslk7RAXP7UBp",
-              "name": "OpenAi account"
-            }
-          }
-        },
-        {
-          "parameters": {},
-          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-          "typeVersion": 1.3,
-          "position": [
-            688,
-            3392
-          ],
-          "id": "0b677de5-5813-4fff-b54b-1045e7b07c86",
-          "name": "Simple Memory"
-        },
-        {
-          "parameters": {
-            "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
-            "workflowId": {
-              "__rl": true,
-              "value": "0UCrEB1iVflqCJG3",
-              "mode": "list",
-              "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
-              "cachedResultName": "subflow qdrant"
-            },
-            "workflowInputs": {
-              "mappingMode": "defineBelow",
-              "value": {
-                "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
-              },
-              "matchingColumns": [
-                "query"
-              ],
-              "schema": [
-                {
-                  "id": "query",
-                  "displayName": "query",
-                  "required": false,
-                  "defaultMatch": false,
-                  "display": true,
-                  "canBeUsedToMatch": true,
-                  "type": "string",
-                  "removed": false
-                }
-              ],
-              "attemptToConvertTypes": false,
-              "convertFieldsToString": false
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-          "typeVersion": 2.2,
-          "position": [
-            832,
-            3392
-          ],
-          "id": "89ccb881-f39a-429a-b651-7312f5032442",
-          "name": "Call 'subflow qdrant'"
-        },
         {
           "parameters": {
             "httpMethod": "POST",
@@ -22288,8 +21767,8 @@
           "type": "n8n-nodes-base.webhook",
           "typeVersion": 2.1,
           "position": [
-            1360,
-            3392
+            1344,
+            3296
           ],
           "id": "7c007442-16c4-4a67-b844-0d6722374b03",
           "name": "Webhook",
@@ -22307,8 +21786,8 @@
           "type": "@n8n/n8n-nodes-langchain.agent",
           "typeVersion": 3.1,
           "position": [
-            1744,
-            3392
+            1728,
+            3296
           ],
           "id": "6ee2eb1e-a485-4f66-b814-572326392264",
           "name": "AI Agent1"
@@ -22327,8 +21806,8 @@
           "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
           "typeVersion": 1.3,
           "position": [
-            1680,
-            3568
+            1616,
+            3504
           ],
           "id": "450474fb-9a8b-4427-bd44-9c9e2aba7267",
           "name": "OpenAI Chat Model1",
@@ -22348,8 +21827,8 @@
           "type": "n8n-nodes-base.respondToWebhook",
           "typeVersion": 1.5,
           "position": [
-            2096,
-            3392
+            2080,
+            3296
           ],
           "id": "9510693a-fa19-40e7-8c3a-f60c2530b74d",
           "name": "Respond to Webhook"
@@ -22392,7 +21871,7 @@
           "typeVersion": 2.2,
           "position": [
             1760,
-            3680
+            3520
           ],
           "id": "243eb7f8-1ce1-445e-bcc7-e1417cb64f59",
           "name": "Base de conhecimento"
@@ -22417,8 +21896,8 @@
           "type": "n8n-nodes-base.httpRequestTool",
           "typeVersion": 4.2,
           "position": [
-            1904,
-            3680
+            1872,
+            3520
           ],
           "id": "0d34283e-fefc-49cd-9195-a6e3aed91df9",
           "name": "Banco de slides"
@@ -22444,8 +21923,8 @@
           "type": "n8n-nodes-base.httpRequestTool",
           "typeVersion": 4.3,
           "position": [
-            2032,
-            3680
+            2000,
+            3520
           ],
           "id": "24b3c82c-9d71-4e8d-af38-787caff62e84",
           "name": "Perplexity",
@@ -22500,8 +21979,8 @@
           "type": "n8n-nodes-base.httpRequestTool",
           "typeVersion": 4.3,
           "position": [
-            2160,
-            3680
+            2128,
+            3520
           ],
           "id": "668aded9-2f00-40ae-be07-82603b6bee4f",
           "name": "Google",
@@ -22522,143 +22001,6 @@
         },
         {
           "parameters": {
-            "options": {
-              "systemMessage": "# Contexto\nVocê recebe o conteúdo de um slide de power point ou um range de células do Excel e, opcionalmente, uma mensagem da pessoa que o contruiu e conteúdo dos demais slides/abas. Se houver uma mensagem do usuário, faça o que ele pedir, do contrário você deve realizar uma análise crítica:\n\n## Power Point:\n#### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (busque documentos de referência)\n-Fonte homogênea em todas as caixas com texto\n-Erros de português\n-Tamanho da fonte coerente entre os slides\n-Alinhamento de titulo (mesma posição em todos os slides)\n-Uso adequado de slide mestre\n-Slides contém numeração\n-Unidades nos números (coerência interna no slide)\n-Padrão de frases começarem com letra maiúscula OU cada palavra em letra maiúscula\n-Caso o conteúdo dos demais slides seja passado também os utilize para ver se o slide em questão está bem construído e posicionado na apresentação.\n## Opcional:\n-O usuário também pode pedir sugestões de slides. Nesse caso busque slides na tool de banco de slides e retorne o link da imagem do slide e o link do sharepoint\n\n## Excel:\n### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (indentifique o conteúdo (técnico e teórico) e busque documentos de referência)\n-Fonte homogênea em todas as células\n-Erros de português\n-Tamanho da fonte coerente\n-Aderência sólida com conceitos contábeis e financeiros\n\n# Diretrizes Gerais\n- Suas respostas devem seguir as diretrizes da Píer Partners, e para isso consulte a base de conhecimento disponível, onde diversos documentos sobre os temas com os quais trabalhamos estão disponíveis.\n- Se o usuário pedir a revisão nos dados (números de mercado, índices, etc) utilize as ferramenta de busca na web (Google para buscas simples e Perpexity para buscas avançadas).\n- As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks.\n- Seja direto, indo direto para a análise, com profundidade mas sendo breve.\n- Sempre retorne sua resposta em formato Markdown."
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.agent",
-          "typeVersion": 3.1,
-          "position": [
-            3712,
-            3936
-          ],
-          "id": "aae740f9-d1be-4ea9-8e68-9e17962e8b13",
-          "name": "AI Agent2"
-        },
-        {
-          "parameters": {
-            "model": {
-              "__rl": true,
-              "value": "gpt-5.2-chat-latest",
-              "mode": "list",
-              "cachedResultName": "gpt-5.2-chat-latest"
-            },
-            "builtInTools": {},
-            "options": {}
-          },
-          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-          "typeVersion": 1.3,
-          "position": [
-            3488,
-            4160
-          ],
-          "id": "261a2026-d650-409b-88fc-003293704a11",
-          "name": "OpenAI Chat Model2",
-          "credentials": {
-            "openAiApi": {
-              "id": "g3Ikw9hUcV3sNHD2",
-              "name": "OpenAi ppt-interact"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "descriptionType": "manual",
-            "toolDescription": "Lista os projetos do Notion",
-            "resource": "databasePage",
-            "operation": "getAll",
-            "databaseId": {
-              "__rl": true,
-              "value": "c2af396cc2a347eca452b2b2bf6b9031",
-              "mode": "id"
-            },
-            "returnAll": true,
-            "options": {}
-          },
-          "type": "n8n-nodes-base.notionTool",
-          "typeVersion": 2.2,
-          "position": [
-            4064,
-            4160
-          ],
-          "id": "8a024e46-e765-4d3b-a5e4-b82fa8836bad",
-          "name": "Lista projetos",
-          "credentials": {
-            "notionApi": {
-              "id": "QJqIInVEAt8nkp5t",
-              "name": "Notion Pier"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "contextWindowLength": 10
-          },
-          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-          "typeVersion": 1.3,
-          "position": [
-            3744,
-            4192
-          ],
-          "id": "2999ff4c-a264-43bc-bf76-440d7cd594ac",
-          "name": "Simple Memory1"
-        },
-        {
-          "parameters": {
-            "description": "Ferramenta para busca de atas. é necessário informar o id do projeto, que deve ser buscado pela tool de listagem de projetos",
-            "workflowId": {
-              "__rl": true,
-              "value": "uoyG9WwFxe56M0vy",
-              "mode": "list",
-              "cachedResultUrl": "/workflow/uoyG9WwFxe56M0vy",
-              "cachedResultName": "subflow qdrant atas"
-            },
-            "workflowInputs": {
-              "mappingMode": "defineBelow",
-              "value": {
-                "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `tema da ata para refinar a busca`, 'string') }}",
-                "projeto_id": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('projeto_id', `id do projeto, coletado a partir da ferramenta de listagem de projetos`, 'string') }}"
-              },
-              "matchingColumns": [
-                "query"
-              ],
-              "schema": [
-                {
-                  "id": "query",
-                  "displayName": "query",
-                  "required": false,
-                  "defaultMatch": false,
-                  "display": true,
-                  "canBeUsedToMatch": true,
-                  "type": "string",
-                  "removed": false
-                },
-                {
-                  "id": "projeto_id",
-                  "displayName": "projeto_id",
-                  "required": false,
-                  "defaultMatch": false,
-                  "display": true,
-                  "canBeUsedToMatch": true,
-                  "type": "string",
-                  "removed": false
-                }
-              ],
-              "attemptToConvertTypes": false,
-              "convertFieldsToString": false
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-          "typeVersion": 2.2,
-          "position": [
-            3904,
-            4224
-          ],
-          "id": "3c6f0965-4681-490b-9db1-68fb30d919d1",
-          "name": "Busca de atas"
-        },
-        {
-          "parameters": {
             "jsCode": "// Extract and prepare data for translation\nconst input = $input.first().json.body;\n\nconst targetLanguage = input.target_language || 'en';\nconst targetLanguageName = input.target_language_name || 'English';\nconst scope = input.translate_scope || 'current';\nconst contentToTranslate = input.content_to_translate || [];\nconst allSlides = input.slides || [];\n\n// Build context from all slides (for terminology consistency)\nlet contextText = '';\nif (allSlides.length > 0) {\n  contextText = allSlides.map(slide => {\n    const shapes = slide.shapes || [];\n    const texts = shapes.map(s => s.original_text).join('\\n');\n    return `Slide ${slide.slide_number}:\\n${texts}`;\n  }).join('\\n\\n---\\n\\n');\n}\n\n// Build content to translate with shape identifiers\n// Format: [SLIDE X][SHAPE:shape_name] text\nlet translateText = '';\nconst shapeMapping = []; // Keep track of slide/shape mapping for response\n\nfor (const slide of contentToTranslate) {\n  for (const shape of (slide.shapes || [])) {\n    translateText += `[SLIDE ${slide.slide_number}][SHAPE:${shape.shape_name}]\\n${shape.original_text}\\n\\n`;\n    shapeMapping.push({\n      slide_number: slide.slide_number,\n      shape_name: shape.shape_name,\n      original_text: shape.original_text\n    });\n  }\n}\n\nreturn [{\n  json: {\n    targetLanguage,\n    targetLanguageName,\n    scope,\n    contextText,\n    translateText,\n    shapeMapping: JSON.stringify(shapeMapping),\n    slideCount: contentToTranslate.length,\n    shapeCount: shapeMapping.length\n  }\n}];"
           },
           "id": "ca663da8-20e0-459c-b83c-2846677dfccc",
@@ -22666,8 +22008,8 @@
           "type": "n8n-nodes-base.code",
           "typeVersion": 2,
           "position": [
-            3008,
-            3568
+            1696,
+            4624
           ]
         },
         {
@@ -22699,8 +22041,8 @@
           "type": "@n8n/n8n-nodes-langchain.openAi",
           "typeVersion": 1.8,
           "position": [
-            3232,
-            3568
+            1920,
+            4624
           ],
           "credentials": {
             "openAiApi": {
@@ -22718,8 +22060,8 @@
           "type": "n8n-nodes-base.code",
           "typeVersion": 2,
           "position": [
-            3520,
-            3568
+            2208,
+            4624
           ]
         },
         {
@@ -22734,8 +22076,8 @@
           "type": "n8n-nodes-base.webhook",
           "typeVersion": 2,
           "position": [
-            2784,
-            3568
+            1472,
+            4624
           ],
           "webhookId": "translate-slides-webhook"
         },
@@ -22759,8 +22101,8 @@
           "type": "n8n-nodes-base.respondToWebhook",
           "typeVersion": 1.1,
           "position": [
-            3728,
-            3568
+            2416,
+            4624
           ]
         },
         {
@@ -22820,7 +22162,7 @@
           "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
           "typeVersion": 1,
           "position": [
-            1744,
+            1680,
             4080
           ],
           "credentials": {
@@ -22841,7 +22183,7 @@
           "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
           "typeVersion": 1.2,
           "position": [
-            1904,
+            1792,
             4080
           ]
         },
@@ -22889,136 +22231,247 @@
           "type": "n8n-nodes-base.code",
           "typeVersion": 2,
           "position": [
-            1552,
-            3392
+            1536,
+            3296
           ],
           "id": "2dcf0e28-cdcf-4cfe-a351-1ef1d68612a7",
           "name": "Code in JavaScript2"
         },
         {
           "parameters": {
-            "promptType": "define",
-            "text": "={{ $json.userMessage }}",
-            "options": {
-              "systemMessage": "=Você é um assistente especializado em apresentações PowerPoint para a empresa Píer Partners. Você ajuda os usuários a criar, melhorar e analisar seus slides.\n\n## Suas capacidades:\n- Avaliar a clareza e efetividade dos slides\n- Sugerir melhorias de layout, texto e design\n- Ajudar a estruturar argumentos e narrativas\n- Simplificar textos complexos\n- Criar resumos executivos\n- Verificar consistência entre slides\n- Responder perguntas sobre melhores práticas de apresentação\n\n## Diretrizes:\n- Seja conciso e direto nas respostas\n- Use bullet points quando apropriado\n- Faça referência específica aos slides quando relevante\n- Mantenha um tom profissional mas amigável\n- Se não tiver informação suficiente sobre os slides, peça mais contexto\n\n## Contexto da apresentação atual:\n{{ $json.slideContext }}"
-            }
+            "content": "## Recebe os chamados do ppt e excel e só retorna isntruções (sem interagir)",
+            "height": 480,
+            "width": 1680
           },
-          "id": "7416da7f-9811-4677-9358-d72af10a82cd",
-          "name": "Agent Config1",
-          "type": "@n8n/n8n-nodes-langchain.agent",
-          "typeVersion": 1.7,
-          "position": [
-            1904,
-            4384
-          ]
-        },
-        {
-          "parameters": {
-            "jsCode": "// Extract data from webhook                                                                                                                  \n  const input = $input.first().json.body;\n                                                                                                                                                \n  const sessionId = input.session_id || 'default';                                 \n  const userMessage = input.message || '';\n  const currentSlide = input.current_slide || {};\n  const includeAllSlides = input.include_all_slides || false;\n  const allSlides = input.slides || [];\n  const slideImage = input.slide_image || null;\n\n  // Build context about the presentation\n  let slideContext = '';\n\n  if (currentSlide.number) {\n    slideContext += `\\n\\nSLIDE ATUAL (${currentSlide.number}):\\n`;\n    if (currentSlide.text && currentSlide.text.length > 0) {\n      slideContext += currentSlide.text.join('\\n');\n    }\n    if (currentSlide.shapes && currentSlide.shapes.length > 0) {\n      slideContext += '\\n\\nElementos do slide:\\n';\n      currentSlide.shapes.forEach(s => {\n        if (s.text) slideContext += `- ${s.name}: ${s.text}\\n`;\n      });\n    }\n  }\n\n  if (includeAllSlides && allSlides.length > 0) {\n    slideContext += '\\n\\nTODOS OS SLIDES DA APRESENTAÇÃO:\\n';\n    allSlides.forEach(slide => {\n      slideContext += `\\nSlide ${slide.number}:\\n`;\n      if (slide.text && slide.text.length > 0) {\n        slideContext += slide.text.join('\\n');\n      }\n    });\n  }\n\n  const output = {\n    json: {\n      sessionId,\n      userMessage,\n      slideContext,\n      currentSlideNumber: currentSlide.number || null,\n      has_image: !!slideImage,\n    }\n  };\n\n  // Attach image as binary for vision\n  if (slideImage) {\n    output.binary = {\n      data: {\n        data: slideImage,\n        mimeType: 'image/png',\n        fileName: 'slide.png',\n      }\n    };\n  }\n\n  return [output];"
-          },
-          "id": "b8002d76-3371-47ea-b15f-24351eb0521d",
-          "name": "Prepare Data2",
-          "type": "n8n-nodes-base.code",
-          "typeVersion": 2,
-          "position": [
-            1696,
-            4384
-          ]
-        },
-        {
-          "parameters": {
-            "model": "gpt-5.2-chat-latest",
-            "options": {}
-          },
-          "id": "5aa35815-b362-492b-ab3e-1127af7e433e",
-          "name": "OpenAI Chat Model4",
-          "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+          "type": "n8n-nodes-base.stickyNote",
           "typeVersion": 1,
           "position": [
-            1872,
-            4592
+            1104,
+            3184
           ],
+          "id": "fe963905-cfdb-4f40-a188-a299d2df01e8",
+          "name": "Sticky Note"
+        },
+        {
+          "parameters": {
+            "content": "## Chat do ppt_interact (consegue editar slides)",
+            "height": 704,
+            "width": 1680
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "typeVersion": 1,
+          "position": [
+            1088,
+            3728
+          ],
+          "id": "83288b84-e599-474c-be6b-f163cb806ca0",
+          "name": "Sticky Note1"
+        },
+        {
+          "parameters": {
+            "content": "## Tradutor dos slides do ppt_interact",
+            "height": 368,
+            "width": 1680
+          },
+          "type": "n8n-nodes-base.stickyNote",
+          "typeVersion": 1,
+          "position": [
+            1104,
+            4496
+          ],
+          "id": "965065be-399e-4119-989c-2fef98fd6e91",
+          "name": "Sticky Note2"
+        },
+        {
+          "parameters": {
+            "toolDescription": "Ferramenta de busca básica usando Google.",
+            "url": "https://serpapi.com/search",
+            "authentication": "genericCredentialType",
+            "genericAuthType": "httpQueryAuth",
+            "sendQuery": true,
+            "queryParameters": {
+              "parameters": [
+                {
+                  "name": "engine",
+                  "value": "google"
+                },
+                {
+                  "name": "q",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters1_Value', ``, 'string') }}"
+                },
+                {
+                  "name": "location",
+                  "value": "Rio Grande do Sul, Brazil"
+                },
+                {
+                  "name": "google_domain",
+                  "value": "google.com.br"
+                },
+                {
+                  "name": "gl",
+                  "value": "br"
+                },
+                {
+                  "name": "hl",
+                  "value": "pt-br"
+                },
+                {
+                  "name": "device",
+                  "value": "desktop"
+                }
+              ]
+            },
+            "options": {}
+          },
+          "type": "n8n-nodes-base.httpRequestTool",
+          "typeVersion": 4.3,
+          "position": [
+            2192,
+            4160
+          ],
+          "id": "ebf3676d-99ea-400c-aca8-33353d2842e2",
+          "name": "Google1",
           "credentials": {
-            "openAiApi": {
-              "id": "g3Ikw9hUcV3sNHD2",
-              "name": "OpenAi ppt-interact"
+            "httpCustomAuth": {
+              "id": "qKnOTJSZTd9nJJET",
+              "name": "Omie teste"
+            },
+            "httpHeaderAuth": {
+              "id": "a6xzsEvXe7Ra14j0",
+              "name": "Header Auth account 3"
+            },
+            "httpQueryAuth": {
+              "id": "yoOlOAmK1laRLPV3",
+              "name": "Google busca"
             }
           }
         },
         {
           "parameters": {
-            "sessionIdType": "customKey",
-            "sessionKey": "={{ $json.sessionId }}",
-            "contextWindowLength": 10
+            "toolDescription": "Retorna dados de slides a partir de um termo de busca. # Quando questionado sobre sugestões de slides, retorne para o usuário somenete os links das imagens presentes no campo metadata.",
+            "method": "POST",
+            "url": "https://primary-production-0ad4f.up.railway.app/webhook/92f32531-bd06-4629-9be4-4b64a12a06d9",
+            "sendBody": true,
+            "bodyParameters": {
+              "parameters": [
+                {
+                  "name": "query",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', ``, 'string') }}"
+                }
+              ]
+            },
+            "options": {},
+            "optimizeResponse": true
           },
-          "id": "f62a973c-702e-46a0-bb5d-222403754f2e",
-          "name": "Simple Memory3",
-          "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-          "typeVersion": 1.2,
+          "type": "n8n-nodes-base.httpRequestTool",
+          "typeVersion": 4.2,
           "position": [
-            2032,
-            4592
-          ]
+            2320,
+            4160
+          ],
+          "id": "6a11944b-d15a-4913-842b-3e531c2f1ac5",
+          "name": "Banco de slides1"
         },
         {
           "parameters": {
-            "jsCode": "// Format the agent response\nconst agentOutput = $input.first().json;\n\nlet responseMessage = '';\n\nif (agentOutput.output) {\n  responseMessage = agentOutput.output;\n} else if (agentOutput.text) {\n  responseMessage = agentOutput.text;\n} else if (typeof agentOutput === 'string') {\n  responseMessage = agentOutput;\n} else {\n  responseMessage = JSON.stringify(agentOutput);\n}\n\nreturn [{\n  json: {\n    message: responseMessage\n  }\n}];"
+            "toolDescription": "Ferramenta para buscas profundas usando Perplexity.",
+            "method": "POST",
+            "url": "https://api.perplexity.ai/search",
+            "authentication": "genericCredentialType",
+            "genericAuthType": "httpHeaderAuth",
+            "sendBody": true,
+            "bodyParameters": {
+              "parameters": [
+                {
+                  "name": "query",
+                  "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `termo a ser buscado`, 'string') }}"
+                }
+              ]
+            },
+            "options": {}
           },
-          "id": "b1c67a34-5f5b-475e-9806-9f76484292f5",
-          "name": "Format Response2",
-          "type": "n8n-nodes-base.code",
-          "typeVersion": 2,
+          "type": "n8n-nodes-base.httpRequestTool",
+          "typeVersion": 4.3,
           "position": [
-            2224,
-            4384
-          ]
+            2464,
+            4160
+          ],
+          "id": "5a7067cd-fdac-47d7-acc3-17cbde88a410",
+          "name": "Perplexity1",
+          "credentials": {
+            "httpHeaderAuth": {
+              "id": "eCJEWUrc23hz9LHt",
+              "name": "Perplexity"
+            }
+          }
+        },
+        {
+          "parameters": {
+            "description": "Ferramenta para busca de documentos na base de conhecimento da empresa. Possui documentos concenituais e técnicos (padrões de execução em power point, excel, modelos etc)",
+            "workflowId": {
+              "__rl": true,
+              "value": "0UCrEB1iVflqCJG3",
+              "mode": "list",
+              "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
+              "cachedResultName": "subflow qdrant"
+            },
+            "workflowInputs": {
+              "mappingMode": "defineBelow",
+              "value": {
+                "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
+              },
+              "matchingColumns": [
+                "query"
+              ],
+              "schema": [
+                {
+                  "id": "query",
+                  "displayName": "query",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "canBeUsedToMatch": true,
+                  "type": "string",
+                  "removed": false
+                }
+              ],
+              "attemptToConvertTypes": false,
+              "convertFieldsToString": false
+            }
+          },
+          "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+          "typeVersion": 2.2,
+          "position": [
+            1952,
+            4160
+          ],
+          "id": "8cc86b31-343a-483c-9992-b41af881a677",
+          "name": "Base de conhecimento1"
+        },
+        {
+          "parameters": {
+            "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/memoria_projetos_notion",
+            "include": "selected",
+            "includeTools": [
+              "Busca_projeto",
+              "Memoria_do_Projeto",
+              "Busca_detalhes_do_projeto",
+              "Busca_atualiza_es_por_tema",
+              "_ltimas_5_atualiza_es_do_projeto"
+            ],
+            "options": {}
+          },
+          "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
+          "typeVersion": 1.2,
+          "position": [
+            2064,
+            4160
+          ],
+          "id": "6b9d57f9-3041-4fec-bc81-475fc43037be",
+          "name": "MCP Client"
         }
       ],
       "connections": {
-        "When chat message received": {
-          "main": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "OpenAI Chat Model": {
-          "ai_languageModel": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_languageModel",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Simple Memory": {
-          "ai_memory": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_memory",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Call 'subflow qdrant'": {
-          "ai_tool": [
-            [
-              {
-                "node": "AI Agent",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
         "OpenAI Chat Model1": {
           "ai_languageModel": [
             [
@@ -23059,11 +22512,6 @@
                 "node": "AI Agent1",
                 "type": "ai_tool",
                 "index": 0
-              },
-              {
-                "node": "Agent Config",
-                "type": "ai_tool",
-                "index": 0
               }
             ]
           ]
@@ -23073,11 +22521,6 @@
             [
               {
                 "node": "AI Agent1",
-                "type": "ai_tool",
-                "index": 0
-              },
-              {
-                "node": "Agent Config",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -23091,11 +22534,6 @@
                 "node": "AI Agent1",
                 "type": "ai_tool",
                 "index": 0
-              },
-              {
-                "node": "Agent Config",
-                "type": "ai_tool",
-                "index": 0
               }
             ]
           ]
@@ -23105,60 +22543,6 @@
             [
               {
                 "node": "AI Agent1",
-                "type": "ai_tool",
-                "index": 0
-              },
-              {
-                "node": "Agent Config",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "AI Agent2": {
-          "main": [
-            []
-          ]
-        },
-        "OpenAI Chat Model2": {
-          "ai_languageModel": [
-            [
-              {
-                "node": "AI Agent2",
-                "type": "ai_languageModel",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Lista projetos": {
-          "ai_tool": [
-            [
-              {
-                "node": "AI Agent2",
-                "type": "ai_tool",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Simple Memory1": {
-          "ai_memory": [
-            [
-              {
-                "node": "AI Agent2",
-                "type": "ai_memory",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Busca de atas": {
-          "ai_tool": [
-            [
-              {
-                "node": "AI Agent2",
                 "type": "ai_tool",
                 "index": 0
               }
@@ -23286,53 +22670,59 @@
             ]
           ]
         },
-        "Agent Config1": {
-          "main": [
+        "Google1": {
+          "ai_tool": [
             [
               {
-                "node": "Format Response2",
-                "type": "main",
+                "node": "Agent Config",
+                "type": "ai_tool",
                 "index": 0
               }
             ]
           ]
         },
-        "Prepare Data2": {
-          "main": [
+        "Banco de slides1": {
+          "ai_tool": [
             [
               {
-                "node": "Agent Config1",
-                "type": "main",
+                "node": "Agent Config",
+                "type": "ai_tool",
                 "index": 0
               }
             ]
           ]
         },
-        "OpenAI Chat Model4": {
-          "ai_languageModel": [
+        "Perplexity1": {
+          "ai_tool": [
             [
               {
-                "node": "Agent Config1",
-                "type": "ai_languageModel",
+                "node": "Agent Config",
+                "type": "ai_tool",
                 "index": 0
               }
             ]
           ]
         },
-        "Simple Memory3": {
-          "ai_memory": [
+        "Base de conhecimento1": {
+          "ai_tool": [
             [
               {
-                "node": "Agent Config1",
-                "type": "ai_memory",
+                "node": "Agent Config",
+                "type": "ai_tool",
                 "index": 0
               }
             ]
           ]
         },
-        "Format Response2": {
-          "main": [
-            []
+        "MCP Client": {
+          "ai_tool": [
+            [
+              {
+                "node": "Agent Config",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
           ]
         }
       },
@@ -23361,10 +22751,10 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
-      "activeVersionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
-      "versionCounter": 1319,
-      "triggerCount": 4,
+      "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
+      "activeVersionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
+      "versionCounter": 1372,
+      "triggerCount": 3,
       "shared": [
         {
           "updatedAt": "2025-12-28T16:41:54.247Z",
@@ -23388,7 +22778,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -23415,7 +22805,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -23423,122 +22813,20 @@
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "updatedAt": "2026-02-22T18:08:07.420Z",
+          "createdAt": "2026-02-22T18:08:07.420Z",
+          "id": "po7oMaMAWSIcH8Cx",
+          "name": "ppt_interact"
+        }
+      ],
       "activeVersion": {
-        "updatedAt": "2026-02-19T20:09:42.878Z",
-        "createdAt": "2026-02-19T20:09:37.686Z",
-        "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
+        "updatedAt": "2026-02-22T18:44:28.054Z",
+        "createdAt": "2026-02-22T18:44:25.867Z",
+        "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
         "workflowId": "gKNGnV5aOelesPEn",
         "nodes": [
-          {
-            "parameters": {
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-            "typeVersion": 1.4,
-            "position": [
-              464,
-              3184
-            ],
-            "id": "0092ce53-b257-43a8-bfc6-e31997605fbe",
-            "name": "When chat message received",
-            "webhookId": "5ba440e1-5711-4fca-9ac5-08601c504ec0"
-          },
-          {
-            "parameters": {
-              "options": {
-                "systemMessage": "Responda apenas com conteudos buscados atraves das ferramentas. As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks"
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.agent",
-            "typeVersion": 3.1,
-            "position": [
-              672,
-              3184
-            ],
-            "id": "107324d8-a24b-418d-a506-d3f62a727197",
-            "name": "AI Agent"
-          },
-          {
-            "parameters": {
-              "model": {
-                "__rl": true,
-                "value": "gpt-5.2-chat-latest",
-                "mode": "list",
-                "cachedResultName": "gpt-5.2-chat-latest"
-              },
-              "builtInTools": {},
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-            "typeVersion": 1.3,
-            "position": [
-              544,
-              3392
-            ],
-            "id": "0e90b97a-b0c6-4dca-a533-e31bd602ab94",
-            "name": "OpenAI Chat Model",
-            "credentials": {
-              "openAiApi": {
-                "id": "qOLCslk7RAXP7UBp",
-                "name": "OpenAi account"
-              }
-            }
-          },
-          {
-            "parameters": {},
-            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-            "typeVersion": 1.3,
-            "position": [
-              688,
-              3392
-            ],
-            "id": "0b677de5-5813-4fff-b54b-1045e7b07c86",
-            "name": "Simple Memory"
-          },
-          {
-            "parameters": {
-              "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
-              "workflowId": {
-                "__rl": true,
-                "value": "0UCrEB1iVflqCJG3",
-                "mode": "list",
-                "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
-                "cachedResultName": "subflow qdrant"
-              },
-              "workflowInputs": {
-                "mappingMode": "defineBelow",
-                "value": {
-                  "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
-                },
-                "matchingColumns": [
-                  "query"
-                ],
-                "schema": [
-                  {
-                    "id": "query",
-                    "displayName": "query",
-                    "required": false,
-                    "defaultMatch": false,
-                    "display": true,
-                    "canBeUsedToMatch": true,
-                    "type": "string",
-                    "removed": false
-                  }
-                ],
-                "attemptToConvertTypes": false,
-                "convertFieldsToString": false
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-            "typeVersion": 2.2,
-            "position": [
-              832,
-              3392
-            ],
-            "id": "89ccb881-f39a-429a-b651-7312f5032442",
-            "name": "Call 'subflow qdrant'"
-          },
           {
             "parameters": {
               "httpMethod": "POST",
@@ -23549,8 +22837,8 @@
             "type": "n8n-nodes-base.webhook",
             "typeVersion": 2.1,
             "position": [
-              1360,
-              3392
+              1344,
+              3296
             ],
             "id": "7c007442-16c4-4a67-b844-0d6722374b03",
             "name": "Webhook",
@@ -23568,8 +22856,8 @@
             "type": "@n8n/n8n-nodes-langchain.agent",
             "typeVersion": 3.1,
             "position": [
-              1744,
-              3392
+              1728,
+              3296
             ],
             "id": "6ee2eb1e-a485-4f66-b814-572326392264",
             "name": "AI Agent1"
@@ -23588,8 +22876,8 @@
             "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
             "typeVersion": 1.3,
             "position": [
-              1680,
-              3568
+              1616,
+              3504
             ],
             "id": "450474fb-9a8b-4427-bd44-9c9e2aba7267",
             "name": "OpenAI Chat Model1",
@@ -23609,8 +22897,8 @@
             "type": "n8n-nodes-base.respondToWebhook",
             "typeVersion": 1.5,
             "position": [
-              2096,
-              3392
+              2080,
+              3296
             ],
             "id": "9510693a-fa19-40e7-8c3a-f60c2530b74d",
             "name": "Respond to Webhook"
@@ -23653,7 +22941,7 @@
             "typeVersion": 2.2,
             "position": [
               1760,
-              3680
+              3520
             ],
             "id": "243eb7f8-1ce1-445e-bcc7-e1417cb64f59",
             "name": "Base de conhecimento"
@@ -23678,8 +22966,8 @@
             "type": "n8n-nodes-base.httpRequestTool",
             "typeVersion": 4.2,
             "position": [
-              1904,
-              3680
+              1872,
+              3520
             ],
             "id": "0d34283e-fefc-49cd-9195-a6e3aed91df9",
             "name": "Banco de slides"
@@ -23705,8 +22993,8 @@
             "type": "n8n-nodes-base.httpRequestTool",
             "typeVersion": 4.3,
             "position": [
-              2032,
-              3680
+              2000,
+              3520
             ],
             "id": "24b3c82c-9d71-4e8d-af38-787caff62e84",
             "name": "Perplexity",
@@ -23761,8 +23049,8 @@
             "type": "n8n-nodes-base.httpRequestTool",
             "typeVersion": 4.3,
             "position": [
-              2160,
-              3680
+              2128,
+              3520
             ],
             "id": "668aded9-2f00-40ae-be07-82603b6bee4f",
             "name": "Google",
@@ -23783,143 +23071,6 @@
           },
           {
             "parameters": {
-              "options": {
-                "systemMessage": "# Contexto\nVocê recebe o conteúdo de um slide de power point ou um range de células do Excel e, opcionalmente, uma mensagem da pessoa que o contruiu e conteúdo dos demais slides/abas. Se houver uma mensagem do usuário, faça o que ele pedir, do contrário você deve realizar uma análise crítica:\n\n## Power Point:\n#### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (busque documentos de referência)\n-Fonte homogênea em todas as caixas com texto\n-Erros de português\n-Tamanho da fonte coerente entre os slides\n-Alinhamento de titulo (mesma posição em todos os slides)\n-Uso adequado de slide mestre\n-Slides contém numeração\n-Unidades nos números (coerência interna no slide)\n-Padrão de frases começarem com letra maiúscula OU cada palavra em letra maiúscula\n-Caso o conteúdo dos demais slides seja passado também os utilize para ver se o slide em questão está bem construído e posicionado na apresentação.\n## Opcional:\n-O usuário também pode pedir sugestões de slides. Nesse caso busque slides na tool de banco de slides e retorne o link da imagem do slide e o link do sharepoint\n\n## Excel:\n### Obrigatório\n-Conteúdo aderente às diretrizes da Píer (indentifique o conteúdo (técnico e teórico) e busque documentos de referência)\n-Fonte homogênea em todas as células\n-Erros de português\n-Tamanho da fonte coerente\n-Aderência sólida com conceitos contábeis e financeiros\n\n# Diretrizes Gerais\n- Suas respostas devem seguir as diretrizes da Píer Partners, e para isso consulte a base de conhecimento disponível, onde diversos documentos sobre os temas com os quais trabalhamos estão disponíveis.\n- Se o usuário pedir a revisão nos dados (números de mercado, índices, etc) utilize as ferramenta de busca na web (Google para buscas simples e Perpexity para buscas avançadas).\n- As respostas devem sempre ser referenciadas com indicadores como [1] e [2] e ao final das respostas que usam fontes deve ser inserido uma seção se fontes com o nome e url destes documentos usando hyperlinks.\n- Seja direto, indo direto para a análise, com profundidade mas sendo breve.\n- Sempre retorne sua resposta em formato Markdown."
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.agent",
-            "typeVersion": 3.1,
-            "position": [
-              3712,
-              3936
-            ],
-            "id": "aae740f9-d1be-4ea9-8e68-9e17962e8b13",
-            "name": "AI Agent2"
-          },
-          {
-            "parameters": {
-              "model": {
-                "__rl": true,
-                "value": "gpt-5.2-chat-latest",
-                "mode": "list",
-                "cachedResultName": "gpt-5.2-chat-latest"
-              },
-              "builtInTools": {},
-              "options": {}
-            },
-            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
-            "typeVersion": 1.3,
-            "position": [
-              3488,
-              4160
-            ],
-            "id": "261a2026-d650-409b-88fc-003293704a11",
-            "name": "OpenAI Chat Model2",
-            "credentials": {
-              "openAiApi": {
-                "id": "g3Ikw9hUcV3sNHD2",
-                "name": "OpenAi ppt-interact"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "descriptionType": "manual",
-              "toolDescription": "Lista os projetos do Notion",
-              "resource": "databasePage",
-              "operation": "getAll",
-              "databaseId": {
-                "__rl": true,
-                "value": "c2af396cc2a347eca452b2b2bf6b9031",
-                "mode": "id"
-              },
-              "returnAll": true,
-              "options": {}
-            },
-            "type": "n8n-nodes-base.notionTool",
-            "typeVersion": 2.2,
-            "position": [
-              4064,
-              4160
-            ],
-            "id": "8a024e46-e765-4d3b-a5e4-b82fa8836bad",
-            "name": "Lista projetos",
-            "credentials": {
-              "notionApi": {
-                "id": "QJqIInVEAt8nkp5t",
-                "name": "Notion Pier"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "contextWindowLength": 10
-            },
-            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-            "typeVersion": 1.3,
-            "position": [
-              3744,
-              4192
-            ],
-            "id": "2999ff4c-a264-43bc-bf76-440d7cd594ac",
-            "name": "Simple Memory1"
-          },
-          {
-            "parameters": {
-              "description": "Ferramenta para busca de atas. é necessário informar o id do projeto, que deve ser buscado pela tool de listagem de projetos",
-              "workflowId": {
-                "__rl": true,
-                "value": "uoyG9WwFxe56M0vy",
-                "mode": "list",
-                "cachedResultUrl": "/workflow/uoyG9WwFxe56M0vy",
-                "cachedResultName": "subflow qdrant atas"
-              },
-              "workflowInputs": {
-                "mappingMode": "defineBelow",
-                "value": {
-                  "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `tema da ata para refinar a busca`, 'string') }}",
-                  "projeto_id": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('projeto_id', `id do projeto, coletado a partir da ferramenta de listagem de projetos`, 'string') }}"
-                },
-                "matchingColumns": [
-                  "query"
-                ],
-                "schema": [
-                  {
-                    "id": "query",
-                    "displayName": "query",
-                    "required": false,
-                    "defaultMatch": false,
-                    "display": true,
-                    "canBeUsedToMatch": true,
-                    "type": "string",
-                    "removed": false
-                  },
-                  {
-                    "id": "projeto_id",
-                    "displayName": "projeto_id",
-                    "required": false,
-                    "defaultMatch": false,
-                    "display": true,
-                    "canBeUsedToMatch": true,
-                    "type": "string",
-                    "removed": false
-                  }
-                ],
-                "attemptToConvertTypes": false,
-                "convertFieldsToString": false
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-            "typeVersion": 2.2,
-            "position": [
-              3904,
-              4224
-            ],
-            "id": "3c6f0965-4681-490b-9db1-68fb30d919d1",
-            "name": "Busca de atas"
-          },
-          {
-            "parameters": {
               "jsCode": "// Extract and prepare data for translation\nconst input = $input.first().json.body;\n\nconst targetLanguage = input.target_language || 'en';\nconst targetLanguageName = input.target_language_name || 'English';\nconst scope = input.translate_scope || 'current';\nconst contentToTranslate = input.content_to_translate || [];\nconst allSlides = input.slides || [];\n\n// Build context from all slides (for terminology consistency)\nlet contextText = '';\nif (allSlides.length > 0) {\n  contextText = allSlides.map(slide => {\n    const shapes = slide.shapes || [];\n    const texts = shapes.map(s => s.original_text).join('\\n');\n    return `Slide ${slide.slide_number}:\\n${texts}`;\n  }).join('\\n\\n---\\n\\n');\n}\n\n// Build content to translate with shape identifiers\n// Format: [SLIDE X][SHAPE:shape_name] text\nlet translateText = '';\nconst shapeMapping = []; // Keep track of slide/shape mapping for response\n\nfor (const slide of contentToTranslate) {\n  for (const shape of (slide.shapes || [])) {\n    translateText += `[SLIDE ${slide.slide_number}][SHAPE:${shape.shape_name}]\\n${shape.original_text}\\n\\n`;\n    shapeMapping.push({\n      slide_number: slide.slide_number,\n      shape_name: shape.shape_name,\n      original_text: shape.original_text\n    });\n  }\n}\n\nreturn [{\n  json: {\n    targetLanguage,\n    targetLanguageName,\n    scope,\n    contextText,\n    translateText,\n    shapeMapping: JSON.stringify(shapeMapping),\n    slideCount: contentToTranslate.length,\n    shapeCount: shapeMapping.length\n  }\n}];"
             },
             "id": "ca663da8-20e0-459c-b83c-2846677dfccc",
@@ -23927,8 +23078,8 @@
             "type": "n8n-nodes-base.code",
             "typeVersion": 2,
             "position": [
-              3008,
-              3568
+              1696,
+              4624
             ]
           },
           {
@@ -23960,8 +23111,8 @@
             "type": "@n8n/n8n-nodes-langchain.openAi",
             "typeVersion": 1.8,
             "position": [
-              3232,
-              3568
+              1920,
+              4624
             ],
             "credentials": {
               "openAiApi": {
@@ -23979,8 +23130,8 @@
             "type": "n8n-nodes-base.code",
             "typeVersion": 2,
             "position": [
-              3520,
-              3568
+              2208,
+              4624
             ]
           },
           {
@@ -23995,8 +23146,8 @@
             "type": "n8n-nodes-base.webhook",
             "typeVersion": 2,
             "position": [
-              2784,
-              3568
+              1472,
+              4624
             ],
             "webhookId": "translate-slides-webhook"
           },
@@ -24020,8 +23171,8 @@
             "type": "n8n-nodes-base.respondToWebhook",
             "typeVersion": 1.1,
             "position": [
-              3728,
-              3568
+              2416,
+              4624
             ]
           },
           {
@@ -24081,7 +23232,7 @@
             "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
             "typeVersion": 1,
             "position": [
-              1744,
+              1680,
               4080
             ],
             "credentials": {
@@ -24102,7 +23253,7 @@
             "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
             "typeVersion": 1.2,
             "position": [
-              1904,
+              1792,
               4080
             ]
           },
@@ -24150,136 +23301,247 @@
             "type": "n8n-nodes-base.code",
             "typeVersion": 2,
             "position": [
-              1552,
-              3392
+              1536,
+              3296
             ],
             "id": "2dcf0e28-cdcf-4cfe-a351-1ef1d68612a7",
             "name": "Code in JavaScript2"
           },
           {
             "parameters": {
-              "promptType": "define",
-              "text": "={{ $json.userMessage }}",
-              "options": {
-                "systemMessage": "=Você é um assistente especializado em apresentações PowerPoint para a empresa Píer Partners. Você ajuda os usuários a criar, melhorar e analisar seus slides.\n\n## Suas capacidades:\n- Avaliar a clareza e efetividade dos slides\n- Sugerir melhorias de layout, texto e design\n- Ajudar a estruturar argumentos e narrativas\n- Simplificar textos complexos\n- Criar resumos executivos\n- Verificar consistência entre slides\n- Responder perguntas sobre melhores práticas de apresentação\n\n## Diretrizes:\n- Seja conciso e direto nas respostas\n- Use bullet points quando apropriado\n- Faça referência específica aos slides quando relevante\n- Mantenha um tom profissional mas amigável\n- Se não tiver informação suficiente sobre os slides, peça mais contexto\n\n## Contexto da apresentação atual:\n{{ $json.slideContext }}"
-              }
+              "content": "## Recebe os chamados do ppt e excel e só retorna isntruções (sem interagir)",
+              "height": 480,
+              "width": 1680
             },
-            "id": "7416da7f-9811-4677-9358-d72af10a82cd",
-            "name": "Agent Config1",
-            "type": "@n8n/n8n-nodes-langchain.agent",
-            "typeVersion": 1.7,
-            "position": [
-              1904,
-              4384
-            ]
-          },
-          {
-            "parameters": {
-              "jsCode": "// Extract data from webhook                                                                                                                  \n  const input = $input.first().json.body;\n                                                                                                                                                \n  const sessionId = input.session_id || 'default';                                 \n  const userMessage = input.message || '';\n  const currentSlide = input.current_slide || {};\n  const includeAllSlides = input.include_all_slides || false;\n  const allSlides = input.slides || [];\n  const slideImage = input.slide_image || null;\n\n  // Build context about the presentation\n  let slideContext = '';\n\n  if (currentSlide.number) {\n    slideContext += `\\n\\nSLIDE ATUAL (${currentSlide.number}):\\n`;\n    if (currentSlide.text && currentSlide.text.length > 0) {\n      slideContext += currentSlide.text.join('\\n');\n    }\n    if (currentSlide.shapes && currentSlide.shapes.length > 0) {\n      slideContext += '\\n\\nElementos do slide:\\n';\n      currentSlide.shapes.forEach(s => {\n        if (s.text) slideContext += `- ${s.name}: ${s.text}\\n`;\n      });\n    }\n  }\n\n  if (includeAllSlides && allSlides.length > 0) {\n    slideContext += '\\n\\nTODOS OS SLIDES DA APRESENTAÇÃO:\\n';\n    allSlides.forEach(slide => {\n      slideContext += `\\nSlide ${slide.number}:\\n`;\n      if (slide.text && slide.text.length > 0) {\n        slideContext += slide.text.join('\\n');\n      }\n    });\n  }\n\n  const output = {\n    json: {\n      sessionId,\n      userMessage,\n      slideContext,\n      currentSlideNumber: currentSlide.number || null,\n      has_image: !!slideImage,\n    }\n  };\n\n  // Attach image as binary for vision\n  if (slideImage) {\n    output.binary = {\n      data: {\n        data: slideImage,\n        mimeType: 'image/png',\n        fileName: 'slide.png',\n      }\n    };\n  }\n\n  return [output];"
-            },
-            "id": "b8002d76-3371-47ea-b15f-24351eb0521d",
-            "name": "Prepare Data2",
-            "type": "n8n-nodes-base.code",
-            "typeVersion": 2,
-            "position": [
-              1696,
-              4384
-            ]
-          },
-          {
-            "parameters": {
-              "model": "gpt-5.2-chat-latest",
-              "options": {}
-            },
-            "id": "5aa35815-b362-492b-ab3e-1127af7e433e",
-            "name": "OpenAI Chat Model4",
-            "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+            "type": "n8n-nodes-base.stickyNote",
             "typeVersion": 1,
             "position": [
-              1872,
-              4592
+              1104,
+              3184
             ],
+            "id": "fe963905-cfdb-4f40-a188-a299d2df01e8",
+            "name": "Sticky Note"
+          },
+          {
+            "parameters": {
+              "content": "## Chat do ppt_interact (consegue editar slides)",
+              "height": 704,
+              "width": 1680
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "typeVersion": 1,
+            "position": [
+              1088,
+              3728
+            ],
+            "id": "83288b84-e599-474c-be6b-f163cb806ca0",
+            "name": "Sticky Note1"
+          },
+          {
+            "parameters": {
+              "content": "## Tradutor dos slides do ppt_interact",
+              "height": 368,
+              "width": 1680
+            },
+            "type": "n8n-nodes-base.stickyNote",
+            "typeVersion": 1,
+            "position": [
+              1104,
+              4496
+            ],
+            "id": "965065be-399e-4119-989c-2fef98fd6e91",
+            "name": "Sticky Note2"
+          },
+          {
+            "parameters": {
+              "toolDescription": "Ferramenta de busca básica usando Google.",
+              "url": "https://serpapi.com/search",
+              "authentication": "genericCredentialType",
+              "genericAuthType": "httpQueryAuth",
+              "sendQuery": true,
+              "queryParameters": {
+                "parameters": [
+                  {
+                    "name": "engine",
+                    "value": "google"
+                  },
+                  {
+                    "name": "q",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters1_Value', ``, 'string') }}"
+                  },
+                  {
+                    "name": "location",
+                    "value": "Rio Grande do Sul, Brazil"
+                  },
+                  {
+                    "name": "google_domain",
+                    "value": "google.com.br"
+                  },
+                  {
+                    "name": "gl",
+                    "value": "br"
+                  },
+                  {
+                    "name": "hl",
+                    "value": "pt-br"
+                  },
+                  {
+                    "name": "device",
+                    "value": "desktop"
+                  }
+                ]
+              },
+              "options": {}
+            },
+            "type": "n8n-nodes-base.httpRequestTool",
+            "typeVersion": 4.3,
+            "position": [
+              2192,
+              4160
+            ],
+            "id": "ebf3676d-99ea-400c-aca8-33353d2842e2",
+            "name": "Google1",
             "credentials": {
-              "openAiApi": {
-                "id": "g3Ikw9hUcV3sNHD2",
-                "name": "OpenAi ppt-interact"
+              "httpCustomAuth": {
+                "id": "qKnOTJSZTd9nJJET",
+                "name": "Omie teste"
+              },
+              "httpHeaderAuth": {
+                "id": "a6xzsEvXe7Ra14j0",
+                "name": "Header Auth account 3"
+              },
+              "httpQueryAuth": {
+                "id": "yoOlOAmK1laRLPV3",
+                "name": "Google busca"
               }
             }
           },
           {
             "parameters": {
-              "sessionIdType": "customKey",
-              "sessionKey": "={{ $json.sessionId }}",
-              "contextWindowLength": 10
+              "toolDescription": "Retorna dados de slides a partir de um termo de busca. # Quando questionado sobre sugestões de slides, retorne para o usuário somenete os links das imagens presentes no campo metadata.",
+              "method": "POST",
+              "url": "https://primary-production-0ad4f.up.railway.app/webhook/92f32531-bd06-4629-9be4-4b64a12a06d9",
+              "sendBody": true,
+              "bodyParameters": {
+                "parameters": [
+                  {
+                    "name": "query",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', ``, 'string') }}"
+                  }
+                ]
+              },
+              "options": {},
+              "optimizeResponse": true
             },
-            "id": "f62a973c-702e-46a0-bb5d-222403754f2e",
-            "name": "Simple Memory3",
-            "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-            "typeVersion": 1.2,
+            "type": "n8n-nodes-base.httpRequestTool",
+            "typeVersion": 4.2,
             "position": [
-              2032,
-              4592
-            ]
+              2320,
+              4160
+            ],
+            "id": "6a11944b-d15a-4913-842b-3e531c2f1ac5",
+            "name": "Banco de slides1"
           },
           {
             "parameters": {
-              "jsCode": "// Format the agent response\nconst agentOutput = $input.first().json;\n\nlet responseMessage = '';\n\nif (agentOutput.output) {\n  responseMessage = agentOutput.output;\n} else if (agentOutput.text) {\n  responseMessage = agentOutput.text;\n} else if (typeof agentOutput === 'string') {\n  responseMessage = agentOutput;\n} else {\n  responseMessage = JSON.stringify(agentOutput);\n}\n\nreturn [{\n  json: {\n    message: responseMessage\n  }\n}];"
+              "toolDescription": "Ferramenta para buscas profundas usando Perplexity.",
+              "method": "POST",
+              "url": "https://api.perplexity.ai/search",
+              "authentication": "genericCredentialType",
+              "genericAuthType": "httpHeaderAuth",
+              "sendBody": true,
+              "bodyParameters": {
+                "parameters": [
+                  {
+                    "name": "query",
+                    "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('parameters0_Value', `termo a ser buscado`, 'string') }}"
+                  }
+                ]
+              },
+              "options": {}
             },
-            "id": "b1c67a34-5f5b-475e-9806-9f76484292f5",
-            "name": "Format Response2",
-            "type": "n8n-nodes-base.code",
-            "typeVersion": 2,
+            "type": "n8n-nodes-base.httpRequestTool",
+            "typeVersion": 4.3,
             "position": [
-              2224,
-              4384
-            ]
+              2464,
+              4160
+            ],
+            "id": "5a7067cd-fdac-47d7-acc3-17cbde88a410",
+            "name": "Perplexity1",
+            "credentials": {
+              "httpHeaderAuth": {
+                "id": "eCJEWUrc23hz9LHt",
+                "name": "Perplexity"
+              }
+            }
+          },
+          {
+            "parameters": {
+              "description": "Ferramenta para busca de documentos na base de conhecimento da empresa. Possui documentos concenituais e técnicos (padrões de execução em power point, excel, modelos etc)",
+              "workflowId": {
+                "__rl": true,
+                "value": "0UCrEB1iVflqCJG3",
+                "mode": "list",
+                "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
+                "cachedResultName": "subflow qdrant"
+              },
+              "workflowInputs": {
+                "mappingMode": "defineBelow",
+                "value": {
+                  "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
+                },
+                "matchingColumns": [
+                  "query"
+                ],
+                "schema": [
+                  {
+                    "id": "query",
+                    "displayName": "query",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "canBeUsedToMatch": true,
+                    "type": "string",
+                    "removed": false
+                  }
+                ],
+                "attemptToConvertTypes": false,
+                "convertFieldsToString": false
+              }
+            },
+            "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+            "typeVersion": 2.2,
+            "position": [
+              1952,
+              4160
+            ],
+            "id": "8cc86b31-343a-483c-9992-b41af881a677",
+            "name": "Base de conhecimento1"
+          },
+          {
+            "parameters": {
+              "endpointUrl": "https://primary-production-0ad4f.up.railway.app/mcp/memoria_projetos_notion",
+              "include": "selected",
+              "includeTools": [
+                "Busca_projeto",
+                "Memoria_do_Projeto",
+                "Busca_detalhes_do_projeto",
+                "Busca_atualiza_es_por_tema",
+                "_ltimas_5_atualiza_es_do_projeto"
+              ],
+              "options": {}
+            },
+            "type": "@n8n/n8n-nodes-langchain.mcpClientTool",
+            "typeVersion": 1.2,
+            "position": [
+              2064,
+              4160
+            ],
+            "id": "6b9d57f9-3041-4fec-bc81-475fc43037be",
+            "name": "MCP Client"
           }
         ],
         "connections": {
-          "When chat message received": {
-            "main": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "OpenAI Chat Model": {
-            "ai_languageModel": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_languageModel",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Simple Memory": {
-            "ai_memory": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_memory",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Call 'subflow qdrant'": {
-            "ai_tool": [
-              [
-                {
-                  "node": "AI Agent",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
           "OpenAI Chat Model1": {
             "ai_languageModel": [
               [
@@ -24320,11 +23582,6 @@
                   "node": "AI Agent1",
                   "type": "ai_tool",
                   "index": 0
-                },
-                {
-                  "node": "Agent Config",
-                  "type": "ai_tool",
-                  "index": 0
                 }
               ]
             ]
@@ -24334,11 +23591,6 @@
               [
                 {
                   "node": "AI Agent1",
-                  "type": "ai_tool",
-                  "index": 0
-                },
-                {
-                  "node": "Agent Config",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -24352,11 +23604,6 @@
                   "node": "AI Agent1",
                   "type": "ai_tool",
                   "index": 0
-                },
-                {
-                  "node": "Agent Config",
-                  "type": "ai_tool",
-                  "index": 0
                 }
               ]
             ]
@@ -24366,60 +23613,6 @@
               [
                 {
                   "node": "AI Agent1",
-                  "type": "ai_tool",
-                  "index": 0
-                },
-                {
-                  "node": "Agent Config",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "AI Agent2": {
-            "main": [
-              []
-            ]
-          },
-          "OpenAI Chat Model2": {
-            "ai_languageModel": [
-              [
-                {
-                  "node": "AI Agent2",
-                  "type": "ai_languageModel",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Lista projetos": {
-            "ai_tool": [
-              [
-                {
-                  "node": "AI Agent2",
-                  "type": "ai_tool",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Simple Memory1": {
-            "ai_memory": [
-              [
-                {
-                  "node": "AI Agent2",
-                  "type": "ai_memory",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Busca de atas": {
-            "ai_tool": [
-              [
-                {
-                  "node": "AI Agent2",
                   "type": "ai_tool",
                   "index": 0
                 }
@@ -24547,66 +23740,72 @@
               ]
             ]
           },
-          "Agent Config1": {
-            "main": [
+          "Google1": {
+            "ai_tool": [
               [
                 {
-                  "node": "Format Response2",
-                  "type": "main",
+                  "node": "Agent Config",
+                  "type": "ai_tool",
                   "index": 0
                 }
               ]
             ]
           },
-          "Prepare Data2": {
-            "main": [
+          "Banco de slides1": {
+            "ai_tool": [
               [
                 {
-                  "node": "Agent Config1",
-                  "type": "main",
+                  "node": "Agent Config",
+                  "type": "ai_tool",
                   "index": 0
                 }
               ]
             ]
           },
-          "OpenAI Chat Model4": {
-            "ai_languageModel": [
+          "Perplexity1": {
+            "ai_tool": [
               [
                 {
-                  "node": "Agent Config1",
-                  "type": "ai_languageModel",
+                  "node": "Agent Config",
+                  "type": "ai_tool",
                   "index": 0
                 }
               ]
             ]
           },
-          "Simple Memory3": {
-            "ai_memory": [
+          "Base de conhecimento1": {
+            "ai_tool": [
               [
                 {
-                  "node": "Agent Config1",
-                  "type": "ai_memory",
+                  "node": "Agent Config",
+                  "type": "ai_tool",
                   "index": 0
                 }
               ]
             ]
           },
-          "Format Response2": {
-            "main": [
-              []
+          "MCP Client": {
+            "ai_tool": [
+              [
+                {
+                  "node": "Agent Config",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
             ]
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 6657422f",
+        "name": "Version e2cf8e09",
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-19T20:09:42.865Z",
-            "id": 374,
+            "createdAt": "2026-02-22T18:44:28.048Z",
+            "id": 389,
             "workflowId": "gKNGnV5aOelesPEn",
-            "versionId": "6657422f-569a-4979-8dc0-9091eccdac5a",
+            "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -24774,7 +23973,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -24801,7 +24000,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -26284,7 +25483,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -26311,7 +25510,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -28380,7 +27579,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -28407,7 +27606,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -29606,7 +28805,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29633,7 +28832,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -29885,7 +29084,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -29912,7 +29111,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -30490,7 +29689,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -30517,7 +29716,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -30932,10 +30131,10 @@
       }
     },
     {
-      "updatedAt": "2026-02-21T20:10:09.576Z",
+      "updatedAt": "2026-02-22T18:08:34.886Z",
       "createdAt": "2026-02-09T17:02:49.887Z",
       "id": "9RXJ-hlStfYdNxlhDaV_1",
-      "name": "Atualizador Memória Projeto",
+      "name": "Atualizador Memória Projeto (notion)",
       "description": null,
       "active": true,
       "isArchived": false,
@@ -32124,7 +31323,7 @@
       },
       "versionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
       "activeVersionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
-      "versionCounter": 609,
+      "versionCounter": 610,
       "triggerCount": 4,
       "shared": [
         {
@@ -32149,7 +31348,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -32176,7 +31375,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
@@ -33167,10 +32366,10 @@
       }
     },
     {
-      "updatedAt": "2026-02-19T20:08:58.487Z",
+      "updatedAt": "2026-02-22T18:09:33.876Z",
       "createdAt": "2026-02-19T14:01:54.293Z",
       "id": "Wv0QxOvsSa6EHF2R",
-      "name": "Atualizador kb",
+      "name": "Atualizador kb (notion)",
       "description": null,
       "active": true,
       "isArchived": false,
@@ -33583,7 +32782,7 @@
       "pinData": {},
       "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
-      "versionCounter": 25,
+      "versionCounter": 26,
       "triggerCount": 1,
       "shared": [
         {
@@ -33608,7 +32807,7 @@
                 "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                 "projectId": "RM08XJW2UnVIRsZg",
                 "user": {
-                  "updatedAt": "2026-02-21T16:27:29.023Z",
+                  "updatedAt": "2026-02-22T07:20:22.878Z",
                   "createdAt": "2025-03-17T20:44:04.376Z",
                   "id": "943e4ad9-1546-4b0a-bf6b-e5109b891a03",
                   "email": "sistemas@pierpartners.com.br",
@@ -33635,7 +32834,7 @@
                   },
                   "disabled": false,
                   "mfaEnabled": false,
-                  "lastActiveAt": "2026-02-21",
+                  "lastActiveAt": "2026-02-22",
                   "isPending": false
                 }
               }
