@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-02-23T01:52:34.355427+00:00",
-    "table_count": 29,
+    "generated_at": "2026-02-24T01:49:47.430733+00:00",
+    "table_count": 31,
     "function_count": 173
   },
   "tables": [
@@ -39,6 +39,10 @@
     },
     {
       "schema": "public",
+      "name": "initiative_allocations"
+    },
+    {
+      "schema": "public",
       "name": "initiative_clients"
     },
     {
@@ -56,6 +60,10 @@
     {
       "schema": "public",
       "name": "initiative_projects"
+    },
+    {
+      "schema": "public",
+      "name": "initiative_resources"
     },
     {
       "schema": "public",
