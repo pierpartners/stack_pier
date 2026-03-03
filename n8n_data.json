@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-02T01:49:28.059451+00:00",
+    "generated_at": "2026-03-03T01:51:29.764678+00:00",
     "workflow_count": 24
   },
   "workflows": [
@@ -920,7 +920,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 2,
       "shared": [
         {
@@ -2721,7 +2721,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 2,
       "shared": [
         {
@@ -3735,7 +3735,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 0,
       "shared": [
         {
@@ -4095,7 +4095,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 1,
       "shared": [
         {
@@ -4781,7 +4781,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 81,
+      "versionCounter": 83,
       "triggerCount": 3,
       "shared": [
         {
@@ -6611,7 +6611,7 @@
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
-      "versionCounter": 77,
+      "versionCounter": 79,
       "triggerCount": 1,
       "shared": [
         {
@@ -8326,7 +8326,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 1,
       "shared": [
         {
@@ -9144,7 +9144,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 150,
+      "versionCounter": 152,
       "triggerCount": 2,
       "shared": [
         {
@@ -11370,7 +11370,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 293,
+      "versionCounter": 295,
       "triggerCount": 1,
       "shared": [
         {
@@ -13488,7 +13488,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 82,
+      "versionCounter": 84,
       "triggerCount": 1,
       "shared": [
         {
@@ -15699,7 +15699,7 @@
       "pinData": {},
       "versionId": "9334320a-0961-40d0-a621-a25f13d63348",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 138,
+      "versionCounter": 140,
       "triggerCount": 3,
       "shared": [
         {
@@ -17729,7 +17729,7 @@
       "pinData": {},
       "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
       "activeVersionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
-      "versionCounter": 88,
+      "versionCounter": 90,
       "triggerCount": 1,
       "shared": [
         {
@@ -18505,7 +18505,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 84,
+      "versionCounter": 86,
       "triggerCount": 2,
       "shared": [
         {
@@ -19508,7 +19508,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 83,
+      "versionCounter": 85,
       "triggerCount": 1,
       "shared": [
         {
@@ -20049,7 +20049,7 @@
       }
     },
     {
-      "updatedAt": "2026-02-23T13:58:12.865Z",
+      "updatedAt": "2026-03-02T18:34:40.475Z",
       "createdAt": "2025-11-03T18:49:50.947Z",
       "id": "lgZV72cGrL5CzAdm",
       "name": "MCPs (notion)",
@@ -20126,49 +20126,6 @@
               "name": "OpenAi account"
             }
           }
-        },
-        {
-          "parameters": {
-            "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
-            "workflowId": {
-              "__rl": true,
-              "value": "0UCrEB1iVflqCJG3",
-              "mode": "list",
-              "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
-              "cachedResultName": "subflow qdrant"
-            },
-            "workflowInputs": {
-              "mappingMode": "defineBelow",
-              "value": {
-                "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
-              },
-              "matchingColumns": [
-                "query"
-              ],
-              "schema": [
-                {
-                  "id": "query",
-                  "displayName": "query",
-                  "required": false,
-                  "defaultMatch": false,
-                  "display": true,
-                  "canBeUsedToMatch": true,
-                  "type": "string",
-                  "removed": false
-                }
-              ],
-              "attemptToConvertTypes": false,
-              "convertFieldsToString": false
-            }
-          },
-          "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-          "typeVersion": 2.2,
-          "position": [
-            -224,
-            912
-          ],
-          "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
-          "name": "Busca de documentos"
         },
         {
           "parameters": {
@@ -20458,6 +20415,49 @@
               "name": "Supabase marujo-pier"
             }
           }
+        },
+        {
+          "parameters": {
+            "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
+            "workflowId": {
+              "__rl": true,
+              "value": "0UCrEB1iVflqCJG3",
+              "mode": "list",
+              "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
+              "cachedResultName": "subflow qdrant"
+            },
+            "workflowInputs": {
+              "mappingMode": "defineBelow",
+              "value": {
+                "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
+              },
+              "matchingColumns": [
+                "query"
+              ],
+              "schema": [
+                {
+                  "id": "query",
+                  "displayName": "query",
+                  "required": false,
+                  "defaultMatch": false,
+                  "display": true,
+                  "canBeUsedToMatch": true,
+                  "type": "string",
+                  "removed": false
+                }
+              ],
+              "attemptToConvertTypes": false,
+              "convertFieldsToString": false
+            }
+          },
+          "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+          "typeVersion": 2.2,
+          "position": [
+            -224,
+            928
+          ],
+          "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
+          "name": "Busca de documentos"
         }
       ],
       "connections": {
@@ -20489,17 +20489,6 @@
               {
                 "node": "Wiki",
                 "type": "ai_embedding",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Busca de documentos": {
-          "ai_tool": [
-            [
-              {
-                "node": "MCP Knowledge Base",
-                "type": "ai_tool",
                 "index": 0
               }
             ]
@@ -20581,6 +20570,17 @@
               }
             ]
           ]
+        },
+        "Busca de documentos": {
+          "ai_tool": [
+            [
+              {
+                "node": "MCP Knowledge Base",
+                "type": "ai_tool",
+                "index": 0
+              }
+            ]
+          ]
         }
       },
       "settings": {
@@ -20591,9 +20591,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "71bfbd52-a4fe-4aa8-8c0d-b5ee32d3ab83",
-      "activeVersionId": "71bfbd52-a4fe-4aa8-8c0d-b5ee32d3ab83",
-      "versionCounter": 400,
+      "versionId": "349cd22b-655c-4b8a-b1df-6f6bc52a97e8",
+      "activeVersionId": "349cd22b-655c-4b8a-b1df-6f6bc52a97e8",
+      "versionCounter": 422,
       "triggerCount": 3,
       "shared": [
         {
@@ -20616,9 +20616,9 @@
       ],
       "tags": [],
       "activeVersion": {
-        "updatedAt": "2026-02-23T13:58:15.095Z",
-        "createdAt": "2026-02-23T13:58:12.880Z",
-        "versionId": "71bfbd52-a4fe-4aa8-8c0d-b5ee32d3ab83",
+        "updatedAt": "2026-03-02T18:34:42.541Z",
+        "createdAt": "2026-03-02T18:34:40.475Z",
+        "versionId": "349cd22b-655c-4b8a-b1df-6f6bc52a97e8",
         "workflowId": "lgZV72cGrL5CzAdm",
         "nodes": [
           {
@@ -20690,49 +20690,6 @@
                 "name": "OpenAi account"
               }
             }
-          },
-          {
-            "parameters": {
-              "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
-              "workflowId": {
-                "__rl": true,
-                "value": "0UCrEB1iVflqCJG3",
-                "mode": "list",
-                "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
-                "cachedResultName": "subflow qdrant"
-              },
-              "workflowInputs": {
-                "mappingMode": "defineBelow",
-                "value": {
-                  "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
-                },
-                "matchingColumns": [
-                  "query"
-                ],
-                "schema": [
-                  {
-                    "id": "query",
-                    "displayName": "query",
-                    "required": false,
-                    "defaultMatch": false,
-                    "display": true,
-                    "canBeUsedToMatch": true,
-                    "type": "string",
-                    "removed": false
-                  }
-                ],
-                "attemptToConvertTypes": false,
-                "convertFieldsToString": false
-              }
-            },
-            "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
-            "typeVersion": 2.2,
-            "position": [
-              -224,
-              912
-            ],
-            "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
-            "name": "Busca de documentos"
           },
           {
             "parameters": {
@@ -21022,6 +20979,49 @@
                 "name": "Supabase marujo-pier"
               }
             }
+          },
+          {
+            "parameters": {
+              "description": "Ferramenta para busca de documentos na base de conhecimento da empresa",
+              "workflowId": {
+                "__rl": true,
+                "value": "0UCrEB1iVflqCJG3",
+                "mode": "list",
+                "cachedResultUrl": "/workflow/0UCrEB1iVflqCJG3",
+                "cachedResultName": "subflow qdrant"
+              },
+              "workflowInputs": {
+                "mappingMode": "defineBelow",
+                "value": {
+                  "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', `termo para busca de documentos na base de conhecimento da empresa`, 'string') }}"
+                },
+                "matchingColumns": [
+                  "query"
+                ],
+                "schema": [
+                  {
+                    "id": "query",
+                    "displayName": "query",
+                    "required": false,
+                    "defaultMatch": false,
+                    "display": true,
+                    "canBeUsedToMatch": true,
+                    "type": "string",
+                    "removed": false
+                  }
+                ],
+                "attemptToConvertTypes": false,
+                "convertFieldsToString": false
+              }
+            },
+            "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+            "typeVersion": 2.2,
+            "position": [
+              -224,
+              928
+            ],
+            "id": "6b5b7920-e788-4e1b-8be3-a4783b7e2ffe",
+            "name": "Busca de documentos"
           }
         ],
         "connections": {
@@ -21053,17 +21053,6 @@
                 {
                   "node": "Wiki",
                   "type": "ai_embedding",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Busca de documentos": {
-            "ai_tool": [
-              [
-                {
-                  "node": "MCP Knowledge Base",
-                  "type": "ai_tool",
                   "index": 0
                 }
               ]
@@ -21145,18 +21134,29 @@
                 }
               ]
             ]
+          },
+          "Busca de documentos": {
+            "ai_tool": [
+              [
+                {
+                  "node": "MCP Knowledge Base",
+                  "type": "ai_tool",
+                  "index": 0
+                }
+              ]
+            ]
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 71bfbd52",
+        "name": "Version 349cd22b",
         "description": "",
-        "autosaved": true,
+        "autosaved": false,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-02-23T13:58:15.089Z",
-            "id": 392,
+            "createdAt": "2026-03-02T18:34:42.527Z",
+            "id": 402,
             "workflowId": "lgZV72cGrL5CzAdm",
-            "versionId": "71bfbd52-a4fe-4aa8-8c0d-b5ee32d3ab83",
+            "versionId": "349cd22b-655c-4b8a-b1df-6f6bc52a97e8",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -22168,7 +22168,7 @@
       "pinData": {},
       "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
       "activeVersionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
-      "versionCounter": 1388,
+      "versionCounter": 1390,
       "triggerCount": 3,
       "shared": [
         {
@@ -23189,7 +23189,7 @@
       }
     },
     {
-      "updatedAt": "2026-01-22T21:13:36.480Z",
+      "updatedAt": "2026-03-02T18:27:35.435Z",
       "createdAt": "2026-01-06T20:55:08.071Z",
       "id": "0UCrEB1iVflqCJG3",
       "name": "subflow qdrant",
@@ -23269,7 +23269,7 @@
           "type": "n8n-nodes-qdrant.qdrant",
           "typeVersion": 1,
           "position": [
-            592,
+            608,
             2208
           ],
           "id": "ed9d93da-6874-4645-816f-96ba35e3d257",
@@ -23322,9 +23322,9 @@
           }
         ]
       },
-      "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "activeVersionId": "1d373284-c146-4089-bf29-73442844cf8d",
-      "versionCounter": 90,
+      "versionId": "204f2727-960a-4628-8188-f0d6277c4382",
+      "activeVersionId": "204f2727-960a-4628-8188-f0d6277c4382",
+      "versionCounter": 101,
       "triggerCount": 0,
       "shared": [
         {
@@ -23354,9 +23354,9 @@
         }
       ],
       "activeVersion": {
-        "updatedAt": "2026-01-22T21:13:42.843Z",
-        "createdAt": "2026-01-22T21:13:36.486Z",
-        "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
+        "updatedAt": "2026-03-02T18:27:38.059Z",
+        "createdAt": "2026-03-02T18:27:35.436Z",
+        "versionId": "204f2727-960a-4628-8188-f0d6277c4382",
         "workflowId": "0UCrEB1iVflqCJG3",
         "nodes": [
           {
@@ -23431,7 +23431,7 @@
             "type": "n8n-nodes-qdrant.qdrant",
             "typeVersion": 1,
             "position": [
-              592,
+              608,
               2208
             ],
             "id": "ed9d93da-6874-4645-816f-96ba35e3d257",
@@ -23469,15 +23469,15 @@
           }
         },
         "authors": "sistemas pier",
-        "name": "Version 1d373284",
+        "name": "Version 204f2727",
         "description": "",
-        "autosaved": true,
+        "autosaved": false,
         "workflowPublishHistory": [
           {
-            "createdAt": "2026-01-22T21:13:42.837Z",
-            "id": 157,
+            "createdAt": "2026-03-02T18:27:38.054Z",
+            "id": 400,
             "workflowId": "0UCrEB1iVflqCJG3",
-            "versionId": "1d373284-c146-4089-bf29-73442844cf8d",
+            "versionId": "204f2727-960a-4628-8188-f0d6277c4382",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -24795,7 +24795,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 166,
+      "versionCounter": 168,
       "triggerCount": 1,
       "shared": [
         {
@@ -26852,7 +26852,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 786,
+      "versionCounter": 788,
       "triggerCount": 3,
       "shared": [
         {
@@ -28039,7 +28039,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 97,
+      "versionCounter": 99,
       "triggerCount": 0,
       "shared": [
         {
@@ -28279,7 +28279,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 73,
+      "versionCounter": 75,
       "triggerCount": 0,
       "shared": [
         {
@@ -28845,7 +28845,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 166,
+      "versionCounter": 168,
       "triggerCount": 1,
       "shared": [
         {
@@ -30465,7 +30465,7 @@
       },
       "versionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
       "activeVersionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
-      "versionCounter": 626,
+      "versionCounter": 628,
       "triggerCount": 4,
       "shared": [
         {
@@ -31885,7 +31885,7 @@
       "pinData": {},
       "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
-      "versionCounter": 38,
+      "versionCounter": 40,
       "triggerCount": 1,
       "shared": [
         {
