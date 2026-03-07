@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-06T01:50:28.174333+00:00",
-    "table_count": 31,
+    "generated_at": "2026-03-07T01:42:28.283252+00:00",
+    "table_count": 30,
     "function_count": 173
   },
   "tables": [
@@ -112,10 +112,6 @@
     {
       "schema": "public",
       "name": "projetos_gp_rodrigo"
-    },
-    {
-      "schema": "public",
-      "name": "reunioes_pinhao"
     },
     {
       "schema": "public",
