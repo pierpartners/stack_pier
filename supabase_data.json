@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-09T01:51:16.971384+00:00",
-    "table_count": 30,
+    "generated_at": "2026-03-10T01:44:17.790439+00:00",
+    "table_count": 31,
     "function_count": 173
   },
   "tables": [
@@ -96,6 +96,10 @@
     {
       "schema": "public",
       "name": "metadata_datalake"
+    },
+    {
+      "schema": "public",
+      "name": "pending_logins"
     },
     {
       "schema": "public",
