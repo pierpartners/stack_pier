@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T01:47:45.160963+00:00",
-    "workflow_count": 25
+    "generated_at": "2026-03-14T01:45:16.045853+00:00",
+    "workflow_count": 24
   },
   "workflows": [
     {
@@ -920,7 +920,7 @@
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 2,
       "shared": [
         {
@@ -2721,7 +2721,7 @@
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 2,
       "shared": [
         {
@@ -3735,7 +3735,7 @@
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 0,
       "shared": [
         {
@@ -4095,7 +4095,7 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 1,
       "shared": [
         {
@@ -4781,7 +4781,7 @@
       "pinData": {},
       "versionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
       "activeVersionId": "c93ebfcf-9970-4188-ba6c-eb11587006c3",
-      "versionCounter": 101,
+      "versionCounter": 102,
       "triggerCount": 3,
       "shared": [
         {
@@ -8326,7 +8326,7 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 1,
       "shared": [
         {
@@ -9144,7 +9144,7 @@
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 170,
+      "versionCounter": 171,
       "triggerCount": 2,
       "shared": [
         {
@@ -11370,7 +11370,7 @@
       },
       "versionId": "15f999af-dff3-41f5-8594-c88855544f61",
       "activeVersionId": "042400e8-6ec8-4057-8ed1-eb69f69fb12f",
-      "versionCounter": 313,
+      "versionCounter": 314,
       "triggerCount": 1,
       "shared": [
         {
@@ -13488,7 +13488,7 @@
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 102,
+      "versionCounter": 103,
       "triggerCount": 1,
       "shared": [
         {
@@ -15699,7 +15699,7 @@
       "pinData": {},
       "versionId": "9334320a-0961-40d0-a621-a25f13d63348",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 158,
+      "versionCounter": 159,
       "triggerCount": 3,
       "shared": [
         {
@@ -17729,7 +17729,7 @@
       "pinData": {},
       "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
       "activeVersionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
-      "versionCounter": 108,
+      "versionCounter": 109,
       "triggerCount": 1,
       "shared": [
         {
@@ -18505,7 +18505,7 @@
       "pinData": {},
       "versionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
       "activeVersionId": "9c07c617-a178-4ab8-a68d-54132453a16d",
-      "versionCounter": 104,
+      "versionCounter": 105,
       "triggerCount": 2,
       "shared": [
         {
@@ -19508,7 +19508,7 @@
       "pinData": {},
       "versionId": "d3f8b631-02c4-4fe7-a4e7-2218aa56e552",
       "activeVersionId": "afc620b4-6648-4e5e-803f-dea860e4b58b",
-      "versionCounter": 103,
+      "versionCounter": 104,
       "triggerCount": 1,
       "shared": [
         {
@@ -20593,7 +20593,7 @@
       "pinData": {},
       "versionId": "a1ec96ce-33b2-4ab1-b25b-18f062b83697",
       "activeVersionId": "a1ec96ce-33b2-4ab1-b25b-18f062b83697",
-      "versionCounter": 454,
+      "versionCounter": 455,
       "triggerCount": 3,
       "shared": [
         {
@@ -22168,7 +22168,7 @@
       "pinData": {},
       "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
       "activeVersionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
-      "versionCounter": 1408,
+      "versionCounter": 1409,
       "triggerCount": 3,
       "shared": [
         {
@@ -23182,300 +23182,6 @@
             "id": 389,
             "workflowId": "gKNGnV5aOelesPEn",
             "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
-            "event": "activated",
-            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
-          }
-        ]
-      }
-    },
-    {
-      "updatedAt": "2026-03-04T21:02:02.233Z",
-      "createdAt": "2026-01-06T20:55:08.071Z",
-      "id": "0UCrEB1iVflqCJG3",
-      "name": "subflow qdrant",
-      "description": null,
-      "active": true,
-      "isArchived": false,
-      "nodes": [
-        {
-          "parameters": {
-            "workflowInputs": {
-              "values": [
-                {
-                  "name": "query"
-                }
-              ]
-            }
-          },
-          "type": "n8n-nodes-base.executeWorkflowTrigger",
-          "typeVersion": 1.1,
-          "position": [
-            144,
-            2208
-          ],
-          "id": "f489625d-e8db-4e5b-846e-9fdbff344736",
-          "name": "When Executed by Another Workflow"
-        },
-        {
-          "parameters": {
-            "method": "POST",
-            "url": "https://api.openai.com/v1/embeddings",
-            "authentication": "predefinedCredentialType",
-            "nodeCredentialType": "openAiApi",
-            "sendBody": true,
-            "bodyParameters": {
-              "parameters": [
-                {
-                  "name": "input",
-                  "value": "=como faler um modelo de m&a"
-                },
-                {
-                  "name": "model",
-                  "value": "text-embedding-3-large"
-                }
-              ]
-            },
-            "options": {}
-          },
-          "id": "fd03af17-4972-4f31-b35d-5f1f1af01e83",
-          "name": "Get OpenAI embeddings2",
-          "type": "n8n-nodes-base.httpRequest",
-          "position": [
-            368,
-            2208
-          ],
-          "typeVersion": 4.2,
-          "credentials": {
-            "openAiApi": {
-              "id": "qOLCslk7RAXP7UBp",
-              "name": "OpenAi account"
-            }
-          }
-        },
-        {
-          "parameters": {
-            "resource": "search",
-            "operation": "queryPoints",
-            "collectionName": {
-              "__rl": true,
-              "value": "pier",
-              "mode": "list",
-              "cachedResultName": "pier"
-            },
-            "query": "={{ $json.data[0].embedding.toJsonString()  }}",
-            "requestOptions": {}
-          },
-          "type": "n8n-nodes-qdrant.qdrant",
-          "typeVersion": 1,
-          "position": [
-            608,
-            2208
-          ],
-          "id": "ed9d93da-6874-4645-816f-96ba35e3d257",
-          "name": "Query Points",
-          "credentials": {
-            "qdrantRestApi": {
-              "id": "DyeI41wEFTwZpaf7",
-              "name": "Qdrant account"
-            }
-          }
-        }
-      ],
-      "connections": {
-        "When Executed by Another Workflow": {
-          "main": [
-            [
-              {
-                "node": "Get OpenAI embeddings2",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        },
-        "Get OpenAI embeddings2": {
-          "main": [
-            [
-              {
-                "node": "Query Points",
-                "type": "main",
-                "index": 0
-              }
-            ]
-          ]
-        }
-      },
-      "settings": {
-        "executionOrder": "v1"
-      },
-      "staticData": null,
-      "meta": {
-        "templateCredsSetupCompleted": true
-      },
-      "pinData": {
-        "When Executed by Another Workflow": [
-          {
-            "json": {
-              "query": "diretrizes apresentação PowerPoint Píer Partners"
-            }
-          }
-        ]
-      },
-      "versionId": "1498f078-fec3-42c9-9640-660bd2aecf0a",
-      "activeVersionId": "cff2ce72-a908-4d44-b36e-c22c0546a897",
-      "versionCounter": 122,
-      "triggerCount": 0,
-      "shared": [
-        {
-          "updatedAt": "2026-01-06T20:55:08.071Z",
-          "createdAt": "2026-01-06T20:55:08.071Z",
-          "role": "workflow:owner",
-          "workflowId": "0UCrEB1iVflqCJG3",
-          "projectId": "RM08XJW2UnVIRsZg",
-          "project": {
-            "updatedAt": "2025-03-17T20:45:29.222Z",
-            "createdAt": "2025-03-17T20:44:07.833Z",
-            "id": "RM08XJW2UnVIRsZg",
-            "name": "sistemas pier <sistemas@pierpartners.com.br>",
-            "type": "personal",
-            "icon": null,
-            "description": null,
-            "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
-          }
-        }
-      ],
-      "tags": [
-        {
-          "updatedAt": "2026-01-11T18:30:01.637Z",
-          "createdAt": "2026-01-11T18:30:01.637Z",
-          "id": "qgFYYFG154gb0OYi",
-          "name": "knowledge-base"
-        }
-      ],
-      "activeVersion": {
-        "updatedAt": "2026-03-04T21:00:35.440Z",
-        "createdAt": "2026-03-04T21:00:33.585Z",
-        "versionId": "cff2ce72-a908-4d44-b36e-c22c0546a897",
-        "workflowId": "0UCrEB1iVflqCJG3",
-        "nodes": [
-          {
-            "parameters": {
-              "workflowInputs": {
-                "values": [
-                  {
-                    "name": "query"
-                  }
-                ]
-              }
-            },
-            "type": "n8n-nodes-base.executeWorkflowTrigger",
-            "typeVersion": 1.1,
-            "position": [
-              144,
-              2208
-            ],
-            "id": "f489625d-e8db-4e5b-846e-9fdbff344736",
-            "name": "When Executed by Another Workflow"
-          },
-          {
-            "parameters": {
-              "method": "POST",
-              "url": "https://api.openai.com/v1/embeddings",
-              "authentication": "predefinedCredentialType",
-              "nodeCredentialType": "openAiApi",
-              "sendBody": true,
-              "bodyParameters": {
-                "parameters": [
-                  {
-                    "name": "input",
-                    "value": "=como faler um modelo de m&a"
-                  },
-                  {
-                    "name": "model",
-                    "value": "text-embedding-3-large"
-                  }
-                ]
-              },
-              "options": {}
-            },
-            "id": "fd03af17-4972-4f31-b35d-5f1f1af01e83",
-            "name": "Get OpenAI embeddings2",
-            "type": "n8n-nodes-base.httpRequest",
-            "position": [
-              368,
-              2208
-            ],
-            "typeVersion": 4.2,
-            "credentials": {
-              "openAiApi": {
-                "id": "qOLCslk7RAXP7UBp",
-                "name": "OpenAi account"
-              }
-            }
-          },
-          {
-            "parameters": {
-              "resource": "search",
-              "operation": "queryPoints",
-              "collectionName": {
-                "__rl": true,
-                "value": "pier",
-                "mode": "list",
-                "cachedResultName": "pier"
-              },
-              "query": "={{ $json.data[0].embedding }}",
-              "requestOptions": {}
-            },
-            "type": "n8n-nodes-qdrant.qdrant",
-            "typeVersion": 1,
-            "position": [
-              608,
-              2208
-            ],
-            "id": "ed9d93da-6874-4645-816f-96ba35e3d257",
-            "name": "Query Points",
-            "credentials": {
-              "qdrantRestApi": {
-                "id": "DyeI41wEFTwZpaf7",
-                "name": "Qdrant account"
-              }
-            }
-          }
-        ],
-        "connections": {
-          "When Executed by Another Workflow": {
-            "main": [
-              [
-                {
-                  "node": "Get OpenAI embeddings2",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          },
-          "Get OpenAI embeddings2": {
-            "main": [
-              [
-                {
-                  "node": "Query Points",
-                  "type": "main",
-                  "index": 0
-                }
-              ]
-            ]
-          }
-        },
-        "authors": "sistemas pier",
-        "name": "Version cff2ce72",
-        "description": "",
-        "autosaved": true,
-        "workflowPublishHistory": [
-          {
-            "createdAt": "2026-03-04T21:00:35.421Z",
-            "id": 411,
-            "workflowId": "0UCrEB1iVflqCJG3",
-            "versionId": "cff2ce72-a908-4d44-b36e-c22c0546a897",
             "event": "activated",
             "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
@@ -24793,7 +24499,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 186,
+      "versionCounter": 187,
       "triggerCount": 1,
       "shared": [
         {
@@ -26850,7 +26556,7 @@
       "pinData": {},
       "versionId": "28adf56c-f43a-4ece-9e37-1780d6507795",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 806,
+      "versionCounter": 807,
       "triggerCount": 3,
       "shared": [
         {
@@ -28037,7 +27743,7 @@
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 117,
+      "versionCounter": 118,
       "triggerCount": 0,
       "shared": [
         {
@@ -28277,7 +27983,7 @@
       },
       "versionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
-      "versionCounter": 84,
+      "versionCounter": 85,
       "triggerCount": 0,
       "shared": [
         {
@@ -28843,7 +28549,7 @@
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 186,
+      "versionCounter": 187,
       "triggerCount": 1,
       "shared": [
         {
@@ -30463,7 +30169,7 @@
       },
       "versionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
       "activeVersionId": "b903d639-5213-43e3-a077-14dd740e3ad8",
-      "versionCounter": 646,
+      "versionCounter": 647,
       "triggerCount": 4,
       "shared": [
         {
@@ -31883,7 +31589,7 @@
       "pinData": {},
       "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
-      "versionCounter": 49,
+      "versionCounter": 50,
       "triggerCount": 1,
       "shared": [
         {
@@ -32443,7 +32149,7 @@
       "pinData": {},
       "versionId": "6a702bbd-b381-463c-8aa5-c63a3868062e",
       "activeVersionId": "6a702bbd-b381-463c-8aa5-c63a3868062e",
-      "versionCounter": 36,
+      "versionCounter": 37,
       "triggerCount": 1,
       "shared": [
         {
