@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-28T01:52:09.722790+00:00",
-    "table_count": 31,
-    "function_count": 173
+    "generated_at": "2026-03-29T02:03:33.638685+00:00",
+    "table_count": 36,
+    "function_count": 174
   },
   "tables": [
     {
@@ -12,6 +12,26 @@
     {
       "schema": "public",
       "name": "capitulos_material_de_apresentacoes"
+    },
+    {
+      "schema": "public",
+      "name": "collab_collaborators"
+    },
+    {
+      "schema": "public",
+      "name": "collab_documents"
+    },
+    {
+      "schema": "public",
+      "name": "collab_presence"
+    },
+    {
+      "schema": "public",
+      "name": "collab_yjs_snapshots"
+    },
+    {
+      "schema": "public",
+      "name": "collab_yjs_updates"
     },
     {
       "schema": "public",
@@ -219,6 +239,11 @@
     {
       "schema": "public",
       "name": "buscar_reunioes_por_telefone",
+      "tables_used": []
+    },
+    {
+      "schema": "public",
+      "name": "collab_update_timestamp",
       "tables_used": []
     },
     {

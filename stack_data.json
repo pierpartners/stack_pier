@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-28T01:52:09.783138+00:00",
+    "generated_at": "2026-03-29T02:03:33.697898+00:00",
     "workflow_count": 24,
-    "table_count": 31,
-    "function_count": 173,
+    "table_count": 36,
+    "function_count": 174,
     "tables_used_by_n8n": 7,
     "functions_used_by_n8n": 2
   },
@@ -32312,6 +32312,31 @@
         "used_by_n8n": false
       },
       {
+        "name": "collab_collaborators",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "collab_documents",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "collab_presence",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "collab_yjs_snapshots",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "collab_yjs_updates",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
         "name": "custom_agents_pier",
         "schema": "public",
         "used_by_n8n": false
@@ -32565,6 +32590,12 @@
         "schema": "public",
         "tables_used": [],
         "used_by_n8n": true
+      },
+      {
+        "name": "collab_update_timestamp",
+        "schema": "public",
+        "tables_used": [],
+        "used_by_n8n": false
       },
       {
         "name": "cosine_distance",
