@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-12T02:38:15.615564+00:00",
+    "generated_at": "2026-05-13T02:44:25.133794+00:00",
     "workflow_count": 18
   },
   "workflows": [
@@ -18168,7 +18168,7 @@
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 1117,
+      "versionCounter": 1479,
       "triggerCount": 1,
       "shared": [
         {
@@ -19124,7 +19124,7 @@
       }
     },
     {
-      "updatedAt": "2026-03-19T14:17:03.988Z",
+      "updatedAt": "2026-05-12T21:08:24.991Z",
       "createdAt": "2026-01-13T20:34:52.637Z",
       "id": "Gd71iDc87upbWWRbk67L4",
       "name": "Drops",
@@ -19401,9 +19401,9 @@
             "operation": "get",
             "calendarId": {
               "__rl": true,
-              "value": "AQMkAGEyMWEwYjRjLTFlNjgtNGU2Zi1hZWFjLTk4YmUzOGYyOWFkMABGAAADRPa9zOD-MUyykpAHnkLLiwcATUKYMOowO0OwrgDTeYvCvwAAAgEGAAAATUKYMOowO0OwrgDTeYvCvwAAAQvGowAAAA==",
+              "value": "AAMkAGZhMmY1MTI4LWY1NWQtNDZkZS05MjJiLWMyOWVkZjI2YjQ4YQBGAAAAAABHyIJLWjuzQYmOUjioH0J0BwCiu2jbZdvQTIAFTLwI4jkTAAAAAAEGAACiu2jbZdvQTIAFTLwI4jkTAAAB0SXtAAA=",
               "mode": "list",
-              "cachedResultName": "Calendar"
+              "cachedResultName": "Calendário"
             },
             "eventId": {
               "__rl": true,
@@ -20206,7 +20206,8 @@
         "timeSavedMode": "fixed",
         "timezone": "America/Sao_Paulo",
         "callerPolicy": "workflowsFromSameOwner",
-        "errorWorkflow": "JETmLBaO3fj2xDYa-A4Nc"
+        "errorWorkflow": "JETmLBaO3fj2xDYa-A4Nc",
+        "binaryMode": "separate"
       },
       "staticData": {
         "node:Schedule Trigger": {
@@ -20223,9 +20224,9 @@
         "templateCredsSetupCompleted": true
       },
       "pinData": {},
-      "versionId": "b6a5ce25-4c5c-4ccf-afce-f8530258a91f",
+      "versionId": "320c5638-4ae5-4537-ab5c-46f37d528ad1",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 820,
+      "versionCounter": 824,
       "triggerCount": 3,
       "shared": [
         {
@@ -21333,6 +21334,22 @@
         "description": "",
         "autosaved": true,
         "workflowPublishHistory": [
+          {
+            "createdAt": "2026-05-12T21:08:11.972Z",
+            "id": 419,
+            "workflowId": "Gd71iDc87upbWWRbk67L4",
+            "versionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
+            "event": "deactivated",
+            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
+          },
+          {
+            "createdAt": "2026-05-12T21:08:12.067Z",
+            "id": 420,
+            "workflowId": "Gd71iDc87upbWWRbk67L4",
+            "versionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
+            "event": "activated",
+            "userId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
+          },
           {
             "createdAt": "2026-01-20T15:10:57.654Z",
             "id": 139,
