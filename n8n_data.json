@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-09T02:33:33.411334+00:00",
+    "generated_at": "2026-08-06T02:07:49.352294+00:00",
     "workflow_count": 19
   },
   "workflows": [
@@ -911,17 +911,24 @@
       },
       "staticData": {
         "node:Schedule Trigger": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         }
       },
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "1fa3cae8-6a76-42d9-b7a6-9f5c09aa0c26",
       "activeVersionId": "51ea158c-b00b-427e-8d45-18628c1571e4",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 2,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-03-17T22:29:16.893Z",
@@ -937,6 +944,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -1848,6 +1856,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -2712,17 +2721,24 @@
       },
       "staticData": {
         "node:Schedule Trigger": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         }
       },
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "befcd110-0954-43cf-b0c9-8c869d8f8a56",
       "activeVersionId": "9d02184b-80e1-4d67-91f3-5c2d13242da9",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 2,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-03-21T19:29:10.369Z",
@@ -2738,6 +2754,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -3590,6 +3607,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -3732,11 +3750,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "bd27b239-4622-4717-a75a-8337eaffce6b",
       "activeVersionId": "4a85bbe9-6378-47b2-860e-101971853036",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 0,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-03-22T17:28:33.947Z",
@@ -3752,6 +3772,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -3880,6 +3901,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -4082,6 +4104,7 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {
         "When clicking ‘Test workflow’": [
           {
@@ -4095,8 +4118,9 @@
       },
       "versionId": "826e036d-9272-446b-a5d7-06fe19433727",
       "activeVersionId": "a2534668-5960-4f3e-9dbe-39cffece1a7f",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-03-28T14:48:54.388Z",
@@ -4112,6 +4136,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -4300,6 +4325,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -5646,11 +5672,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "e86fd688-e242-4e28-b55b-02045e4f36e8",
       "activeVersionId": "d8405cb5-c4c5-4d2c-8b9f-da156c00c49a",
       "versionCounter": 81,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-05-08T16:23:40.335Z",
@@ -5666,6 +5694,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -6995,6 +7024,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -7318,6 +7348,7 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {
         "Webhook": [
           {
@@ -7364,8 +7395,9 @@
       },
       "versionId": "dd03550c-87f0-427e-864c-748881b0692b",
       "activeVersionId": "20d37c24-c6b7-48a2-86d4-f6999d9bc8f0",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-05-20T11:32:03.232Z",
@@ -7381,6 +7413,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -7688,6 +7721,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -8179,11 +8213,13 @@
       },
       "staticData": null,
       "meta": null,
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "9382025e-9621-473c-a86d-1ea19aa14124",
       "activeVersionId": "9382025e-9621-473c-a86d-1ea19aa14124",
-      "versionCounter": 185,
+      "versionCounter": 193,
       "triggerCount": 2,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-06-05T11:33:44.658Z",
@@ -8199,6 +8235,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -8677,6 +8714,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 9382025e",
         "description": "",
@@ -9150,11 +9188,13 @@
       },
       "staticData": null,
       "meta": null,
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "bb05ee16-db73-4db8-aa80-f19dfdd015e9",
       "activeVersionId": "d4006dc6-2fb9-4e42-9704-ce7e7793bd22",
-      "versionCounter": 117,
+      "versionCounter": 125,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-06-28T21:32:19.687Z",
@@ -9170,6 +9210,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -9615,6 +9656,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "system migration",
         "name": null,
         "description": null,
@@ -11349,23 +11391,40 @@
       },
       "staticData": {
         "node:Schedule Trigger": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         },
         "node:Schedule Trigger1": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         },
         "node:Schedule Trigger2": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         }
       },
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "256c58d2-2c3b-4547-87af-bcd602795af5",
       "activeVersionId": "9334320a-0961-40d0-a621-a25f13d63348",
-      "versionCounter": 175,
+      "versionCounter": 183,
       "triggerCount": 3,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-07-23T19:13:20.373Z",
@@ -11381,6 +11440,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -13093,6 +13153,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 9334320a",
         "description": "",
@@ -13391,11 +13452,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
       "activeVersionId": "1c090313-d8de-478c-bed6-5a591c33fb53",
-      "versionCounter": 123,
+      "versionCounter": 131,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-08-29T19:19:26.579Z",
@@ -13411,6 +13474,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -13701,6 +13765,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 1c090313",
         "description": "",
@@ -14259,11 +14324,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "a1ec96ce-33b2-4ab1-b25b-18f062b83697",
       "activeVersionId": "a1ec96ce-33b2-4ab1-b25b-18f062b83697",
-      "versionCounter": 469,
+      "versionCounter": 477,
       "triggerCount": 3,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-11-03T18:49:50.947Z",
@@ -14279,6 +14346,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -14816,6 +14884,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version a1ec96ce",
         "description": "",
@@ -15834,11 +15903,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
       "activeVersionId": "e2cf8e09-3c0f-48c4-96ed-f6b07f7e9dcb",
-      "versionCounter": 1423,
+      "versionCounter": 1431,
       "triggerCount": 3,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2025-12-28T16:41:54.247Z",
@@ -15854,6 +15925,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -16841,6 +16913,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version e2cf8e09",
         "description": "",
@@ -18159,17 +18232,24 @@
       },
       "staticData": {
         "node:Schedule Trigger": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         }
       },
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "d2d9c8dc-1cd5-4125-8197-6693b288dcfc",
       "activeVersionId": "2d4618b2-5a5f-41bf-a9e7-511c0dfb9e6e",
-      "versionCounter": 21400,
+      "versionCounter": 21624,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-01-11T13:41:07.747Z",
@@ -18185,6 +18265,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -19107,6 +19188,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 2d4618b2",
         "description": "",
@@ -20211,23 +20293,40 @@
       },
       "staticData": {
         "node:Schedule Trigger": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         },
         "node:Schedule Trigger1": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         },
         "node:Schedule Trigger2": {
-          "recurrenceRules": []
+          "recurrenceRules": [
+            null
+          ],
+          "recurrenceRuleSignatures": [
+            null
+          ]
         }
       },
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "320c5638-4ae5-4537-ab5c-46f37d528ad1",
       "activeVersionId": "a943ad4a-fcf1-43ff-8ab5-91eb6991fbd8",
-      "versionCounter": 826,
+      "versionCounter": 834,
       "triggerCount": 3,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-01-13T20:34:52.637Z",
@@ -20243,6 +20342,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -21329,6 +21429,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version a943ad4a",
         "description": "",
@@ -21426,11 +21527,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
       "activeVersionId": "39f53063-d891-4c03-abb6-81cc5daf0e18",
-      "versionCounter": 132,
+      "versionCounter": 140,
       "triggerCount": 0,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-01-15T18:09:37.363Z",
@@ -21446,6 +21549,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -21512,6 +21616,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 39f53063",
         "description": "",
@@ -21657,6 +21762,7 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {
         "When Executed by Another Workflow": [
           {
@@ -21671,6 +21777,7 @@
       "activeVersionId": "cd04dd40-c930-42a1-aae3-ddd91e279e32",
       "versionCounter": 96,
       "triggerCount": 0,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-01-22T20:42:37.817Z",
@@ -21686,6 +21793,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -21816,6 +21924,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version cd04dd40",
         "description": "",
@@ -22232,11 +22341,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "c928be73-99ad-45c0-86de-52965487eee2",
       "activeVersionId": "6f920e06-88d9-4ba5-840d-faddcdea3f23",
-      "versionCounter": 201,
+      "versionCounter": 209,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-02-01T20:10:04.801Z",
@@ -22252,6 +22363,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -22646,6 +22758,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 6f920e06",
         "description": "",
@@ -23076,11 +23189,13 @@
         }
       },
       "meta": null,
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "activeVersionId": "3afde06e-2038-4dc5-af66-1aee389ca9c7",
       "versionCounter": 61,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-02-19T14:01:54.293Z",
@@ -23096,6 +23211,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -23501,6 +23617,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version 3afde06e",
         "description": "",
@@ -23613,11 +23730,13 @@
       "meta": {
         "templateCredsSetupCompleted": true
       },
+      "nodeGroups": [],
       "pinData": {},
       "versionId": "c666fb02-c851-4513-b586-0ba4dafb600a",
       "activeVersionId": "c666fb02-c851-4513-b586-0ba4dafb600a",
-      "versionCounter": 67,
+      "versionCounter": 75,
       "triggerCount": 1,
+      "sourceWorkflowId": null,
       "shared": [
         {
           "updatedAt": "2026-05-13T22:32:37.116Z",
@@ -23633,6 +23752,7 @@
             "type": "personal",
             "icon": null,
             "description": null,
+            "customTelemetryTags": [],
             "creatorId": "943e4ad9-1546-4b0a-bf6b-e5109b891a03"
           }
         }
@@ -23723,6 +23843,7 @@
             ]
           }
         },
+        "nodeGroups": [],
         "authors": "sistemas pier",
         "name": "Version c666fb02",
         "description": "",
