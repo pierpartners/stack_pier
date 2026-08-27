@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-08-26T01:02:17.624230+00:00",
+    "generated_at": "2026-08-27T06:58:07.726158+00:00",
     "workflow_count": 19,
-    "table_count": 36,
+    "table_count": 37,
     "function_count": 174,
     "tables_used_by_n8n": 5,
     "functions_used_by_n8n": 1
@@ -23954,6 +23954,11 @@
       },
       {
         "name": "initiative_ideas",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_project_team",
         "schema": "public",
         "used_by_n8n": false
       },
