@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-09-06T02:38:08.130373+00:00",
+    "generated_at": "2026-09-07T02:35:58.971049+00:00",
     "workflow_count": 19,
-    "table_count": 37,
+    "table_count": 39,
     "function_count": 174,
     "tables_used_by_n8n": 5,
     "functions_used_by_n8n": 1
@@ -23948,12 +23948,22 @@
         "used_by_n8n": false
       },
       {
+        "name": "initiative_deliverables",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
         "name": "initiative_frentes",
         "schema": "public",
         "used_by_n8n": false
       },
       {
         "name": "initiative_ideas",
+        "schema": "public",
+        "used_by_n8n": false
+      },
+      {
+        "name": "initiative_milestones",
         "schema": "public",
         "used_by_n8n": false
       },

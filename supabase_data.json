@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-06T02:38:08.083777+00:00",
-    "table_count": 37,
+    "generated_at": "2026-09-07T02:35:58.906367+00:00",
+    "table_count": 39,
     "function_count": 174
   },
   "tables": [
@@ -71,11 +71,19 @@
     },
     {
       "schema": "public",
+      "name": "initiative_deliverables"
+    },
+    {
+      "schema": "public",
       "name": "initiative_frentes"
     },
     {
       "schema": "public",
       "name": "initiative_ideas"
+    },
+    {
+      "schema": "public",
+      "name": "initiative_milestones"
     },
     {
       "schema": "public",
